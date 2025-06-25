@@ -24,11 +24,13 @@
 				"parallax" : 0,
 				"friction": 0.6}'
             >
+
+                <!-- Banner-->
                 <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_40727648">
                     <div class="img-inner dark" >
-                        <img fetchpriority="high" decoding="async" width="1920" height="768" src="wp-content/uploads/2024/09/banner.jpg" class="attachment-original size-original" alt="" srcset="https://vantaihaidang.net/wp-content/uploads/2024/09/banner.jpg 1920w, https://vantaihaidang.net/wp-content/uploads/2024/09/banner-300x120.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/09/banner-1024x410.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/09/banner-768x307.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/09/banner-1536x614.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />
+                        <img fetchpriority="high" decoding="async" width="1920" height="768" src="wp-content/uploads/2025/06/banner.jpg" class="attachment-original size-original" alt="" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/06/banner.jpg 1920w, https://vantaiducphuc.com/wp-content/uploads/2025/06/banner.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/06/banner.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/06/banner.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/06/banner.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />
+<!--                        <img fetchpriority="high" decoding="async" width="1920" height="768" src="wp-content/uploads/2024/09/banner.jpg" class="attachment-original size-original" alt="" srcset="https://vantaihaidang.net/wp-content/uploads/2024/09/banner.jpg 1920w, https://vantaihaidang.net/wp-content/uploads/2024/09/banner-300x120.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/09/banner-1024x410.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/09/banner-768x307.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/09/banner-1536x614.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />-->
                     </div>
-
                     <style>
                         #image_40727648 {
                             width: 100%;
@@ -51,16 +53,21 @@
                 }
             </style>
         </div>
-
+        <!-- About Us -->
+        <!-- Slider -->
         <div class="row row-collapse align-middle"  id="row-1794704275">
             <div id="col-1740662412" class="col hide-for-small medium-6 small-12 large-6"  >
                 <div class="col-inner"  >
                     <div class="row large-columns-1 medium-columns- small-columns- row-collapse slider row-slider slider-nav-simple"  data-flickity-options='{&quot;imagesLoaded&quot;: true, &quot;groupCells&quot;: &quot;100%&quot;, &quot;dragThreshold&quot; : 5, &quot;cellAlign&quot;: &quot;left&quot;,&quot;wrapAround&quot;: true,&quot;prevNextButtons&quot;: true,&quot;percentPosition&quot;: true,&quot;pageDots&quot;: false, &quot;rightToLeft&quot;: false, &quot;autoPlay&quot; : 2000}' >
+                        <!-- Thay đổi ảnh trong slider-->
                         <div class="gallery-col col" >
                             <div class="col-inner">
-                                <a class="image-lightbox lightbox-gallery" href="wp-content/uploads/2025/05/z6630844334302_32c7aa7a03272e9c4e85daafa0264ef9-1024x768.jpg" title="">            <div class="box has-hover gallery-box box-none">
+                                <a class="image-lightbox lightbox-gallery" href="wp-content/uploads/2025/07/slider1.jpg" title="">
+                                    <div class="box has-hover gallery-box box-none">
                                         <div class="box-image image-cover" style="padding-top:90%;">
-                                            <img decoding="async" width="1020" height="765" src="wp-content/uploads/2025/05/z6630844334302_32c7aa7a03272e9c4e85daafa0264ef9-1024x768.jpg" class="attachment-large size-large" alt="" ids="1552,1551,1550,1549" style="none" type="slider" col_spacing="collapse" columns="1" slider_nav_style="simple" auto_slide="2000" image_height="90%" image_size="large" srcset="https://vantaihaidang.net/wp-content/uploads/2025/05/z6630844334302_32c7aa7a03272e9c4e85daafa0264ef9-1024x768.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2025/05/z6630844334302_32c7aa7a03272e9c4e85daafa0264ef9-300x225.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2025/05/z6630844334302_32c7aa7a03272e9c4e85daafa0264ef9-768x576.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2025/05/z6630844334302_32c7aa7a03272e9c4e85daafa0264ef9-1536x1152.jpg 1536w, https://vantaihaidang.net/wp-content/uploads/2025/05/z6630844334302_32c7aa7a03272e9c4e85daafa0264ef9-2048x1536.jpg 2048w" sizes="(max-width: 1020px) 100vw, 1020px" />                                                              </div>
+                                                <!-- Updated-->
+<!--                                            <img decoding="async" width="1020" height="765" src="wp-content/uploads/2025/07/slider1.jpg" class="attachment-large size-large" alt="" ids="1552,1551,1550,1549" style="none" type="slider" col_spacing="collapse" columns="1" slider_nav_style="simple" auto_slide="2000" image_height="90%" image_size="large" srcset="https://vantaihaidang.com/wp-content/uploads/2025/05/z6630844334302_32c7aa7a03272e9c4e85daafa0264ef9-1024x768.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2025/05/z6630844334302_32c7aa7a03272e9c4e85daafa0264ef9-300x225.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2025/05/z6630844334302_32c7aa7a03272e9c4e85daafa0264ef9-768x576.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2025/05/z6630844334302_32c7aa7a03272e9c4e85daafa0264ef9-1536x1152.jpg 1536w, https://vantaihaidang.net/wp-content/uploads/2025/05/z6630844334302_32c7aa7a03272e9c4e85daafa0264ef9-2048x1536.jpg 2048w" sizes="(max-width: 1020px) 100vw, 1020px" />                                                              </div>-->
+                                            <img decoding="async" width="1020" height="765" src="wp-content/uploads/2025/07/slider1.jpg" class="attachment-large size-large" alt="" ids="1552,1551,1550,1549" style="none" type="slider" col_spacing="collapse" columns="1" slider_nav_style="simple" auto_slide="2000" image_height="90%" image_size="large" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/slider1.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider1.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider1.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider1.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider1.jpg 2048w" sizes="(max-width: 1020px) 100vw, 1020px" />                                                              </div>
                                         <div class="box-text text-left" >
                                             <p></p>
                                         </div>
@@ -279,6 +286,7 @@
             </style>
         </div>
 
+        <!-- Dich vu cua chung toi -->
         <div class="row"  id="row-1391694967">
             <div id="col-265503343" class="col small-12 large-12"  >
                 <div class="col-inner"  >
@@ -355,7 +363,6 @@
                 </div>
             </div>
         </div>
-
         <div id="gap-235276140" class="gap-element clearfix" style="display:block; height:auto;">
             <style>
                 #gap-235276140 {
@@ -368,6 +375,8 @@
                 }
             </style>
         </div>
+
+        <!-- Danh gia tu KH -->
         <section class="section danhgia dark" id="section_421335048">
             <div class="section-bg fill" >
                 <img loading="lazy" decoding="async" width="1600" height="586" src="wp-content/uploads/2025/05/2.jpg" class="bg" alt="" srcset="https://vantaihaidang.net/wp-content/uploads/2025/05/2.jpg 1600w, https://vantaihaidang.net/wp-content/uploads/2025/05/2-300x110.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2025/05/2-1024x375.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2025/05/2-768x281.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2025/05/2-1536x563.jpg 1536w" sizes="auto, (max-width: 1600px) 100vw, 1600px" />						<div class="section-bg-overlay absolute fill"></div>
@@ -614,9 +623,7 @@
                 }
             </style>
         </section>
-
         <div id="gap-2090897068" class="gap-element clearfix" style="display:block; height:auto;">
-
             <style>
                 #gap-2090897068 {
                     padding-top: 38px;
@@ -629,19 +636,17 @@
             </style>
         </div>
 
+        <!-- Image Box-->
         <div class="row row-small"  id="row-1517473553">
-
             <div id="col-283218209" class="col small-12 large-12"  >
                 <div class="col-inner"  >
-
-
                     <div class="box has-hover   has-hover box-none box-text-bottom" >
-
                         <div class="box-image" >
                             <div class="" >
-                                <img loading="lazy" decoding="async" width="1190" height="197" src="wp-content/uploads/2024/07/img4.jpg" class="attachment- size-" alt="" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/img4.jpg 1190w, https://vantaihaidang.net/wp-content/uploads/2024/07/img4-300x50.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/07/img4-1024x170.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/07/img4-768x127.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/07/img4-600x99.jpg 600w" sizes="auto, (max-width: 1190px) 100vw, 1190px" />											</div>
+                                <!-- thay src va srcset-->
+                                <img loading="lazy" decoding="async" width="1190" height="197" src="wp-content/uploads/2024/07/img4.jpg" class="attachment- size-" alt="" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/img4.jpg 1190w, https://vantaihaidang.net/wp-content/uploads/2024/07/img4-300x50.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/07/img4-1024x170.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/07/img4-768x127.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/07/img4-600x99.jpg 600w" sizes="auto, (max-width: 1190px) 100vw, 1190px" />
+                            </div>
                         </div>
-
                         <div class="box-text text-center" >
                             <div class="box-text-inner">
 
@@ -650,14 +655,11 @@
                             </div>
                         </div>
                     </div>
-
                 </div>
             </div>
-
-
         </div>
-        <div id="gap-1853996580" class="gap-element clearfix" style="display:block; height:auto;">
 
+        <div id="gap-1853996580" class="gap-element clearfix" style="display:block; height:auto;">
             <style>
                 #gap-1853996580 {
                     padding-top: 28px;
@@ -669,20 +671,15 @@
                 }
             </style>
         </div>
-
+        <!-- VIDEO VẬN TẢI -->
         <div class="row"  id="row-348473402">
-
             <div id="col-1721262417" class="col small-12 large-12"  >
-                <div class="col-inner"  >
-
-
+                <div class="col-inner">
                     <div class="container section-title-container" ><h2 class="section-title section-title-normal"><b></b><span class="section-title-main" >VIDEO VẬN TẢI</span><b></b><a href="https://www.youtube.com/@haidangtransport0311" target="_blank" rel="noopener">Xem thêm<i class="icon-angle-right" ></i></a></h2></div>
                     <div class="row"  id="row-576209768">
 
                         <div id="col-1762107488" class="col small-12 large-12"  >
                             <div class="col-inner"  >
-
-
 
                                 <div class="banner has-hover has-video" id="banner-458414069">
                                     <div class="banner-inner fill">
@@ -729,20 +726,14 @@
                     </div>
                 </div>
             </div>
-
-
         </div>
+
+        <!-- Tin tức nổi bật -->
         <div class="row"  id="row-1474409516">
-
             <div id="col-977208196" class="col small-12 large-12"  >
-                <div class="col-inner"  >
-
-
+                <div class="col-inner">
                     <div class="container section-title-container" ><h2 class="section-title section-title-normal"><b></b><span class="section-title-main" >Tin tức nổi bật</span><b></b><a href="#" target >Xem thêm<i class="icon-angle-right" ></i></a></h2></div>
-
-
                     <div class="row large-columns-3 medium-columns-1 small-columns-1 has-shadow row-box-shadow-3 slider row-slider slider-nav-simple slider-nav-push"  data-flickity-options='{&quot;imagesLoaded&quot;: true, &quot;groupCells&quot;: &quot;100%&quot;, &quot;dragThreshold&quot; : 5, &quot;cellAlign&quot;: &quot;left&quot;,&quot;wrapAround&quot;: true,&quot;prevNextButtons&quot;: true,&quot;percentPosition&quot;: true,&quot;pageDots&quot;: false, &quot;rightToLeft&quot;: false, &quot;autoPlay&quot; : false}' >
-
                         <div class="col post-item" >
                             <div class="col-inner">
                                 <div class="box box-normal box-text-bottom box-blog-post has-hover">
@@ -762,9 +753,6 @@
                                             <div class="is-divider"></div>
                                             <p class="from_the_blog_excerpt ">
                                                 Quy cách đóng gói hàng hóa là điều tất cả chúng ta đều nên biết. Đặc biệt là khi bạn muốn gửi hàng hóa hoặc khi bạn là đơn vị vận chuyển. Hãy xem ngay tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể dưới đây để trang bị cho mình những kiến thức bổ ích nhé! Quy định chung...					</p>
-
-
-
                                         </div>
                                     </div>
                                 </div>
@@ -780,17 +768,12 @@
                                     </div>
                                     <div class="box-text text-center" >
                                         <div class="box-text-inner blog-post-inner">
-
-
                                             <h5 class="post-title is-large ">
                                                 <a href="chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong" class="plain">Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?</a>
                                             </h5>
                                             <div class="is-divider"></div>
                                             <p class="from_the_blog_excerpt ">
                                                 Với người Việt Nam ta và cả người phương đông, khi xây một căn nhà mới rất cần một nghi lễ để thông báo với thổ công, chư thần để cầu may mắn cho gia chủ. Ngay cả khi chuyển đến nhà mới thuê thì nghi lễ này cũng rất được xem trọng và cần thiết. Những lưu ý khi chuyển đến nhà mới...					</p>
-
-
-
                                         </div>
                                     </div>
                                 </div>
@@ -813,10 +796,8 @@
                                             </h5>
                                             <div class="is-divider"></div>
                                             <p class="from_the_blog_excerpt ">
-                                                Vận chuyển hàng hóa là một trong những công việc vô cùng quan trọng trong xã hội ngày nay. Và nhờ sự phát triển của xã hội mà phương thức vận chuyển hàng hóa cũng rất đa dạng không chỉ dịch vụ trong mà còn ở các dịch vụ vận chuyển hàng hóa quốc tế. Bài viết dưới đây cung cấp cho bạn các...					</p>
-
-
-
+                                                Vận chuyển hàng hóa là một trong những công việc vô cùng quan trọng trong xã hội ngày nay. Và nhờ sự phát triển của xã hội mà phương thức vận chuyển hàng hóa cũng rất đa dạng không chỉ dịch vụ trong mà còn ở các dịch vụ vận chuyển hàng hóa quốc tế. Bài viết dưới đây cung cấp cho bạn các...
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -832,42 +813,40 @@
                                     </div>
                                     <div class="box-text text-center" >
                                         <div class="box-text-inner blog-post-inner">
-
-
                                             <h5 class="post-title is-large ">
                                                 <a href="quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen" class="plain">Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển</a>
                                             </h5>
                                             <div class="is-divider"></div>
                                             <p class="from_the_blog_excerpt ">
                                             </p>
-
-
-
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div></div>
+                        </div>
+                    </div>
                 </div>
             </div>
-
-
         </div>
 
-
+        <!-- Trên footer -->
+        <!-- Update ảnh trong src và href-->
         <div class="row large-columns-6 medium-columns-3 small-columns-3 row-xsmall row-full-width slider row-slider slider-nav-simple"  data-flickity-options='{&quot;imagesLoaded&quot;: true, &quot;groupCells&quot;: &quot;100%&quot;, &quot;dragThreshold&quot; : 5, &quot;cellAlign&quot;: &quot;left&quot;,&quot;wrapAround&quot;: true,&quot;prevNextButtons&quot;: true,&quot;percentPosition&quot;: true,&quot;pageDots&quot;: false, &quot;rightToLeft&quot;: false, &quot;autoPlay&quot; : false}' >
-
             <div class="gallery-col col" >
                 <div class="col-inner">
+                    <!-- update ảnh trong href-->
                     <a class="image-lightbox lightbox-gallery" href="wp-content/uploads/2025/05/1-1024x673.jpg" title="">            <div class="box has-hover gallery-box box-none">
                             <div class="box-image image-zoom image-cover" style="padding-top:100%;">
+                                <!-- update ảnh trong src-->
                                 <img loading="lazy" decoding="async" width="768" height="505" src="wp-content/uploads/2025/05/1-768x505.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaihaidang.net/wp-content/uploads/2025/05/1-768x505.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2025/05/1-300x197.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2025/05/1-1024x673.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2025/05/1-1536x1010.jpg 1536w, https://vantaihaidang.net/wp-content/uploads/2025/05/1.jpg 1920w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
                             <div class="box-text text-left" >
                                 <p></p>
                             </div>
                         </div>
-                    </a>          </div>
-            </div><div class="gallery-col col" >
+                    </a>
+                </div>
+            </div>
+            <div class="gallery-col col" >
                 <div class="col-inner">
                     <a class="image-lightbox lightbox-gallery" href="wp-content/uploads/2025/05/2-1024x375.jpg" title="">            <div class="box has-hover gallery-box box-none">
                             <div class="box-image image-zoom image-cover" style="padding-top:100%;">
@@ -876,8 +855,11 @@
                                 <p></p>
                             </div>
                         </div>
-                    </a>          </div>
-            </div><div class="gallery-col col" >
+                    </a>
+                </div>
+            </div>
+
+            <div class="gallery-col col" >
                 <div class="col-inner">
                     <a class="image-lightbox lightbox-gallery" href="wp-content/uploads/2025/05/3-1024x640.jpg" title="">            <div class="box has-hover gallery-box box-none">
                             <div class="box-image image-zoom image-cover" style="padding-top:100%;">
@@ -886,8 +868,11 @@
                                 <p></p>
                             </div>
                         </div>
-                    </a>          </div>
-            </div><div class="gallery-col col" >
+                    </a>
+                </div>
+            </div>
+
+            <div class="gallery-col col" >
                 <div class="col-inner">
                     <a class="image-lightbox lightbox-gallery" href="wp-content/uploads/2025/05/4-1024x574.jpg" title="">            <div class="box has-hover gallery-box box-none">
                             <div class="box-image image-zoom image-cover" style="padding-top:100%;">
@@ -1008,10 +993,7 @@
                         </div>
                     </a>          </div>
             </div></div>
-
-
         <div class="row large-columns-6 medium-columns-3 small-columns-3 row-xsmall row-full-width slider row-slider slider-nav-simple"  data-flickity-options='{&quot;imagesLoaded&quot;: true, &quot;groupCells&quot;: &quot;100%&quot;, &quot;dragThreshold&quot; : 5, &quot;cellAlign&quot;: &quot;left&quot;,&quot;wrapAround&quot;: true,&quot;prevNextButtons&quot;: true,&quot;percentPosition&quot;: true,&quot;pageDots&quot;: false, &quot;rightToLeft&quot;: false, &quot;autoPlay&quot; : false}' >
-
             <div class="gallery-col col" >
                 <div class="col-inner">
                     <a class="image-lightbox lightbox-gallery" href="wp-content/uploads/2025/05/z6630844334302_32c7aa7a03272e9c4e85daafa0264ef9-1024x768.jpg" title="">            <div class="box has-hover gallery-box box-none">

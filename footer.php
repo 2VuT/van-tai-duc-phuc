@@ -13,7 +13,7 @@
                 <div id="col-624543016" class="col medium-5 small-12 large-5"  >
                     <div class="col-inner"  >
                         <div id="text-1069786366" class="text">
-                            <h4 class="uppercase"><span data-text-color="primary">CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ Đức Phúc GROUP</span></h4>
+                            <h4 class="uppercase"><span data-text-color="primary">CÔNG TY TNHH Đức Phúc </span></h4>
                             <style>
                                 #text-1069786366 {
                                     font-size: 1rem;
@@ -32,11 +32,12 @@
                             <div class="icon-box-img" style="width: 20px">
                                 <div class="icon">
                                     <div class="icon-inner" >
-                                        <img width="13" height="19" src="../wp-content/uploads/2024/06/Asset-3.svg" class="attachment-medium size-medium" alt="" decoding="async" loading="lazy" />					</div>
+                                        <img width="13" height="19" src="../wp-content/uploads/2024/06/Asset-3.svg" class="attachment-medium size-medium" alt="" decoding="async" loading="lazy" />
+                                    </div>
                                 </div>
                             </div>
                             <div class="icon-box-text last-reset">
-                                <p><strong>Địa chỉ:</strong> Số 14, ngõ 13 đường Lý Thường Kiệt, Thành Phố Thái Bình, Tỉnh Thái Bình</p>
+                                <p><strong>Địa chỉ:</strong> Lô 38-D3, Khu TĐC Đồng Lôi, Phường Kỳ Bá, Thành Phố Thái Bình</p>
                             </div>
                         </div>
                         <div id="gap-41651643" class="gap-element clearfix" style="display:block; height:auto;">
@@ -55,9 +56,9 @@
                             </div>
                             <div class="icon-box-text last-reset">
                                 <p>
-                                    <strong>Hotline:</strong> 091 355 56 61 (Anh Hiếu )
+                                    <strong>Hotline:</strong> 0913.555.661 (Mr Thành )
                                     </br />
-                                    <strong>Hotline:</strong> 058.55555.68  (Anh Phúc)
+                                    <strong>Hotline:</strong> 0933.652.299 (Mr Hiếu)
                                 </p>
                             </div>
                         </div>
@@ -76,7 +77,7 @@
                                 </div>
                             </div>
                             <div class="icon-box-text last-reset">
-                                <p><strong>MST:</strong> 2902179905</p>
+                                <p><strong>MST:</strong> 1000604469</p>
                             </div>
                         </div>
                         <div class="icon-box featured-box icon-box-left text-left"  >
@@ -87,7 +88,7 @@
                                 </div>
                             </div>
                             <div class="icon-box-text last-reset">
-                                <p><strong>Ngân hàng:</strong> SeABank<br /><strong>Số TK:</strong> 56665888</p>
+                                <p><strong>Email:</strong> vantaiducphuc66@gmail.com</p>
                             </div>
                         </div>
                         <div id="gap-1680464327" class="gap-element clearfix" style="display:block; height:auto;">
@@ -141,21 +142,21 @@
                             <div class="ux-menu-link flex menu-item">
                                 <a class="ux-menu-link__link flex" href="../van-tai-bac-nam" >
                                     <span class="ux-menu-link__text">
-                                        Vận tải Bắc Nam
+                                        Vận tải Bắc - Trung - Nam
                                     </span>
                                 </a>
                             </div>
                             <div class="ux-menu-link flex menu-item">
                                 <a class="ux-menu-link__link flex" href="../van-chuyen-hang-di-cac-khu-cn" >
                                     <span class="ux-menu-link__text">
-                                        Vận chuyển hàng đi các khu CN
+                                        Giao nhân - Ký gửi hàng hoá
                                     </span>
                                 </a>
                             </div>
                             <div class="ux-menu-link flex menu-item">
                                 <a class="ux-menu-link__link flex" href="../van-tai-hang-le-hang-ghep-hang-bao-xe" >
                                     <span class="ux-menu-link__text">
-                                        Vận tải hàng lẻ, hàng ghép, hàng bao xe
+                                        Các dịch vụ khác
                                     </span>
                                 </a>
                             </div>
@@ -243,7 +244,7 @@
         <div class="container clearfix">
             <div class="footer-primary pull-left">
                 <div class="copyright-footer">
-                    Copyright 2025 © <strong>Công ty TNHH TM DV Đức Phúc Group</strong>      </div>
+                    Copyright 2025 © <strong>Công ty TNHH Đức Phúc</strong>      </div>
             </div>
         </div>
     </div>
