@@ -686,7 +686,7 @@
                     <aside id="text-2" class="widget widget_text"><span class="widget-title "><span>ĐĂNG KÝ TƯ VẤN</span></span><div class="is-divider small"></div>			<div class="textwidget">
                             <div class="wpcf7 no-js" id="wpcf7-f706-o1" lang="vi" dir="ltr">
                                 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-                                <form action="https://vantaihaidang.net/bang-gia/#wpcf7-f706-o1" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
+                                <form action="https://vantaiducphuc.com/bang-gia/#wpcf7-f706-o1" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
                                     <div style="display: none;">
                                         <input type="hidden" name="_wpcf7" value="706" />
                                         <input type="hidden" name="_wpcf7_version" value="5.9.8" />

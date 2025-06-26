@@ -35,7 +35,7 @@
                 <div class="col-inner"  >
                     <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1555075664">
                         <div class="img-inner image-cover dark" style="padding-top:56.25%;">
-                            <img fetchpriority="high" decoding="async" width="1020" height="765" src="../wp-content/uploads/2024/08/van-tai-hai-dang-1024x768.jpg" class="attachment-large size-large" alt="" srcset="https://vantaihaidang.net/wp-content/uploads/2024/08/van-tai-hai-dang-1024x768.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/08/van-tai-hai-dang-300x225.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/08/van-tai-hai-dang-768x576.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/08/van-tai-hai-dang.jpg 1280w" sizes="(max-width: 1020px) 100vw, 1020px" />
+                            <img fetchpriority="high" decoding="async" width="1020" height="765" src="../wp-content/uploads/2024/08/van-tai-hai-dang-1024x768.jpg" class="attachment-large size-large" alt="" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/08/van-tai-hai-dang-1024x768.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/08/van-tai-hai-dang-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/08/van-tai-hai-dang-768x576.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/08/van-tai-hai-dang.jpg 1280w" sizes="(max-width: 1020px) 100vw, 1020px" />
                         </div>
                         <style>
                             #image_1555075664 {
@@ -51,7 +51,7 @@
                 <div class="col-inner"  >
                     <div class="wpcf7 no-js" id="wpcf7-f7-p136-o1" lang="vi" dir="ltr">
                         <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-                        <form action="https://vantaihaidang.net/lien-he/#wpcf7-f7-p136-o1" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
+                        <form action="https://vantaiducphuc.com/lien-he/#wpcf7-f7-p136-o1" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
                             <div style="display: none;">
                                 <input type="hidden" name="_wpcf7" value="7" />
                                 <input type="hidden" name="_wpcf7_version" value="5.9.8" />

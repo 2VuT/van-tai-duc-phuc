@@ -29,7 +29,7 @@
                                     <div class="box-image" >
                                         <div class="image-cover" style="padding-top:56%;">
                                             <a href="quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen" class="plain" aria-label="Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển">
-                                                <img width="630" height="468" src="../wp-content/uploads/2024/07/van-chuyen-dan-piano-1.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/van-chuyen-dan-piano-1.jpg 630w, https://vantaihaidang.net/wp-content/uploads/2024/07/van-chuyen-dan-piano-1-300x223.jpg 300w" sizes="auto, (max-width: 630px) 100vw, 630px" />							</a>
+                                                <img width="630" height="468" src="../wp-content/uploads/2024/07/van-chuyen-dan-piano-1.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/07/van-chuyen-dan-piano-1.jpg 630w, https://vantaiducphuc.com/wp-content/uploads/2024/07/van-chuyen-dan-piano-1-300x223.jpg 300w" sizes="auto, (max-width: 630px) 100vw, 630px" />							</a>
                                         </div>
                                     </div>
                                     <div class="box-text text-left" >
@@ -55,7 +55,7 @@
                                     <div class="box-image" >
                                         <div class="image-cover" style="padding-top:56%;">
                                             <a href="uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa" class="plain" aria-label="Ưu và nhược điểm của các phương thức vận chuyển hàng hóa">
-                                                <img width="600" height="400" src="../wp-content/uploads/2024/07/duong-bo.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/duong-bo.jpg 600w, https://vantaihaidang.net/wp-content/uploads/2024/07/duong-bo-300x200.jpg 300w" sizes="auto, (max-width: 600px) 100vw, 600px" />							</a>
+                                                <img width="600" height="400" src="../wp-content/uploads/2024/07/duong-bo.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/07/duong-bo.jpg 600w, https://vantaiducphuc.com/wp-content/uploads/2024/07/duong-bo-300x200.jpg 300w" sizes="auto, (max-width: 600px) 100vw, 600px" />							</a>
                                         </div>
                                     </div>
                                     <div class="box-text text-left" >
@@ -81,7 +81,7 @@
                                     <div class="box-image" >
                                         <div class="image-cover" style="padding-top:56%;">
                                             <a href="chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong" class="plain" aria-label="Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?">
-                                                <img width="640" height="369" src="../wp-content/uploads/2024/07/le-vat-can-chuan-bi-cho-le-nhap-trach.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/le-vat-can-chuan-bi-cho-le-nhap-trach.jpg 640w, https://vantaihaidang.net/wp-content/uploads/2024/07/le-vat-can-chuan-bi-cho-le-nhap-trach-300x173.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" />							</a>
+                                                <img width="640" height="369" src="../wp-content/uploads/2024/07/le-vat-can-chuan-bi-cho-le-nhap-trach.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/07/le-vat-can-chuan-bi-cho-le-nhap-trach.jpg 640w, https://vantaiducphuc.com/wp-content/uploads/2024/07/le-vat-can-chuan-bi-cho-le-nhap-trach-300x173.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" />							</a>
                                         </div>
                                     </div>
                                     <div class="box-text text-left" >
@@ -107,7 +107,7 @@
                                     <div class="box-image" >
                                         <div class="image-cover" style="padding-top:56%;">
                                             <a href="tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the" class="plain" aria-label="Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể">
-                                                <img width="640" height="426" src="../wp-content/uploads/2024/07/cach-dong-goi-hang-hoa.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/cach-dong-goi-hang-hoa.jpg 640w, https://vantaihaidang.net/wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" />							</a>
+                                                <img width="640" height="426" src="../wp-content/uploads/2024/07/cach-dong-goi-hang-hoa.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/07/cach-dong-goi-hang-hoa.jpg 640w, https://vantaiducphuc.com/wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" />							</a>
                                         </div>
                                     </div>
                                     <div class="box-text text-left" >
@@ -135,7 +135,7 @@
                     <aside id="text-2" class="widget widget_text"><span class="widget-title "><span>ĐĂNG KÝ TƯ VẤN</span></span><div class="is-divider small"></div>			<div class="textwidget">
                             <div class="wpcf7 no-js" id="wpcf7-f706-o1" lang="vi" dir="ltr">
                                 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-                                <form action="https://vantaihaidang.net/tin-tuc/#wpcf7-f706-o1" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
+                                <form action="https://vantaiducphuc.com/tin-tuc/#wpcf7-f706-o1" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
                                     <div style="display: none;">
                                         <input type="hidden" name="_wpcf7" value="706" />
                                         <input type="hidden" name="_wpcf7_version" value="5.9.8" />

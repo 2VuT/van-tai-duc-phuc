@@ -1,37 +1,37 @@
-HTTrack3.49-2 launched on Wed, 25 Jun 2025 12:22:18 at https://vantaihaidang.net/
-(httrack https://vantaihaidang.net/ -O /Users/vntheflash/Sites/van-tai-hai-dang-clone -%v -c8 -s0 -s0 )
+HTTrack3.49-2 launched on Wed, 25 Jun 2025 12:22:18 at https://vantaiducphuc.com/
+(httrack https://vantaiducphuc.com/ -O /Users/vntheflash/Sites/van-tai-hai-dang-clone -%v -c8 -s0 -s0 )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-12:24:50	Error: 	"Method Not Allowed" (405) at link https://vantaihaidang.net/xmlrpc.php (from https://vantaihaidang.net/)
-12:28:34	Error: 	"Not Found" (404) at link https://vantaihaidang.net/wp-content/uploads/2021/11/Asset-3.svg (from https://vantaihaidang.net/wp-content/themes/flatsome-child/style.css?ver=3.0)
-12:28:34	Error: 	"Not Found" (404) at link https://vantaihaidang.net/wp-content/uploads/2021/12/z3007163682440_aa5ad65961f16e090881419bac8441c3.gif (from https://vantaihaidang.net/wp-content/themes/flatsome-child/style.css?ver=3.0)
-12:28:34	Error: 	"Not Found" (404) at link https://vantaihaidang.net/wp-content/uploads/2021/11/bg_about.webp (from https://vantaihaidang.net/wp-content/themes/flatsome-child/style.css?ver=3.0)
-12:28:34	Error: 	"Not Found" (404) at link https://vantaihaidang.net/wp-content/uploads/2021/11/phone.webp (from https://vantaihaidang.net/wp-content/themes/flatsome-child/style.css?ver=3.0)
-12:28:34	Error: 	"Not Found" (404) at link https://vantaihaidang.net/wp-content/uploads/2021/11/l-tm.png (from https://vantaihaidang.net/wp-content/themes/flatsome-child/style.css?ver=3.0)
-12:28:34	Warning: 	Moved Permanently for https://vantaihaidang.net/?p=134
-12:28:34	Warning: 	File has moved from https://vantaihaidang.net/?p=134 to https://vantaihaidang.net/gioi-thieu/
-12:28:34	Warning: 	Moved Permanently for https://vantaihaidang.net/?p=1118
-12:28:34	Warning: 	File has moved from https://vantaihaidang.net/?p=1118 to https://vantaihaidang.net/van-tai-bac-nam/
-12:28:34	Warning: 	Moved Permanently for https://vantaihaidang.net/?p=1122
-12:28:34	Warning: 	File has moved from https://vantaihaidang.net/?p=1122 to https://vantaihaidang.net/van-chuyen-hang-di-cac-khu-cn/
-12:28:34	Warning: 	Moved Permanently for https://vantaihaidang.net/?p=1125
-12:28:34	Warning: 	File has moved from https://vantaihaidang.net/?p=1125 to https://vantaihaidang.net/van-tai-hang-le-hang-ghep-hang-bao-xe/
-12:28:34	Warning: 	Moved Permanently for https://vantaihaidang.net/?p=1114
-12:28:34	Warning: 	File has moved from https://vantaihaidang.net/?p=1114 to https://vantaihaidang.net/bang-gia/
-12:28:34	Warning: 	Moved Permanently for https://vantaihaidang.net/?p=136
-12:28:34	Warning: 	File has moved from https://vantaihaidang.net/?p=136 to https://vantaihaidang.net/lien-he/
-12:28:34	Warning: 	Moved Permanently for https://vantaihaidang.net/?p=1186
-12:28:34	Warning: 	File has moved from https://vantaihaidang.net/?p=1186 to https://vantaihaidang.net/tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the/
-12:28:34	Warning: 	Moved Permanently for https://vantaihaidang.net/?p=1199
-12:28:34	Warning: 	File has moved from https://vantaihaidang.net/?p=1199 to https://vantaihaidang.net/chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong/
-12:28:34	Warning: 	Moved Permanently for https://vantaihaidang.net/?p=1205
-12:28:34	Warning: 	File has moved from https://vantaihaidang.net/?p=1205 to https://vantaihaidang.net/uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa/
-12:28:34	Warning: 	Moved Permanently for https://vantaihaidang.net/?p=1215
-12:28:34	Warning: 	File has moved from https://vantaihaidang.net/?p=1215 to https://vantaihaidang.net/quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen/
+12:24:50	Error: 	"Method Not Allowed" (405) at link https://vantaiducphuc.com/xmlrpc.php (from https://vantaiducphuc.com/)
+12:28:34	Error: 	"Not Found" (404) at link https://vantaiducphuc.com/wp-content/uploads/2021/11/Asset-3.svg (from https://vantaiducphuc.com/wp-content/themes/flatsome-child/style.css?ver=3.0)
+12:28:34	Error: 	"Not Found" (404) at link https://vantaiducphuc.com/wp-content/uploads/2021/12/z3007163682440_aa5ad65961f16e090881419bac8441c3.gif (from https://vantaiducphuc.com/wp-content/themes/flatsome-child/style.css?ver=3.0)
+12:28:34	Error: 	"Not Found" (404) at link https://vantaiducphuc.com/wp-content/uploads/2021/11/bg_about.webp (from https://vantaiducphuc.com/wp-content/themes/flatsome-child/style.css?ver=3.0)
+12:28:34	Error: 	"Not Found" (404) at link https://vantaiducphuc.com/wp-content/uploads/2021/11/phone.webp (from https://vantaiducphuc.com/wp-content/themes/flatsome-child/style.css?ver=3.0)
+12:28:34	Error: 	"Not Found" (404) at link https://vantaiducphuc.com/wp-content/uploads/2021/11/l-tm.png (from https://vantaiducphuc.com/wp-content/themes/flatsome-child/style.css?ver=3.0)
+12:28:34	Warning: 	Moved Permanently for https://vantaiducphuc.com/?p=134
+12:28:34	Warning: 	File has moved from https://vantaiducphuc.com/?p=134 to https://vantaiducphuc.com/gioi-thieu/
+12:28:34	Warning: 	Moved Permanently for https://vantaiducphuc.com/?p=1118
+12:28:34	Warning: 	File has moved from https://vantaiducphuc.com/?p=1118 to https://vantaiducphuc.com/van-tai-bac-nam/
+12:28:34	Warning: 	Moved Permanently for https://vantaiducphuc.com/?p=1122
+12:28:34	Warning: 	File has moved from https://vantaiducphuc.com/?p=1122 to https://vantaiducphuc.com/van-chuyen-hang-di-cac-khu-cn/
+12:28:34	Warning: 	Moved Permanently for https://vantaiducphuc.com/?p=1125
+12:28:34	Warning: 	File has moved from https://vantaiducphuc.com/?p=1125 to https://vantaiducphuc.com/van-tai-hang-le-hang-ghep-hang-bao-xe/
+12:28:34	Warning: 	Moved Permanently for https://vantaiducphuc.com/?p=1114
+12:28:34	Warning: 	File has moved from https://vantaiducphuc.com/?p=1114 to https://vantaiducphuc.com/bang-gia/
+12:28:34	Warning: 	Moved Permanently for https://vantaiducphuc.com/?p=136
+12:28:34	Warning: 	File has moved from https://vantaiducphuc.com/?p=136 to https://vantaiducphuc.com/lien-he/
+12:28:34	Warning: 	Moved Permanently for https://vantaiducphuc.com/?p=1186
+12:28:34	Warning: 	File has moved from https://vantaiducphuc.com/?p=1186 to https://vantaiducphuc.com/tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the/
+12:28:34	Warning: 	Moved Permanently for https://vantaiducphuc.com/?p=1199
+12:28:34	Warning: 	File has moved from https://vantaiducphuc.com/?p=1199 to https://vantaiducphuc.com/chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong/
+12:28:34	Warning: 	Moved Permanently for https://vantaiducphuc.com/?p=1205
+12:28:34	Warning: 	File has moved from https://vantaiducphuc.com/?p=1205 to https://vantaiducphuc.com/uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa/
+12:28:34	Warning: 	Moved Permanently for https://vantaiducphuc.com/?p=1215
+12:28:34	Warning: 	File has moved from https://vantaiducphuc.com/?p=1215 to https://vantaiducphuc.com/quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen/
 
 HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 16 seconds : 264 links scanned, 248 files written (736586103 bytes overall) [734386744 bytes received at 1953156 bytes/sec], 3518779 bytes transferred using HTTP compression in 97 files, ratio 23%, 6.9 requests per connection
 (6 errors, 20 warnings, 0 messages)

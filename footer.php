@@ -140,42 +140,42 @@
 
                         <div class="ux-menu stack stack-col justify-start">
                             <div class="ux-menu-link flex menu-item">
-                                <a class="ux-menu-link__link flex" href="../van-tai-bac-nam" >
+                                <a class="ux-menu-link__link flex" href="/dich-vu/van-tai-bac-nam" >
                                     <span class="ux-menu-link__text">
                                         Vận tải Bắc - Trung - Nam
                                     </span>
                                 </a>
                             </div>
                             <div class="ux-menu-link flex menu-item">
-                                <a class="ux-menu-link__link flex" href="../dich-vu/van-chuyen-hang-di-cac-khu-cn" >
+                                <a class="ux-menu-link__link flex" href="/dich-vu/van-chuyen-hang-di-cac-khu-cn" >
                                     <span class="ux-menu-link__text">
                                         Giao nhân - Ký gửi hàng hoá
                                     </span>
                                 </a>
                             </div>
                             <div class="ux-menu-link flex menu-item">
-                                <a class="ux-menu-link__link flex" href="../van-tai-hang-le-hang-ghep-hang-bao-xe" >
+                                <a class="ux-menu-link__link flex" href="/dich-vu/van-tai-hang-le-hang-ghep-hang-bao-xe" >
                                     <span class="ux-menu-link__text">
                                         Các dịch vụ khác
                                     </span>
                                 </a>
                             </div>
                             <div class="ux-menu-link flex menu-item">
-                                <a class="ux-menu-link__link flex" href="../gioi-thieu" >
+                                <a class="ux-menu-link__link flex" href="/gioi-thieu" >
                                     <span class="ux-menu-link__text">
                                         Về chúng tôi
                                     </span>
                                 </a>
                             </div>
                             <div class="ux-menu-link flex menu-item">
-                                <a class="ux-menu-link__link flex" href="../bang-gia" >
+                                <a class="ux-menu-link__link flex" href="/bang-gia" >
                                     <span class="ux-menu-link__text">
                                         Chính sách bảo mật
                                     </span>
                                 </a>
                             </div>
                             <div class="ux-menu-link flex menu-item">
-                                <a class="ux-menu-link__link flex" href="../tin-tuc" >
+                                <a class="ux-menu-link__link flex" href="/tin-tuc" >
                                     <span class="ux-menu-link__text">
                                         Tin tức
                                     </span>
@@ -244,7 +244,8 @@
         <div class="container clearfix">
             <div class="footer-primary pull-left">
                 <div class="copyright-footer">
-                    Copyright 2025 © <strong>Công ty TNHH Đức Phúc</strong>      </div>
+                    Copyright 2025 © <strong>Công ty TNHH Đức Phúc</strong>
+                </div>
             </div>
         </div>
     </div>
@@ -272,7 +273,7 @@
                     <div class="icon-box-img" style="width: 42px">
                         <div class="icon">
                             <div class="icon-inner" >
-                                <img width="45" height="46" src="wp-content/uploads/2024/06/phone.png" class="attachment-medium size-medium" alt="" decoding="async" loading="lazy" />					</div>
+                                <img width="45" height="46" src="/wp-content/uploads/2024/06/phone.png" class="attachment-medium size-medium" alt="" decoding="async" loading="lazy" />					</div>
                         </div>
                     </div>
                     <div class="icon-box-text last-reset">
@@ -311,7 +312,7 @@
                 </div>
                 <div class="wpcf7 no-js" id="wpcf7-f810-o1" lang="vi" dir="ltr">
                     <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-                    <form action="https://vantaihaidang.net/#wpcf7-f810-o1" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
+                    <form action="https://vantaiducphuc.com/#wpcf7-f810-o1" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
                         <div style="display: none;">
                             <input type="hidden" name="_wpcf7" value="810" />
                             <input type="hidden" name="_wpcf7_version" value="5.9.8" />
@@ -322,7 +323,7 @@
                         </div>
                         <div class="row formbaogia">
                             <div class="col large-6">
-                                <p class="ttl"><img src="wp-content/uploads/2024/06/ic_men.png" width="30" alt="PS Interior Design" /> Thông tin khách hàng
+                                <p class="ttl"><img src="/wp-content/uploads/2024/06/ic_men.png" width="30" alt="PS Interior Design" /> Thông tin khách hàng
                                 </p>
                                 <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Họ tên" value="" type="text" name="your-name" /></span><br />
                                     <span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-text wpcf7-validates-as-email" aria-invalid="false" placeholder="Email" value="" type="email" name="your-email" /></span><br />
@@ -331,7 +332,7 @@
                                 </p>
                             </div>
                             <div class="col large-6">
-                                <p class="ttl"><img src="wp-content/uploads/2024/06/ic_men.png" width="30" alt="PS Interior Design" /> Thông tin dự án
+                                <p class="ttl"><img src="/wp-content/uploads/2024/06/ic_men.png" width="30" alt="PS Interior Design" /> Thông tin dự án
                                 </p>
                                 <p><span class="wpcf7-form-control-wrap" data-name="yeucau"><select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="yeucau"><option value="Chọn dịch vụ">Chọn dịch vụ</option><option value="Vận tải Bắc Nam">Vận tải Bắc Nam</option><option value="Vận chuyển hàng đi các khu công nghiệp">Vận chuyển hàng đi các khu công nghiệp</option><option value="Vận tải hàng lẻ, hàng ghép, hàng bao xe">Vận tải hàng lẻ, hàng ghép, hàng bao xe</option><option value="Khác">Khác</option></select></span><br />
                                     <span class="wpcf7-form-control-wrap" data-name="yeucau"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Nhập yêu cầu của bạn" value="" type="text" name="yeucau" /></span><br />
@@ -360,27 +361,27 @@
 <a class="btn-zalo btn-frame text-decoration-none" target="_blank" href="https://zalo.me/0913555661">
     <div class="animated infinite zoomIn kenit-alo-circle"></div>
     <div class="animated infinite pulse kenit-alo-circle-fill"></div>
-    <i><img src="wp-content/uploads/2024/06/zl.png" alt="Zalo"></i>
+    <i><img src="/wp-content/uploads/2024/06/zl.png" alt="Zalo"></i>
 </a>
 <a class="btn-phone btn-frame text-decoration-none" href="tel:0913555661">
     <div class="animated infinite zoomIn kenit-alo-circle"></div>
     <div class="animated infinite pulse kenit-alo-circle-fill"></div>
-    <i><img src="wp-content/uploads/2024/06/hl.png" alt="Hotline"></i>
+    <i><img src="/wp-content/uploads/2024/06/hl.png" alt="Hotline"></i>
 </a><style id='global-styles-inline-css' type='text/css'>
     :root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary: #d6110c;--wp--preset--color--secondary: #d6110c;--wp--preset--color--success: #000000;--wp--preset--color--alert: #146fea;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){margin-left: auto !important;margin-right: auto !important;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: none;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-color{color: var(--wp--preset--color--primary) !important;}.has-secondary-color{color: var(--wp--preset--color--secondary) !important;}.has-success-color{color: var(--wp--preset--color--success) !important;}.has-alert-color{color: var(--wp--preset--color--alert) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-background-color{background-color: var(--wp--preset--color--primary) !important;}.has-secondary-background-color{background-color: var(--wp--preset--color--secondary) !important;}.has-success-background-color{background-color: var(--wp--preset--color--success) !important;}.has-alert-background-color{background-color: var(--wp--preset--color--alert) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-border-color{border-color: var(--wp--preset--color--primary) !important;}.has-secondary-border-color{border-color: var(--wp--preset--color--secondary) !important;}.has-success-border-color{border-color: var(--wp--preset--color--success) !important;}.has-alert-border-color{border-color: var(--wp--preset--color--alert) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 </style>
-<script type="text/javascript" src="wp-content/themes/flatsome-child/slick/slick8a54.js?ver=1.0.0" id="slick-js-js"></script>
-<script type="text/javascript" src="wp-includes/js/dist/hooks.min4fdd.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
-<script type="text/javascript" src="wp-includes/js/dist/i18n.minc33c.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" src="/wp-content/themes/flatsome-child/slick/slick8a54.js?ver=1.0.0" id="slick-js-js"></script>
+<script type="text/javascript" src="/wp-includes/js/dist/hooks.min4fdd.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="/wp-includes/js/dist/i18n.minc33c.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
 <script type="text/javascript" id="wp-i18n-js-after">
     /* <![CDATA[ */
     wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
     /* ]]> */
 </script>
-<script type="text/javascript" src="wp-content/plugins/contact-form-7/includes/swv/js/indexe2db.js?ver=5.9.8" id="swv-js"></script>
+<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/swv/js/indexe2db.js?ver=5.9.8" id="swv-js"></script>
 <script type="text/javascript" id="contact-form-7-js-extra">
     /* <![CDATA[ */
-    var wpcf7 = {"api":{"root":"https:\/\/vantaihaidang.net\/wp-json\/","namespace":"contact-form-7\/v1"}};
+    var wpcf7 = {"api":{"root":"https:\/\/vantaiducphuc.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
     /* ]]> */
 </script>
 <script type="text/javascript" id="contact-form-7-js-translations">
@@ -392,14 +393,14 @@
     } )( "contact-form-7", {"translation-revision-date":"2024-08-11 13:44:17+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"This contact form is placed in the wrong place.":["Bi\u1ec3u m\u1eabu li\u00ean h\u1ec7 n\u00e0y \u0111\u01b0\u1ee3c \u0111\u1eb7t sai v\u1ecb tr\u00ed."],"Error:":["L\u1ed7i:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
     /* ]]> */
 </script>
-<script type="text/javascript" src="wp-content/plugins/contact-form-7/includes/js/indexe2db.js?ver=5.9.8" id="contact-form-7-js"></script>
-<script type="text/javascript" src="wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search34a7.js?ver=3.19.2" id="flatsome-live-search-js"></script>
-<script type="text/javascript" src="wp-includes/js/hoverIntent.min3e5a.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/js/indexe2db.js?ver=5.9.8" id="contact-form-7-js"></script>
+<script type="text/javascript" src="/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search34a7.js?ver=3.19.2" id="flatsome-live-search-js"></script>
+<script type="text/javascript" src="/wp-includes/js/hoverIntent.min3e5a.js?ver=1.10.2" id="hoverIntent-js"></script>
 <script type="text/javascript" id="flatsome-js-js-extra">
     /* <![CDATA[ */
-    var flatsomeVars = {"theme":{"version":"3.19.2"},"ajaxurl":"https:\/\/vantaihaidang.net\/wp-admin\/admin-ajax.php","rtl":"","sticky_height":"70","stickyHeaderHeight":"0","scrollPaddingTop":"0","assets_url":"https:\/\/vantaihaidang.net\/wp-content\/themes\/flatsome\/assets\/","lightbox":{"close_markup":"<button title=\"%title%\" type=\"button\" class=\"mfp-close\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-x\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"><\/line><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"><\/line><\/svg><\/button>","close_btn_inside":false},"user":{"can_edit_pages":false},"i18n":{"mainMenu":"Main Menu","toggleButton":"Toggle"},"options":{"cookie_notice_version":"1","swatches_layout":false,"swatches_disable_deselect":false,"swatches_box_select_event":false,"swatches_box_behavior_selected":false,"swatches_box_update_urls":"1","swatches_box_reset":false,"swatches_box_reset_limited":false,"swatches_box_reset_extent":false,"swatches_box_reset_time":300,"search_result_latency":"0"}};
+    var flatsomeVars = {"theme":{"version":"3.19.2"},"ajaxurl":"https:\/\/vantaiducphuc.com\/wp-admin\/admin-ajax.php","rtl":"","sticky_height":"70","stickyHeaderHeight":"0","scrollPaddingTop":"0","assets_url":"https:\/\/vantaiducphuc.com\/wp-content\/themes\/flatsome\/assets\/","lightbox":{"close_markup":"<button title=\"%title%\" type=\"button\" class=\"mfp-close\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-x\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"><\/line><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"><\/line><\/svg><\/button>","close_btn_inside":false},"user":{"can_edit_pages":false},"i18n":{"mainMenu":"Main Menu","toggleButton":"Toggle"},"options":{"cookie_notice_version":"1","swatches_layout":false,"swatches_disable_deselect":false,"swatches_box_select_event":false,"swatches_box_behavior_selected":false,"swatches_box_update_urls":"1","swatches_box_reset":false,"swatches_box_reset_limited":false,"swatches_box_reset_extent":false,"swatches_box_reset_time":300,"search_result_latency":"0"}};
     /* ]]> */
 </script>
-<script type="text/javascript" src="wp-content/themes/flatsome/assets/js/flatsome59e2.js?ver=51d1c732cb1803d92751" id="flatsome-js-js"></script>
+<script type="text/javascript" src="/wp-content/themes/flatsome/assets/js/flatsome59e2.js?ver=51d1c732cb1803d92751" id="flatsome-js-js"></script>
 </body>
 </html>

@@ -21,14 +21,14 @@
                                 <div class="box box-text-bottom box-blog-post has-hover">
                                     <div class="box-image" >
                                         <div class="image-cover" style="padding-top:56%;">
-                                            <a href="van-tai-hang-le-hang-ghep-hang-bao-xe/" class="plain" aria-label="Vận tải hàng lẻ, hàng ghép, hàng bao xe">
-                                                <img width="1020" height="574" src="../wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-1024x576.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-300x169.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-768x432.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5.jpg 1280w" sizes="auto, (max-width: 1020px) 100vw, 1020px" />							</a>
+                                            <a href="/dich-vu/van-tai-hang-le-hang-ghep-hang-bao-xe/" class="plain" aria-label="Vận tải hàng lẻ, hàng ghép, hàng bao xe">
+                                                <img width="1020" height="574" src="../wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-1024x576.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-300x169.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-768x432.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5.jpg 1280w" sizes="auto, (max-width: 1020px) 100vw, 1020px" />							</a>
                                         </div>
                                     </div>
                                     <div class="box-text text-left" >
                                         <div class="box-text-inner blog-post-inner">
                                             <h5 class="post-title is-large ">
-                                                <a href="van-tai-hang-le-hang-ghep-hang-bao-xe" class="plain">Vận tải hàng lẻ, hàng ghép, hàng bao xe</a>
+                                                <a href="/dich-vu/van-tai-hang-le-hang-ghep-hang-bao-xe" class="plain">Vận tải hàng lẻ, hàng ghép, hàng bao xe</a>
                                             </h5>
                                             <div class="is-divider"></div>
                                             <p class="from_the_blog_excerpt ">
@@ -42,23 +42,18 @@
                                 <div class="box box-text-bottom box-blog-post has-hover">
                                     <div class="box-image" >
                                         <div class="image-cover" style="padding-top:56%;">
-                                            <a href="dich-vu/van-chuyen-hang-di-cac-khu-cn/" class="plain" aria-label="Vận chuyển hàng đi các khu CN">
-                                                <img width="1020" height="765" src="../wp-content/uploads/2024/08/3cefd4db5c7bf825a16a-1024x768.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://vantaihaidang.net/wp-content/uploads/2024/08/3cefd4db5c7bf825a16a-1024x768.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/08/3cefd4db5c7bf825a16a-300x225.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/08/3cefd4db5c7bf825a16a-768x576.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/08/3cefd4db5c7bf825a16a.jpg 1280w" sizes="auto, (max-width: 1020px) 100vw, 1020px" />							</a>
+                                            <a href="/dich-vu/van-chuyen-hang-di-cac-khu-cn/" class="plain" aria-label="Vận chuyển hàng đi các khu CN">
+                                                <img width="1020" height="765" src="../wp-content/uploads/2024/08/3cefd4db5c7bf825a16a-1024x768.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/08/3cefd4db5c7bf825a16a-1024x768.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/08/3cefd4db5c7bf825a16a-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/08/3cefd4db5c7bf825a16a-768x576.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/08/3cefd4db5c7bf825a16a.jpg 1280w" sizes="auto, (max-width: 1020px) 100vw, 1020px" />							</a>
                                         </div>
                                     </div>
                                     <div class="box-text text-left" >
                                         <div class="box-text-inner blog-post-inner">
-
-
                                             <h5 class="post-title is-large ">
                                                 <a href="dich-vu/van-chuyen-hang-di-cac-khu-cn/" class="plain">Vận chuyển hàng đi các khu CN</a>
                                             </h5>
                                             <div class="is-divider"></div>
                                             <p class="from_the_blog_excerpt ">
                                                 Không chỉ là doanh nghiệp vận tải chuyên về vận chuyển hàng hoá đường bộ, hiện nay...					</p>
-
-
-
                                         </div>
                                     </div>
                                 </div>
@@ -68,28 +63,24 @@
                                 <div class="box box-text-bottom box-blog-post has-hover">
                                     <div class="box-image" >
                                         <div class="image-cover" style="padding-top:56%;">
-                                            <a href="van-tai-bac-nam/" class="plain" aria-label="Vận tải Bắc Nam">
-                                                <img width="1020" height="721" src="../wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-1024x724.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-1024x724.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-300x212.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-768x543.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977.jpg 1500w" sizes="auto, (max-width: 1020px) 100vw, 1020px" />							</a>
+                                            <a href="/dich-vu/van-tai-bac-nam/" class="plain" aria-label="Vận tải Bắc Nam">
+                                                <img width="1020" height="721" src="../wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-1024x724.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-1024x724.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-300x212.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-768x543.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977.jpg 1500w" sizes="auto, (max-width: 1020px) 100vw, 1020px" />							</a>
                                         </div>
                                     </div>
                                     <div class="box-text text-left" >
                                         <div class="box-text-inner blog-post-inner">
-
-
                                             <h5 class="post-title is-large ">
-                                                <a href="van-tai-bac-nam/" class="plain">Vận tải Bắc Nam</a>
+                                                <a href="/dich-vu/van-tai-bac-nam/" class="plain">Vận tải Bắc Nam</a>
                                             </h5>
                                             <div class="is-divider"></div>
                                             <p class="from_the_blog_excerpt ">
                                                 Hiện nay, thị trường vận chuyển hàng hoá tại Việt Nam đang ngày càng phát...					</p>
-
-
-
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div></div>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="post-sidebar large-3 col">
@@ -97,7 +88,7 @@
                     <aside id="text-2" class="widget widget_text"><span class="widget-title "><span>ĐĂNG KÝ TƯ VẤN</span></span><div class="is-divider small"></div>			<div class="textwidget">
                             <div class="wpcf7 no-js" id="wpcf7-f706-o1" lang="vi" dir="ltr">
                                 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-                                <form action="https://vantaihaidang.net/dich-vu/#wpcf7-f706-o1" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
+                                <form action="https://vantaiducphuc.com/dich-vu/#wpcf7-f706-o1" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
                                     <div style="display: none;">
                                         <input type="hidden" name="_wpcf7" value="706" />
                                         <input type="hidden" name="_wpcf7_version" value="5.9.8" />
@@ -117,8 +108,10 @@
                             </div>
 
                         </div>
-                    </aside>		<aside id="flatsome_recent_posts-2" class="widget flatsome_recent_posts">		<span class="widget-title "><span>Bài viết mới</span></span><div class="is-divider small"></div>		<ul>
-
+                    </aside>
+                    <aside id="flatsome_recent_posts-2" class="widget flatsome_recent_posts">
+                        <span class="widget-title "><span>Bài viết mới</span></span><div class="is-divider small"></div>
+                        <ul>
                             <li class="recent-blog-posts-li">
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
@@ -133,8 +126,6 @@
                                     </div>
                                 </div>
                             </li>
-
-
                             <li class="recent-blog-posts-li">
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
@@ -149,8 +140,6 @@
                                     </div>
                                 </div>
                             </li>
-
-
                             <li class="recent-blog-posts-li">
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
@@ -165,8 +154,6 @@
                                     </div>
                                 </div>
                             </li>
-
-
                             <li class="recent-blog-posts-li">
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
@@ -181,8 +168,6 @@
                                     </div>
                                 </div>
                             </li>
-
-
                             <li class="recent-blog-posts-li">
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
@@ -197,13 +182,12 @@
                                     </div>
                                 </div>
                             </li>
-                        </ul>		</aside></div>
+                        </ul>
+                    </aside>
+                </div>
             </div>
         </div>
-
     </div>
-
-
 </main>
 
 <?php include '../footer.php'; ?>
