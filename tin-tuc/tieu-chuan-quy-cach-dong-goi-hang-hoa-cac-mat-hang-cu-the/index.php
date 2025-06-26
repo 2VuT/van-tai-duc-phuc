@@ -6,7 +6,7 @@
 
 
         <div class="container">
-            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="..">Trang chủ</a><span class="separator"> &nbsp;/&nbsp; </span><a href="../tin-tuc">Tin tức</a><span class="separator"> &nbsp;/&nbsp; </span><span class="last">Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể</span></p></nav></div>
+            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="../..">Trang chủ</a><span class="separator"> &nbsp;/&nbsp; </span><a href="..">Tin tức</a><span class="separator"> &nbsp;/&nbsp; </span><span class="last">Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể</span></p></nav></div>
 
         <div class="row row-small ">
 
@@ -39,19 +39,19 @@
                             <h2><span id="Quy_cach_dong_goi_hang_hoa_cu_the" class="ez-toc-section"></span><span id="Quy_cach_dong_goi_hang_hoa_cu_the"><b>Quy cách đóng gói hàng hóa cụ thể</b></span></h2>
                             <p>Ngoài những quy định chung về quy cách đóng gói hàng hóa đã nêu ở trên, chúng ta cần lưu ý đến quy cách đóng gói cụ thể, chi tiết cho từng loại hàng hóa sau:</p>
                             <h3><span id="My_pham"><b><i>Mỹ phẩm</i></b></span></h3>
-                            <p><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-1193" src="../wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-my-pham.jpg" alt="" width="640" height="477" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-my-pham.jpg 640w, https://vantaihaidang.net/wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-my-pham-300x224.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+                            <p><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-1193" src="../../wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-my-pham.jpg" alt="" width="640" height="477" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-my-pham.jpg 640w, https://vantaihaidang.net/wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-my-pham-300x224.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
                             <p>Đối với hàng hóa là mỹ phẩm, để quá trình vận chuyển được an toàn, bạn nên:</p>
                             <ul>
                                 <li>Bịt kín và cố định nắp các loại mỹ phẩm đựng trong chai, lọ.</li>
                                 <li>Chèn các vật liệu chống va đập bên trong, bên ngoài bọc kín để tránh thấm nước.</li>
                             </ul>
                             <h3><span id="Hang_de_vo" class="ez-toc-section"></span><span id="Hang_de_vo"><b><i>Hàng dễ vỡ</i></b> </span></h3>
-                            <p><img decoding="async" class="alignnone size-full wp-image-1195" src="../wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-de-vo.jpg" alt="" width="640" height="494" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-de-vo.jpg 640w, https://vantaihaidang.net/wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-de-vo-300x232.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+                            <p><img decoding="async" class="alignnone size-full wp-image-1195" src="../../wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-de-vo.jpg" alt="" width="640" height="494" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-de-vo.jpg 640w, https://vantaihaidang.net/wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-de-vo-300x232.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
                             <p>Hàng dễ vỡ là mặt hàng cần tuân thủ tuyệt đối quy cách đóng gói. Bạn phải bọc kín các góc cạnh của sản phẩm bằng 2 đến 3 lớp giấy bọt khí để đảm bảo an toàn.</p>
                             <p>Nếu hàng dễ vỡ để trong thùng carton, bạn cần chèn kín các mặt của sản phẩm để không bị xô lệch, không bị vỡ trong quá trình vận chuyển. Đồng thời dán cảnh báo hàng dễ vỡ bên ngoài.</p>
                             <p>Tối ưu nhất là đóng gói hàng hóa dễ vỡ bằng hai lớp hộp. Ở giữa hai lớp hộp có một lớp xốp chống va đập. Nếu phải đóng gói nhiều sản phẩm, bạn có thể chọn mua những hộp carton rẻ tiền để tiết kiệm chi phí.</p>
                             <h3><span id="Do_dien_tu_do_cong_nghe" class="ez-toc-section"></span><span id="Do_dien_tu_do_cong_nghe"><b><i>Đồ điện tử, đồ công nghệ</i></b></span></h3>
-                            <p><img decoding="async" class="alignnone size-full wp-image-1197" src="../wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-dien-tu.jpg" alt="" width="640" height="566" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-dien-tu.jpg 640w, https://vantaihaidang.net/wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-dien-tu-300x265.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+                            <p><img decoding="async" class="alignnone size-full wp-image-1197" src="../../wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-dien-tu.jpg" alt="" width="640" height="566" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-dien-tu.jpg 640w, https://vantaihaidang.net/wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-dien-tu-300x265.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
                             <p>Hàng điện tử là loại hàng hóa dễ bị hư hỏng nếu ở trong môi trường có độ ẩm cao hoặc bị va đập mạnh trong quá trình vận chuyển. Do đó, khi đóng gói loại mặt hàng này, bạn phải sử dụng các loại giấy bọt khí, mút xốp,…để hạn chế va đập. Kết hợp chèn xung quanh để không bị xê dịch khi vận chuyển.</p>
                             <p>Với sản phẩm điện tử còn nguyên hộp của nhà ẩn xuất, bạn chỉ cần quấn cố định giấy bọt khí xung quanh. Nếu sản phẩm không còn hộp của nhà sản xuất, bạn cần bọc giấy bọt khí xung quanh sản phẩm. Dùng băng keo cố định các góc cạnh. Sau đó, đựng sản phẩm trong thùng carton có kích thước phù hợp với sản phẩm. Chèn xốp vào các khoảng không giữa sản phẩm và thùng carton để tránh trầy xước, va đập mạnh khi vận chuyển.</p>
                             <h3><span id="Sach_va_van_phong_pham" class="ez-toc-section"></span><span id="Sach_va_van_phong_pham"><b><i>Sách và văn phòng phẩm</i></b></span></h3>
@@ -151,7 +151,7 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/van-chuyen-dan-piano-1-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/van-chuyen-dan-piano-1-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
@@ -167,7 +167,7 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/duong-bo-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/duong-bo-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
@@ -183,7 +183,7 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/le-vat-can-chuan-bi-cho-le-nhap-trach-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/le-vat-can-chuan-bi-cho-le-nhap-trach-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
@@ -199,7 +199,7 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
@@ -215,13 +215,13 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="flex-col flex-grow">
-                                        <a href="../van-tai-hang-le-hang-ghep-hang-bao-xe" title="Vận tải hàng lẻ, hàng ghép, hàng bao xe">Vận tải hàng lẻ, hàng ghép, hàng bao xe</a>
-                                        <span class="post_comments op-7 block is-xsmall"><a href="../van-tai-hang-le-hang-ghep-hang-bao-xe#respond"></a></span>
+                                        <a href="../../dich-vu/van-tai-hang-le-hang-ghep-hang-bao-xe" title="Vận tải hàng lẻ, hàng ghép, hàng bao xe">Vận tải hàng lẻ, hàng ghép, hàng bao xe</a>
+                                        <span class="post_comments op-7 block is-xsmall"><a href="../../dich-vu/van-tai-hang-le-hang-ghep-hang-bao-xe#respond"></a></span>
                                     </div>
                                 </div>
                             </li>

@@ -297,7 +297,7 @@
                                 <div class="box box-normal box-text-bottom box-blog-post has-hover">
                                     <div class="box-image" >
                                         <div class="image-cover" style="padding-top:56.25%;">
-                                            <a href="van-tai-bac-nam" class="plain" aria-label="Vận tải Bắc Nam">
+                                            <a href="dich-vu/van-tai-bac-nam" class="plain" aria-label="Vận tải Bắc Nam">
                                                 <img loading="lazy" decoding="async" width="1020" height="721" src="wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-1024x724.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-1024x724.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-300x212.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-768x543.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977.jpg 1500w" sizes="auto, (max-width: 1020px) 100vw, 1020px" />							</a>
                                         </div>
                                     </div>
@@ -306,7 +306,7 @@
 
 
                                             <h5 class="post-title is-large ">
-                                                <a href="van-tai-bac-nam" class="plain">Vận tải Bắc Nam</a>
+                                                <a href="dich-vu/van-tai-bac-nam" class="plain">Vận tải Bắc Nam</a>
                                             </h5>
                                             <div class="is-divider"></div>
                                             <p class="from_the_blog_excerpt ">
@@ -320,14 +320,14 @@
                                 <div class="box box-normal box-text-bottom box-blog-post has-hover">
                                     <div class="box-image" >
                                         <div class="image-cover" style="padding-top:56.25%;">
-                                            <a href="van-chuyen-hang-di-cac-khu-cn" class="plain" aria-label="Vận chuyển hàng đi các khu CN">
+                                            <a href="dich-vu/van-chuyen-hang-di-cac-khu-cn" class="plain" aria-label="Vận chuyển hàng đi các khu CN">
                                                 <img loading="lazy" decoding="async" width="1020" height="765" src="wp-content/uploads/2024/08/3cefd4db5c7bf825a16a-1024x768.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://vantaihaidang.net/wp-content/uploads/2024/08/3cefd4db5c7bf825a16a-1024x768.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/08/3cefd4db5c7bf825a16a-300x225.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/08/3cefd4db5c7bf825a16a-768x576.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/08/3cefd4db5c7bf825a16a.jpg 1280w" sizes="auto, (max-width: 1020px) 100vw, 1020px" />							</a>
                                         </div>
                                     </div>
                                     <div class="box-text text-center" >
                                         <div class="box-text-inner blog-post-inner">
                                             <h5 class="post-title is-large ">
-                                                <a href="van-chuyen-hang-di-cac-khu-cn" class="plain">Vận chuyển hàng đi các khu CN</a>
+                                                <a href="dich-vu/van-chuyen-hang-di-cac-khu-cn" class="plain">Vận chuyển hàng đi các khu CN</a>
                                             </h5>
                                             <div class="is-divider"></div>
                                             <p class="from_the_blog_excerpt ">
@@ -341,7 +341,7 @@
                                 <div class="box box-normal box-text-bottom box-blog-post has-hover">
                                     <div class="box-image" >
                                         <div class="image-cover" style="padding-top:56.25%;">
-                                            <a href="van-tai-hang-le-hang-ghep-hang-bao-xe" class="plain" aria-label="Vận tải hàng lẻ, hàng ghép, hàng bao xe">
+                                            <a href="dich-vu/van-tai-hang-le-hang-ghep-hang-bao-xe" class="plain" aria-label="Vận tải hàng lẻ, hàng ghép, hàng bao xe">
                                                 <img loading="lazy" decoding="async" width="1020" height="574" src="wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-1024x576.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-300x169.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-768x432.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5.jpg 1280w" sizes="auto, (max-width: 1020px) 100vw, 1020px" />							</a>
                                         </div>
                                     </div>
@@ -349,7 +349,7 @@
                                     <div class="box-text text-center" >
                                         <div class="box-text-inner blog-post-inner">
                                             <h5 class="post-title is-large ">
-                                                <a href="van-tai-hang-le-hang-ghep-hang-bao-xe" class="plain">Vận tải hàng lẻ, hàng ghép, hàng bao xe</a>
+                                                <a href="dich-vu/van-tai-hang-le-hang-ghep-hang-bao-xe" class="plain">Vận tải hàng lẻ, hàng ghép, hàng bao xe</a>
                                             </h5>
                                             <div class="is-divider"></div>
                                             <p class="from_the_blog_excerpt ">
@@ -739,7 +739,7 @@
                                 <div class="box box-normal box-text-bottom box-blog-post has-hover">
                                     <div class="box-image" >
                                         <div class="image-cover" style="padding-top:56.25%;">
-                                            <a href="tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the" class="plain" aria-label="Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể">
+                                            <a href="tin-tuc/tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the" class="plain" aria-label="Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể">
                                                 <img loading="lazy" decoding="async" width="640" height="426" src="wp-content/uploads/2024/07/cach-dong-goi-hang-hoa.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/cach-dong-goi-hang-hoa.jpg 640w, https://vantaihaidang.net/wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" />							</a>
                                         </div>
                                     </div>
@@ -748,7 +748,7 @@
 
 
                                             <h5 class="post-title is-large ">
-                                                <a href="tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the" class="plain">Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể</a>
+                                                <a href="tin-tuc/tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the" class="plain">Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể</a>
                                             </h5>
                                             <div class="is-divider"></div>
                                             <p class="from_the_blog_excerpt ">
@@ -762,14 +762,14 @@
                                 <div class="box box-normal box-text-bottom box-blog-post has-hover">
                                     <div class="box-image" >
                                         <div class="image-cover" style="padding-top:56.25%;">
-                                            <a href="chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong" class="plain" aria-label="Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?">
+                                            <a href="tin-tuc/chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong" class="plain" aria-label="Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?">
                                                 <img loading="lazy" decoding="async" width="640" height="369" src="wp-content/uploads/2024/07/le-vat-can-chuan-bi-cho-le-nhap-trach.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/le-vat-can-chuan-bi-cho-le-nhap-trach.jpg 640w, https://vantaihaidang.net/wp-content/uploads/2024/07/le-vat-can-chuan-bi-cho-le-nhap-trach-300x173.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" />							</a>
                                         </div>
                                     </div>
                                     <div class="box-text text-center" >
                                         <div class="box-text-inner blog-post-inner">
                                             <h5 class="post-title is-large ">
-                                                <a href="chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong" class="plain">Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?</a>
+                                                <a href="tin-tuc/chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong" class="plain">Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?</a>
                                             </h5>
                                             <div class="is-divider"></div>
                                             <p class="from_the_blog_excerpt ">
@@ -783,7 +783,7 @@
                                 <div class="box box-normal box-text-bottom box-blog-post has-hover">
                                     <div class="box-image" >
                                         <div class="image-cover" style="padding-top:56.25%;">
-                                            <a href="uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa" class="plain" aria-label="Ưu và nhược điểm của các phương thức vận chuyển hàng hóa">
+                                            <a href="tin-tuc/uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa" class="plain" aria-label="Ưu và nhược điểm của các phương thức vận chuyển hàng hóa">
                                                 <img loading="lazy" decoding="async" width="600" height="400" src="wp-content/uploads/2024/07/duong-bo.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/duong-bo.jpg 600w, https://vantaihaidang.net/wp-content/uploads/2024/07/duong-bo-300x200.jpg 300w" sizes="auto, (max-width: 600px) 100vw, 600px" />							</a>
                                         </div>
                                     </div>
@@ -792,7 +792,7 @@
 
 
                                             <h5 class="post-title is-large ">
-                                                <a href="uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa" class="plain">Ưu và nhược điểm của các phương thức vận chuyển hàng hóa</a>
+                                                <a href="tin-tuc/uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa" class="plain">Ưu và nhược điểm của các phương thức vận chuyển hàng hóa</a>
                                             </h5>
                                             <div class="is-divider"></div>
                                             <p class="from_the_blog_excerpt ">
@@ -807,14 +807,14 @@
                                 <div class="box box-normal box-text-bottom box-blog-post has-hover">
                                     <div class="box-image" >
                                         <div class="image-cover" style="padding-top:56.25%;">
-                                            <a href="quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen" class="plain" aria-label="Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển">
+                                            <a href="tin-tuc/quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen" class="plain" aria-label="Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển">
                                                 <img loading="lazy" decoding="async" width="630" height="468" src="wp-content/uploads/2024/07/van-chuyen-dan-piano-1.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/van-chuyen-dan-piano-1.jpg 630w, https://vantaihaidang.net/wp-content/uploads/2024/07/van-chuyen-dan-piano-1-300x223.jpg 300w" sizes="auto, (max-width: 630px) 100vw, 630px" />							</a>
                                         </div>
                                     </div>
                                     <div class="box-text text-center" >
                                         <div class="box-text-inner blog-post-inner">
                                             <h5 class="post-title is-large ">
-                                                <a href="quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen" class="plain">Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển</a>
+                                                <a href="tin-tuc/quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen" class="plain">Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển</a>
                                             </h5>
                                             <div class="is-divider"></div>
                                             <p class="from_the_blog_excerpt ">

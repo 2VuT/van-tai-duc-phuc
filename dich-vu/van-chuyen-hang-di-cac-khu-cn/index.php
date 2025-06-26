@@ -1,4 +1,4 @@
-<?php include '../header.php'; ?>
+<?php include '../../header.php'; ?>
 
 <main id="main" class="">
 
@@ -6,7 +6,7 @@
 
 
         <div class="container">
-            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="..">Trang chủ</a><span class="separator"> &nbsp;/&nbsp; </span><a href="../dich-vu">Dịch vụ</a><span class="separator"> &nbsp;/&nbsp; </span><span class="last">Vận chuyển hàng đi các khu CN</span></p></nav></div>
+            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="../..">Trang chủ</a><span class="separator"> &nbsp;/&nbsp; </span><a href="..">Dịch vụ</a><span class="separator"> &nbsp;/&nbsp; </span><span class="last">Vận chuyển hàng đi các khu CN</span></p></nav></div>
 
         <div class="row row-small ">
 
@@ -46,7 +46,7 @@
                                 </tbody>
                             </table>
                             <h2>Hình ảnh cung cấp dịch vụ vận chuyển hàng hoá cho khách hàng</h2>
-                            <p><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-1311" src="../wp-content/uploads/2024/08/6c364f94aaef0eb157fe92-225x300.jpg" alt="" width="225" height="300" srcset="https://vantaihaidang.net/wp-content/uploads/2024/08/6c364f94aaef0eb157fe92-225x300.jpg 225w, https://vantaihaidang.net/wp-content/uploads/2024/08/6c364f94aaef0eb157fe92-768x1024.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/08/6c364f94aaef0eb157fe92.jpg 960w" sizes="(max-width: 225px) 100vw, 225px" /><img decoding="async" class="alignnone size-medium wp-image-1292" src="../wp-content/uploads/2024/08/46a41918f7ae52f00bbf65-225x300.jpg" alt="" width="225" height="300" srcset="https://vantaihaidang.net/wp-content/uploads/2024/08/46a41918f7ae52f00bbf65-225x300.jpg 225w, https://vantaihaidang.net/wp-content/uploads/2024/08/46a41918f7ae52f00bbf65-768x1024.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/08/46a41918f7ae52f00bbf65.jpg 960w" sizes="(max-width: 225px) 100vw, 225px" /> <img decoding="async" class="alignnone size-medium wp-image-1297" src="../wp-content/uploads/2024/08/a21553d85769f237ab7850-225x300.jpg" alt="" width="225" height="300" srcset="https://vantaihaidang.net/wp-content/uploads/2024/08/a21553d85769f237ab7850-225x300.jpg 225w, https://vantaihaidang.net/wp-content/uploads/2024/08/a21553d85769f237ab7850-768x1024.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/08/a21553d85769f237ab7850.jpg 960w" sizes="(max-width: 225px) 100vw, 225px" /> <img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-1311" src="../wp-content/uploads/2024/08/6c364f94aaef0eb157fe92-225x300.jpg" alt="" width="225" height="300" srcset="https://vantaihaidang.net/wp-content/uploads/2024/08/6c364f94aaef0eb157fe92-225x300.jpg 225w, https://vantaihaidang.net/wp-content/uploads/2024/08/6c364f94aaef0eb157fe92-768x1024.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/08/6c364f94aaef0eb157fe92.jpg 960w" sizes="(max-width: 225px) 100vw, 225px" /> <img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1300" src="../wp-content/uploads/2024/08/ba9b900a94bb31e568aa61-300x225.jpg" alt="" width="300" height="225" srcset="https://vantaihaidang.net/wp-content/uploads/2024/08/ba9b900a94bb31e568aa61-300x225.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/08/ba9b900a94bb31e568aa61-1024x768.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/08/ba9b900a94bb31e568aa61-768x576.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/08/ba9b900a94bb31e568aa61.jpg 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
+                            <p><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-1311" src="../../wp-content/uploads/2024/08/6c364f94aaef0eb157fe92-225x300.jpg" alt="" width="225" height="300" srcset="https://vantaihaidang.net/wp-content/uploads/2024/08/6c364f94aaef0eb157fe92-225x300.jpg 225w, https://vantaihaidang.net/wp-content/uploads/2024/08/6c364f94aaef0eb157fe92-768x1024.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/08/6c364f94aaef0eb157fe92.jpg 960w" sizes="(max-width: 225px) 100vw, 225px" /><img decoding="async" class="alignnone size-medium wp-image-1292" src="../../wp-content/uploads/2024/08/46a41918f7ae52f00bbf65-225x300.jpg" alt="" width="225" height="300" srcset="https://vantaihaidang.net/wp-content/uploads/2024/08/46a41918f7ae52f00bbf65-225x300.jpg 225w, https://vantaihaidang.net/wp-content/uploads/2024/08/46a41918f7ae52f00bbf65-768x1024.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/08/46a41918f7ae52f00bbf65.jpg 960w" sizes="(max-width: 225px) 100vw, 225px" /> <img decoding="async" class="alignnone size-medium wp-image-1297" src="../../wp-content/uploads/2024/08/a21553d85769f237ab7850-225x300.jpg" alt="" width="225" height="300" srcset="https://vantaihaidang.net/wp-content/uploads/2024/08/a21553d85769f237ab7850-225x300.jpg 225w, https://vantaihaidang.net/wp-content/uploads/2024/08/a21553d85769f237ab7850-768x1024.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/08/a21553d85769f237ab7850.jpg 960w" sizes="(max-width: 225px) 100vw, 225px" /> <img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-1311" src="../../wp-content/uploads/2024/08/6c364f94aaef0eb157fe92-225x300.jpg" alt="" width="225" height="300" srcset="https://vantaihaidang.net/wp-content/uploads/2024/08/6c364f94aaef0eb157fe92-225x300.jpg 225w, https://vantaihaidang.net/wp-content/uploads/2024/08/6c364f94aaef0eb157fe92-768x1024.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/08/6c364f94aaef0eb157fe92.jpg 960w" sizes="(max-width: 225px) 100vw, 225px" /> <img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1300" src="../../wp-content/uploads/2024/08/ba9b900a94bb31e568aa61-300x225.jpg" alt="" width="300" height="225" srcset="https://vantaihaidang.net/wp-content/uploads/2024/08/ba9b900a94bb31e568aa61-300x225.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/08/ba9b900a94bb31e568aa61-1024x768.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/08/ba9b900a94bb31e568aa61-768x576.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/08/ba9b900a94bb31e568aa61.jpg 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
                             <p>Vận chuyển hàng hóa là xương sống cho sự phát triển của nền kinh tế thị trường nói chung và các doanh nghiệp nói riêng. Nhận thấy nhu cầu cần thuê xe, vận chuyển hàng hóa của các doanh nghiệp ngày một lớn. Chúng tôi trân trọng giới thiệu dịch vụ vận chuyển hàng hóa uy tín, chuyên nghiệp. Với đội ngũ tài xế chuyên nghiệp, cùng với sự đầu tư lớn và luôn đổi mới về phương tiện vận chuyển, thiết bị hiện đại, chúng tôi sẽ mang đến cho quý khách hàng một dịch vụ chất lượng, vận chuyển an toàn, giao hàng nhanh chóng mà giá cả cạnh tranh, hợp lý nhất thị trường, góp phần nâng cao tính cạnh tranh cho quý doanh nghiệp. Đến với dịch vụ của <strong>Vận tải Đức Phúc</strong> bạn sẽ hài lòng!</p>
                             <h2>Bảng giá vận chuyển hàng hoá tốt nhất thị trường</h2>
                             <h3>1. Bảng giá vận chuyển hàng hoá bằng xe tải</h3>
@@ -338,13 +338,13 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/van-chuyen-dan-piano-1-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/van-chuyen-dan-piano-1-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="flex-col flex-grow">
-                                        <a href="../quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen" title="Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển">Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển</a>
-                                        <span class="post_comments op-7 block is-xsmall"><a href="../quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen#respond"></a></span>
+                                        <a href="../../tin-tuc/quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen" title="Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển">Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển</a>
+                                        <span class="post_comments op-7 block is-xsmall"><a href="../../tin-tuc/quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen#respond"></a></span>
                                     </div>
                                 </div>
                             </li>
@@ -352,29 +352,13 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/duong-bo-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/duong-bo-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="flex-col flex-grow">
-                                        <a href="../uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa" title="Ưu và nhược điểm của các phương thức vận chuyển hàng hóa">Ưu và nhược điểm của các phương thức vận chuyển hàng hóa</a>
-                                        <span class="post_comments op-7 block is-xsmall"><a href="../uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa#respond"></a></span>
-                                    </div>
-                                </div>
-                            </li>
-
-
-                            <li class="recent-blog-posts-li">
-                                <div class="flex-row recent-blog-posts align-top pt-half pb-half">
-                                    <div class="flex-col mr-half">
-                                        <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/le-vat-can-chuan-bi-cho-le-nhap-trach-150x150.jpg); border:0;">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="flex-col flex-grow">
-                                        <a href="../chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong" title="Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?">Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?</a>
-                                        <span class="post_comments op-7 block is-xsmall"><a href="../chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong#respond"></a></span>
+                                        <a href="../../tin-tuc/uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa" title="Ưu và nhược điểm của các phương thức vận chuyển hàng hóa">Ưu và nhược điểm của các phương thức vận chuyển hàng hóa</a>
+                                        <span class="post_comments op-7 block is-xsmall"><a href="../../tin-tuc/uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa#respond"></a></span>
                                     </div>
                                 </div>
                             </li>
@@ -384,13 +368,13 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/le-vat-can-chuan-bi-cho-le-nhap-trach-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="flex-col flex-grow">
-                                        <a href="../tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the" title="Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể">Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể</a>
-                                        <span class="post_comments op-7 block is-xsmall"><a href="../tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the#respond"></a></span>
+                                        <a href="../../tin-tuc/chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong" title="Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?">Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?</a>
+                                        <span class="post_comments op-7 block is-xsmall"><a href="../../tin-tuc/chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong#respond"></a></span>
                                     </div>
                                 </div>
                             </li>
@@ -400,7 +384,23 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-150x150.jpg); border:0;">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="flex-col flex-grow">
+                                        <a href="../../tin-tuc/tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the" title="Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể">Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể</a>
+                                        <span class="post_comments op-7 block is-xsmall"><a href="../../tin-tuc/tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the#respond"></a></span>
+                                    </div>
+                                </div>
+                            </li>
+
+
+                            <li class="recent-blog-posts-li">
+                                <div class="flex-row recent-blog-posts align-top pt-half pb-half">
+                                    <div class="flex-col mr-half">
+                                        <div class="badge post-date  badge-outline">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
@@ -416,4 +416,4 @@
     </div>
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../../footer.php'; ?>

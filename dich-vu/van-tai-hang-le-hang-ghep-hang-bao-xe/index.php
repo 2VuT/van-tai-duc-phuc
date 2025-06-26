@@ -1,9 +1,9 @@
-<?php include '../header.php'; ?>
+<?php include '../../header.php'; ?>
 
 <main id="main" class="">
     <div id="content" class="blog-wrapper blog-single page-wrapper">
         <div class="container">
-            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="..">Trang chủ</a><span class="separator"> &nbsp;/&nbsp; </span><a href="../dich-vu">Dịch vụ</a><span class="separator"> &nbsp;/&nbsp; </span><span class="last">Vận tải hàng lẻ, hàng ghép, hàng bao xe</span></p></nav></div>
+            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="../..">Trang chủ</a><span class="separator"> &nbsp;/&nbsp; </span><a href="..">Dịch vụ</a><span class="separator"> &nbsp;/&nbsp; </span><span class="last">Vận tải hàng lẻ, hàng ghép, hàng bao xe</span></p></nav></div>
         <div class="row row-small ">
             <div class="large-9 col">
                 <article id="post-1125" class="post-1125 post type-post status-publish format-standard has-post-thumbnail hentry category-dich-vu">
@@ -204,7 +204,7 @@
                                 <li>Các hàng điện máy, điện lạnh, điện tử,…</li>
                                 <li>Và những mặt hàng khác theo yêu cầu của khách hàng..</li>
                             </ul>
-                            <p><img fetchpriority="high" decoding="async" class="alignnone wp-image-1327 size-full" src="../wp-content/uploads/2024/08/1845defb3b809fdec69167.jpg" alt="" width="1080" height="810" srcset="https://vantaihaidang.net/wp-content/uploads/2024/08/1845defb3b809fdec69167.jpg 1080w, https://vantaihaidang.net/wp-content/uploads/2024/08/1845defb3b809fdec69167-300x225.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/08/1845defb3b809fdec69167-1024x768.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/08/1845defb3b809fdec69167-768x576.jpg 768w" sizes="(max-width: 1080px) 100vw, 1080px" /></p>
+                            <p><img fetchpriority="high" decoding="async" class="alignnone wp-image-1327 size-full" src="../../wp-content/uploads/2024/08/1845defb3b809fdec69167.jpg" alt="" width="1080" height="810" srcset="https://vantaihaidang.net/wp-content/uploads/2024/08/1845defb3b809fdec69167.jpg 1080w, https://vantaihaidang.net/wp-content/uploads/2024/08/1845defb3b809fdec69167-300x225.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/08/1845defb3b809fdec69167-1024x768.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/08/1845defb3b809fdec69167-768x576.jpg 768w" sizes="(max-width: 1080px) 100vw, 1080px" /></p>
                             <h2>Cam kết nhận gửi hàng, chuyển hàng của Vận tải Đức Phúc</h2>
                             <p>Khi khách hàng tin tưởng lựa chọn dịch vụ gửi hàng, chuyển hàng của Đức Phúc, chúng tôi luôn cam kết:</p>
                             <ul>
@@ -273,13 +273,13 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/van-chuyen-dan-piano-1-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/van-chuyen-dan-piano-1-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="flex-col flex-grow">
-                                        <a href="../quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen" title="Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển">Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển</a>
-                                        <span class="post_comments op-7 block is-xsmall"><a href="../quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen#respond"></a></span>
+                                        <a href="../../tin-tuc/quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen" title="Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển">Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển</a>
+                                        <span class="post_comments op-7 block is-xsmall"><a href="../../tin-tuc/quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen#respond"></a></span>
                                     </div>
                                 </div>
                             </li>
@@ -289,13 +289,13 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/duong-bo-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/duong-bo-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="flex-col flex-grow">
-                                        <a href="../uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa" title="Ưu và nhược điểm của các phương thức vận chuyển hàng hóa">Ưu và nhược điểm của các phương thức vận chuyển hàng hóa</a>
-                                        <span class="post_comments op-7 block is-xsmall"><a href="../uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa#respond"></a></span>
+                                        <a href="../../tin-tuc/uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa" title="Ưu và nhược điểm của các phương thức vận chuyển hàng hóa">Ưu và nhược điểm của các phương thức vận chuyển hàng hóa</a>
+                                        <span class="post_comments op-7 block is-xsmall"><a href="../../tin-tuc/uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa#respond"></a></span>
                                     </div>
                                 </div>
                             </li>
@@ -305,13 +305,13 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/le-vat-can-chuan-bi-cho-le-nhap-trach-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/le-vat-can-chuan-bi-cho-le-nhap-trach-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="flex-col flex-grow">
-                                        <a href="../chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong" title="Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?">Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?</a>
-                                        <span class="post_comments op-7 block is-xsmall"><a href="../chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong#respond"></a></span>
+                                        <a href="../../tin-tuc/chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong" title="Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?">Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?</a>
+                                        <span class="post_comments op-7 block is-xsmall"><a href="../../tin-tuc/chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong#respond"></a></span>
                                     </div>
                                 </div>
                             </li>
@@ -321,13 +321,13 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="flex-col flex-grow">
-                                        <a href="../tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the" title="Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể">Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể</a>
-                                        <span class="post_comments op-7 block is-xsmall"><a href="../tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the#respond"></a></span>
+                                        <a href="../../tin-tuc/tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the" title="Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể">Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể</a>
+                                        <span class="post_comments op-7 block is-xsmall"><a href="../../tin-tuc/tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the#respond"></a></span>
                                     </div>
                                 </div>
                             </li>
@@ -337,7 +337,7 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
@@ -356,4 +356,4 @@
 
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../../footer.php'; ?>

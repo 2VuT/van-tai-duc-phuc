@@ -21,7 +21,7 @@
                                 <div class="box box-text-bottom box-blog-post has-hover">
                                     <div class="box-image" >
                                         <div class="image-cover" style="padding-top:56%;">
-                                            <a href="../van-tai-hang-le-hang-ghep-hang-bao-xe/" class="plain" aria-label="Vận tải hàng lẻ, hàng ghép, hàng bao xe">
+                                            <a href="van-tai-hang-le-hang-ghep-hang-bao-xe/" class="plain" aria-label="Vận tải hàng lẻ, hàng ghép, hàng bao xe">
                                                 <img width="1020" height="574" src="../wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-1024x576.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-300x169.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-768x432.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5.jpg 1280w" sizes="auto, (max-width: 1020px) 100vw, 1020px" />							</a>
                                         </div>
                                     </div>
@@ -42,7 +42,7 @@
                                 <div class="box box-text-bottom box-blog-post has-hover">
                                     <div class="box-image" >
                                         <div class="image-cover" style="padding-top:56%;">
-                                            <a href="../van-chuyen-hang-di-cac-khu-cn/" class="plain" aria-label="Vận chuyển hàng đi các khu CN">
+                                            <a href="dich-vu/van-chuyen-hang-di-cac-khu-cn/" class="plain" aria-label="Vận chuyển hàng đi các khu CN">
                                                 <img width="1020" height="765" src="../wp-content/uploads/2024/08/3cefd4db5c7bf825a16a-1024x768.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://vantaihaidang.net/wp-content/uploads/2024/08/3cefd4db5c7bf825a16a-1024x768.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/08/3cefd4db5c7bf825a16a-300x225.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/08/3cefd4db5c7bf825a16a-768x576.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/08/3cefd4db5c7bf825a16a.jpg 1280w" sizes="auto, (max-width: 1020px) 100vw, 1020px" />							</a>
                                         </div>
                                     </div>
@@ -51,7 +51,7 @@
 
 
                                             <h5 class="post-title is-large ">
-                                                <a href="../van-chuyen-hang-di-cac-khu-cn/" class="plain">Vận chuyển hàng đi các khu CN</a>
+                                                <a href="dich-vu/van-chuyen-hang-di-cac-khu-cn/" class="plain">Vận chuyển hàng đi các khu CN</a>
                                             </h5>
                                             <div class="is-divider"></div>
                                             <p class="from_the_blog_excerpt ">
@@ -68,7 +68,7 @@
                                 <div class="box box-text-bottom box-blog-post has-hover">
                                     <div class="box-image" >
                                         <div class="image-cover" style="padding-top:56%;">
-                                            <a href="../van-tai-bac-nam/" class="plain" aria-label="Vận tải Bắc Nam">
+                                            <a href="van-tai-bac-nam/" class="plain" aria-label="Vận tải Bắc Nam">
                                                 <img width="1020" height="721" src="../wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-1024x724.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-1024x724.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-300x212.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-768x543.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977.jpg 1500w" sizes="auto, (max-width: 1020px) 100vw, 1020px" />							</a>
                                         </div>
                                     </div>
@@ -77,7 +77,7 @@
 
 
                                             <h5 class="post-title is-large ">
-                                                <a href="../van-tai-bac-nam/" class="plain">Vận tải Bắc Nam</a>
+                                                <a href="van-tai-bac-nam/" class="plain">Vận tải Bắc Nam</a>
                                             </h5>
                                             <div class="is-divider"></div>
                                             <p class="from_the_blog_excerpt ">
@@ -128,8 +128,8 @@
                                         </div>
                                     </div>
                                     <div class="flex-col flex-grow">
-                                        <a href="../quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen/" title="Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển">Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển</a>
-                                        <span class="post_comments op-7 block is-xsmall"><a href="../quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen/#respond"></a></span>
+                                        <a href="../tin-tuc/quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen/" title="Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển">Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển</a>
+                                        <span class="post_comments op-7 block is-xsmall"><a href="../tin-tuc/quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen/#respond"></a></span>
                                     </div>
                                 </div>
                             </li>
@@ -144,8 +144,8 @@
                                         </div>
                                     </div>
                                     <div class="flex-col flex-grow">
-                                        <a href="../uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa/" title="Ưu và nhược điểm của các phương thức vận chuyển hàng hóa">Ưu và nhược điểm của các phương thức vận chuyển hàng hóa</a>
-                                        <span class="post_comments op-7 block is-xsmall"><a href="../uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa/#respond"></a></span>
+                                        <a href="../tin-tuc/uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa/" title="Ưu và nhược điểm của các phương thức vận chuyển hàng hóa">Ưu và nhược điểm của các phương thức vận chuyển hàng hóa</a>
+                                        <span class="post_comments op-7 block is-xsmall"><a href="../tin-tuc/uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa/#respond"></a></span>
                                     </div>
                                 </div>
                             </li>
@@ -160,8 +160,8 @@
                                         </div>
                                     </div>
                                     <div class="flex-col flex-grow">
-                                        <a href="../chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong/" title="Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?">Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?</a>
-                                        <span class="post_comments op-7 block is-xsmall"><a href="../chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong/#respond"></a></span>
+                                        <a href="../tin-tuc/chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong/" title="Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?">Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?</a>
+                                        <span class="post_comments op-7 block is-xsmall"><a href="../tin-tuc/chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong/#respond"></a></span>
                                     </div>
                                 </div>
                             </li>
@@ -176,8 +176,8 @@
                                         </div>
                                     </div>
                                     <div class="flex-col flex-grow">
-                                        <a href="../tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the/" title="Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể">Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể</a>
-                                        <span class="post_comments op-7 block is-xsmall"><a href="../tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the/#respond"></a></span>
+                                        <a href="../tin-tuc/tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the/" title="Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể">Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể</a>
+                                        <span class="post_comments op-7 block is-xsmall"><a href="../tin-tuc/tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the/#respond"></a></span>
                                     </div>
                                 </div>
                             </li>
@@ -192,8 +192,8 @@
                                         </div>
                                     </div>
                                     <div class="flex-col flex-grow">
-                                        <a href="../van-tai-hang-le-hang-ghep-hang-bao-xe" title="Vận tải hàng lẻ, hàng ghép, hàng bao xe">Vận tải hàng lẻ, hàng ghép, hàng bao xe</a>
-                                        <span class="post_comments op-7 block is-xsmall"><a href="../van-tai-hang-le-hang-ghep-hang-bao-xe#respond"></a></span>
+                                        <a href="van-tai-hang-le-hang-ghep-hang-bao-xe" title="Vận tải hàng lẻ, hàng ghép, hàng bao xe">Vận tải hàng lẻ, hàng ghép, hàng bao xe</a>
+                                        <span class="post_comments op-7 block is-xsmall"><a href="van-tai-hang-le-hang-ghep-hang-bao-xe#respond"></a></span>
                                     </div>
                                 </div>
                             </li>

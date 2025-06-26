@@ -6,7 +6,7 @@
 
 
         <div class="container">
-            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="..">Trang chủ</a><span class="separator"> &nbsp;/&nbsp; </span><a href="../tin-tuc">Tin tức</a><span class="separator"> &nbsp;/&nbsp; </span><span class="last">Ưu và nhược điểm của các phương thức vận chuyển hàng hóa</span></p></nav></div>
+            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="../..">Trang chủ</a><span class="separator"> &nbsp;/&nbsp; </span><a href="..">Tin tức</a><span class="separator"> &nbsp;/&nbsp; </span><span class="last">Ưu và nhược điểm của các phương thức vận chuyển hàng hóa</span></p></nav></div>
 
         <div class="row row-small ">
 
@@ -122,7 +122,7 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/van-chuyen-dan-piano-1-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/van-chuyen-dan-piano-1-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
@@ -138,7 +138,7 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/duong-bo-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/duong-bo-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
@@ -154,7 +154,7 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/le-vat-can-chuan-bi-cho-le-nhap-trach-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/le-vat-can-chuan-bi-cho-le-nhap-trach-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
@@ -170,7 +170,7 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
@@ -186,13 +186,13 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="flex-col flex-grow">
-                                        <a href="../van-tai-hang-le-hang-ghep-hang-bao-xe" title="Vận tải hàng lẻ, hàng ghép, hàng bao xe">Vận tải hàng lẻ, hàng ghép, hàng bao xe</a>
-                                        <span class="post_comments op-7 block is-xsmall"><a href="../van-tai-hang-le-hang-ghep-hang-bao-xe#respond"></a></span>
+                                        <a href="../../dich-vu/van-tai-hang-le-hang-ghep-hang-bao-xe" title="Vận tải hàng lẻ, hàng ghép, hàng bao xe">Vận tải hàng lẻ, hàng ghép, hàng bao xe</a>
+                                        <span class="post_comments op-7 block is-xsmall"><a href="../../dich-vu/van-tai-hang-le-hang-ghep-hang-bao-xe#respond"></a></span>
                                     </div>
                                 </div>
                             </li>

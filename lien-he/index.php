@@ -154,7 +154,9 @@
             </style>
         </div>
 
-        <div><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1869.142815001144!2d106.34448755134915!3d20.453458439108637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135e52b37e614b1%3A0x1f5f5b4553033a66!2zMTUgTMO9IFRoxrDhu51uZyBLaeG7h3QsIFAuIEzDqiBI4buTbmcsIFRow6FpIELDrG5oLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1750847349819!5m2!1svi!2s" width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+        <div>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1869.2141585132063!2d106.3523184188298!3d20.44759391175526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135fb7eecddc437%3A0xcadaa68f7e31a921!2zS2h1IHTDoWkgxJHhu4tuaCBjxrAgxJDhu5NuZyBMw7Rp!5e0!3m2!1svi!2s!4v1750907775442!5m2!1svi!2s" width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
     </div>
 </main>
 

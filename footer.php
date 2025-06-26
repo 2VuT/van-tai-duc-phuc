@@ -147,7 +147,7 @@
                                 </a>
                             </div>
                             <div class="ux-menu-link flex menu-item">
-                                <a class="ux-menu-link__link flex" href="../van-chuyen-hang-di-cac-khu-cn" >
+                                <a class="ux-menu-link__link flex" href="../dich-vu/van-chuyen-hang-di-cac-khu-cn" >
                                     <span class="ux-menu-link__text">
                                         Giao nhân - Ký gửi hàng hoá
                                     </span>
@@ -258,9 +258,9 @@
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1110"><a href="gioi-thieu">Giới thiệu</a></li>
             <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1113"><a href="dich-vu">Dịch vụ</a>
                 <ul class="sub-menu nav-sidebar-ul children">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1171"><a href="van-tai-bac-nam">Vận tải Bắc Nam</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1170"><a href="van-chuyen-hang-di-cac-khu-cn">Vận chuyển hàng đi các khu CN</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1169"><a href="van-tai-hang-le-hang-ghep-hang-bao-xe">Vận tải hàng lẻ, hàng ghép, hàng bao xe</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1171"><a href="dich-vu/van-tai-bac-nam">Vận tải Bắc Nam</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1170"><a href="dich-vu/van-chuyen-hang-di-cac-khu-cn">Vận chuyển hàng đi các khu CN</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1169"><a href="dich-vu/van-tai-hang-le-hang-ghep-hang-bao-xe">Vận tải hàng lẻ, hàng ghép, hàng bao xe</a></li>
                 </ul>
             </li>
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1116"><a href="bang-gia">Bảng giá</a></li>

@@ -1,4 +1,4 @@
-<?php include '../header.php'; ?>
+<?php include '../../header.php'; ?>
 
 <main id="main" class="">
 
@@ -6,7 +6,7 @@
 
 
         <div class="container">
-            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="..">Trang chủ</a><span class="separator"> &nbsp;/&nbsp; </span><a href="../dich-vu">Dịch vụ</a><span class="separator"> &nbsp;/&nbsp; </span><span class="last">Vận tải Bắc Nam</span></p></nav></div>
+            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="../..">Trang chủ</a><span class="separator"> &nbsp;/&nbsp; </span><a href="..">Dịch vụ</a><span class="separator"> &nbsp;/&nbsp; </span><span class="last">Vận tải Bắc Nam</span></p></nav></div>
 
         <div class="row row-small ">
 
@@ -23,11 +23,11 @@
                         </header>
                         <div class="entry-content single-page">
 
-                            <p>Hiện nay, thị trường vận chuyển hàng hoá tại Việt Nam đang ngày càng phát triển mạnh, có rất nhiều công ty vận chuyển hàng hoá Bắc Nam được thành lập. <strong><a href="..">Vận tải Đức Phúc</a></strong> có nhiều năm kinh nghiêm trong lĩnh vực vận chuyển hàng hoá, luôn tự tin đem lại dịch vụ vận chuyển hàng hoá Bắc Nam với chất lượng tốt nhất và mức giá vận chuyển thấp nhất. Chúng tôi có đội ngũ nhân viên tư vấn nhiệt tình, có chuyên môn, đội ngũ bác tài giàu kinh nghiệm, đội ngũ nhân viên bốc xếp trẻ trung, nhiệt tình, có sức khoẻ, đóng gói, bảo quản hàng cẩn thận…</p>
+                            <p>Hiện nay, thị trường vận chuyển hàng hoá tại Việt Nam đang ngày càng phát triển mạnh, có rất nhiều công ty vận chuyển hàng hoá Bắc Nam được thành lập. <strong><a href="../..">Vận tải Đức Phúc</a></strong> có nhiều năm kinh nghiêm trong lĩnh vực vận chuyển hàng hoá, luôn tự tin đem lại dịch vụ vận chuyển hàng hoá Bắc Nam với chất lượng tốt nhất và mức giá vận chuyển thấp nhất. Chúng tôi có đội ngũ nhân viên tư vấn nhiệt tình, có chuyên môn, đội ngũ bác tài giàu kinh nghiệm, đội ngũ nhân viên bốc xếp trẻ trung, nhiệt tình, có sức khoẻ, đóng gói, bảo quản hàng cẩn thận…</p>
                             <p><strong>Công ty TNHH TM DV Đức Phúc Group</strong> là một trong những công ty vận tải đường bộ tốt nhất hiện nay, với sự đa dạng về loại hình vận tải, phương tiện vận chuyển chúng tôi tự tin đáp ứng được mọi yêu cầu khắt khe nhất của Quý khách hàng, chúng tôi luôn hướng đến mục tiêu mang lại chất lượng dịch vụ <a href="index.html">vận chuyển hàng hoá Bắc Nam</a> tốt nhất với chi phí thấp nhất và phong cách phục vụ tốt nhất.</p>
                             <p>Trong suốt quá trình vận chuyển hàng hoá, luôn đòi hỏi đội ngũ nhân viên phải chuyển nghiệp, có kiến thức, nghiệp vụ chuyên môn vì đây là công việc kết hợp giữa nhiều bộ phận của công ty, mỗi giai đoạn công việc của <strong>Vận tải Đức Phúc</strong> đều được xử lý, hoàn thành tốt, tránh bị ảnh hưởng tới các bộ phận còn lại, làm ảnh hưởng đến tiến độ vận chuyển hàng hoá của khách hàng</p>
                             <p><strong>Công ty TNHH TM DV Đức Phúc Group</strong> luôn là địa chỉ quen thuộc, tin cậy và là lựa chọn hàng đầu của khách hàng có nhu cầu sử dụng dịch vụ vận chuyển hàng hoá Bắc Nam. Với phong cách phục vụ và quy trình làm việc chuyên nghiệp chúng tôi đã và đang mang đến dịch vụ vận chuyển hàng hoá Bắc Nam một lượng khách hàng lớn.</p>
-                            <figure id="attachment_1360" aria-describedby="caption-attachment-1360" style="width: 1024px" class="wp-caption alignnone"><img fetchpriority="high" decoding="async" class="wp-image-1360 size-large" src="../wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-1024x576.jpg" alt="" width="1024" height="576" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-1024x576.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-300x169.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-768x432.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption id="caption-attachment-1360" class="wp-caption-text">Dịch vụ vận chuyển hàng hoá Bắc Nam – Giao nhận hàng tận nơi</figcaption></figure>
+                            <figure id="attachment_1360" aria-describedby="caption-attachment-1360" style="width: 1024px" class="wp-caption alignnone"><img fetchpriority="high" decoding="async" class="wp-image-1360 size-large" src="../../wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-1024x576.jpg" alt="" width="1024" height="576" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-1024x576.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-300x169.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-768x432.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption id="caption-attachment-1360" class="wp-caption-text">Dịch vụ vận chuyển hàng hoá Bắc Nam – Giao nhận hàng tận nơi</figcaption></figure>
                             <h2>Mức giá vận chuyển hàng hóa Bắc Nam</h2>
                             <p>Mức giá cước <strong>Công ty TNHH TM DV Đức Phúc Group</strong> đem đến cho Quý khách hàng luôn là mức giá tốt nhất, giúp khách hàng cắt giảm nỗi lo chi phí của mình. Mức giá của chúng tôi tốt hơn nhờ số lượng phương tiện nhiều, xe chạy hàng ngày. Giá cước của các miền Bắc Trung Nam sẽ có giá khác nhau, tuỳ theo khối lượng và quãng đường mà khách hàng muốn vận chuyển, do đó để biết được chính xác mức giá cụ thể của mỗi khách hàng hãy nhanh chóng cung cấp thông tin hàng hoá và nhu cầu vận chuyển của khách hàng qua hotline <strong>0925.745789</strong> để nhân viên tư vấn báo giá có thể hỗ trợ tư vấn và báo giá vận chuyển hàng hoá Bắc Nam cho khách hàng một cách tốt nhất và nhanh nhất.</p>
                             <h2>Cách tính cước vận tải hàng hoá đường bộ</h2>
@@ -50,7 +50,7 @@
                             <p>– Có đầy đủ các giấy phép vận chuyển, hợp đồng vận chuyển nếu khách hàng yêu cầu.</p>
                             <p>– Thời gian vận chuyển đúng hẹn như đã cam kết với khách hàng.</p>
                             <p>– Có nhiều ưu đãi lớn cho các khách hàng thân thiết của công ty.</p>
-                            <figure id="attachment_1334" aria-describedby="caption-attachment-1334" style="width: 1020px" class="wp-caption alignnone"><img decoding="async" class="size-large wp-image-1334" src="../wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-1024x724.jpg" alt="" width="1020" height="721" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-1024x724.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-300x212.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-768x543.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977.jpg 1500w" sizes="(max-width: 1020px) 100vw, 1020px" /><figcaption id="caption-attachment-1334" class="wp-caption-text">Vận tải Đức Phúc</figcaption></figure>
+                            <figure id="attachment_1334" aria-describedby="caption-attachment-1334" style="width: 1020px" class="wp-caption alignnone"><img decoding="async" class="size-large wp-image-1334" src="../../wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-1024x724.jpg" alt="" width="1020" height="721" srcset="https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-1024x724.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-300x212.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977-768x543.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/07/558f2944-0efb-4ecd-94fc-43c193146977.jpg 1500w" sizes="(max-width: 1020px) 100vw, 1020px" /><figcaption id="caption-attachment-1334" class="wp-caption-text">Vận tải Đức Phúc</figcaption></figure>
                             <h2>Đôi nét về Công ty Vận tải Đức Phúc</h2>
                             <p>Công ty Vận tải Đức Phúc là đơn vị vận tải nội địa uy tín, hàng hoá của khách hàng dù nhỏ lẻ hay hàng ghép, hay hàng với số lượng nhiều đều được chúng tôi vận chuyển an toàn, giao hàng tận nơi cho khách hàng.</p>
                             <h3>Công ty vận tải hàng hoá đường bộ</h3>
@@ -78,7 +78,7 @@
                             <p>Với hệ thống xe tải chở hàng, xe đầu kéo container đa dạng trọng tải, chúng tôi hướng mục tiêu phát triển cung cấp dịch vụ trên toàn quốc, với hệ thống kho bãi rộng rãi, thoàng mát, có đầy đủ giấy phép vận chuyển hàng hoá, đội ngủ nhân viên chuyên nghiệp, luôn đảm bảo hỗ trợ khách hàng 24/24. Để biết chi tiết mức giá vận chuyển hàng hoá Bắc Nam hãy liên hệ ngay cho chúng tôi qua Hotline 0945111507 để được tư vấn lựa chọn giải pháp vận chuyển và báo giá nhanh nhất.</p>
                             <h3>Vận chuyển hàng hoá Bắc Nam bằng xe cẩu</h3>
                             <p>Ngoài việc cung cấp dịch vụ chở hàng bằng xe tải, chúng tôi nhận vận chuyển hàng hoá Bắc Nam bằng xe cẩu, để tiện lợi cho việc lên xuống hàng với những loại hàng hoá nặng, cồng kềnh, cần sử dụng xe cẩu, giúp khách hàng giải quyết vấn đề lên hàng ở đầu gửi và xuống hàng ở đầu nhận.</p>
-                            <h3><img decoding="async" class="alignnone size-large wp-image-1303" src="../wp-content/uploads/2024/08/f99bb62b589dfdc3a48c64-1024x768.jpg" alt="" width="1020" height="765" srcset="https://vantaihaidang.net/wp-content/uploads/2024/08/f99bb62b589dfdc3a48c64-1024x768.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/08/f99bb62b589dfdc3a48c64-300x225.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/08/f99bb62b589dfdc3a48c64-768x576.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/08/f99bb62b589dfdc3a48c64.jpg 1280w" sizes="(max-width: 1020px) 100vw, 1020px" /><br />
+                            <h3><img decoding="async" class="alignnone size-large wp-image-1303" src="../../wp-content/uploads/2024/08/f99bb62b589dfdc3a48c64-1024x768.jpg" alt="" width="1020" height="765" srcset="https://vantaihaidang.net/wp-content/uploads/2024/08/f99bb62b589dfdc3a48c64-1024x768.jpg 1024w, https://vantaihaidang.net/wp-content/uploads/2024/08/f99bb62b589dfdc3a48c64-300x225.jpg 300w, https://vantaihaidang.net/wp-content/uploads/2024/08/f99bb62b589dfdc3a48c64-768x576.jpg 768w, https://vantaihaidang.net/wp-content/uploads/2024/08/f99bb62b589dfdc3a48c64.jpg 1280w" sizes="(max-width: 1020px) 100vw, 1020px" /><br />
                                 Năng lực dịch vụ của chúng tôi</h3>
                             <h4>
                                 Phương tiện vận chuyển</h4>
@@ -203,13 +203,13 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/van-chuyen-dan-piano-1-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/van-chuyen-dan-piano-1-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="flex-col flex-grow">
-                                        <a href="../quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen" title="Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển">Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển</a>
-                                        <span class="post_comments op-7 block is-xsmall"><a href="../quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen#respond"></a></span>
+                                        <a href="../../tin-tuc/quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen" title="Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển">Quy trình 5 bước vận chuyển đàn Piano – Bảng giá vận chuyển</a>
+                                        <span class="post_comments op-7 block is-xsmall"><a href="../../tin-tuc/quy-trinh-5-buoc-van-chuyen-dan-piano-bang-gia-van-chuyen#respond"></a></span>
                                     </div>
                                 </div>
                             </li>
@@ -219,13 +219,13 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/duong-bo-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/duong-bo-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="flex-col flex-grow">
-                                        <a href="../uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa" title="Ưu và nhược điểm của các phương thức vận chuyển hàng hóa">Ưu và nhược điểm của các phương thức vận chuyển hàng hóa</a>
-                                        <span class="post_comments op-7 block is-xsmall"><a href="../uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa#respond"></a></span>
+                                        <a href="../../tin-tuc/uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa" title="Ưu và nhược điểm của các phương thức vận chuyển hàng hóa">Ưu và nhược điểm của các phương thức vận chuyển hàng hóa</a>
+                                        <span class="post_comments op-7 block is-xsmall"><a href="../../tin-tuc/uu-va-nhuoc-diem-cua-cac-phuong-thuc-van-chuyen-hang-hoa#respond"></a></span>
                                     </div>
                                 </div>
                             </li>
@@ -235,13 +235,13 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/le-vat-can-chuan-bi-cho-le-nhap-trach-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/le-vat-can-chuan-bi-cho-le-nhap-trach-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="flex-col flex-grow">
-                                        <a href="../chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong" title="Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?">Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?</a>
-                                        <span class="post_comments op-7 block is-xsmall"><a href="../chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong#respond"></a></span>
+                                        <a href="../../tin-tuc/chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong" title="Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?">Chuyển đến nhà mới thuê có cần làm lễ nhập trạch không?</a>
+                                        <span class="post_comments op-7 block is-xsmall"><a href="../../tin-tuc/chuyen-den-nha-moi-thue-co-can-lam-le-nhap-trach-khong#respond"></a></span>
                                     </div>
                                 </div>
                             </li>
@@ -251,13 +251,13 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/cach-dong-goi-hang-hoa-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="flex-col flex-grow">
-                                        <a href="../tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the" title="Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể">Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể</a>
-                                        <span class="post_comments op-7 block is-xsmall"><a href="../tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the#respond"></a></span>
+                                        <a href="../../tin-tuc/tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the" title="Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể">Tiêu chuẩn quy cách đóng gói hàng hóa các mặt hàng cụ thể</a>
+                                        <span class="post_comments op-7 block is-xsmall"><a href="../../tin-tuc/tieu-chuan-quy-cach-dong-goi-hang-hoa-cac-mat-hang-cu-the#respond"></a></span>
                                     </div>
                                 </div>
                             </li>
@@ -267,7 +267,7 @@
                                 <div class="flex-row recent-blog-posts align-top pt-half pb-half">
                                     <div class="flex-col mr-half">
                                         <div class="badge post-date  badge-outline">
-                                            <div class="badge-inner bg-fill" style="background: url(../wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-150x150.jpg); border:0;">
+                                            <div class="badge-inner bg-fill" style="background: url(../../wp-content/uploads/2024/07/6426fc24-f636-48d0-b834-d7df4df3fac5-150x150.jpg); border:0;">
                                             </div>
                                         </div>
                                     </div>
@@ -286,4 +286,4 @@
 
 </main>
 
-<?php include '../footer.php'; ?>
+<?php include '../../footer.php'; ?>
