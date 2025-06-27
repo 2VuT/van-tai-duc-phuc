@@ -153,7 +153,7 @@ border-radius: 0 !important;
 }
 
 .header-nav-main>li>a:hover,.header-nav-main>li.current-dropdown>a,.header-nav-main>li.active>a {
-    color: #ec2227!important
+    color: #b72025!important
 }
 
 .icon-ms .overlay-icon {
@@ -201,7 +201,7 @@ ul.header-nav.header-nav-main.nav.nav-left.nav-divided.nav-size-small.nav-upperc
 }
 
 .nav-dropdown-has-border .nav-dropdown li a:hover {
-    background: #ec2227
+    background: #b72025
 }
 
 .banner-footer a.hotspot {
@@ -334,7 +334,7 @@ li#menu-item-6026 ul.sub-menu a:after {
 }
 
 .single .article-inner h1,.single .article-inner h2,.single .article-inner h3,.single .article-inner H4 {
-    color: #ec2227
+    color: #b72025
 }
 
 .single .article-inner .page-title-inner {
@@ -389,7 +389,7 @@ li#menu-item-6026 ul.sub-menu a:after {
 
 .widget-area .widget-title,.widget-area .section-title,.section-title-container .widget-title,.section-title-container .section-title {
     overflow: hidden;
-    border-bottom: 2px solid #e91c30!important;
+    border-bottom: 2px solid #b72025!important;
     margin-bottom: 25px;
     display: block;
     height: 34px;
@@ -398,7 +398,7 @@ li#menu-item-6026 ul.sub-menu a:after {
 
 .widget-area .widget-title span,.widget-area .widget-title .section-title-main,.widget-area .section-title span,.widget-area .section-title .section-title-main,.section-title-container .widget-title span,.section-title-container .widget-title .section-title-main,.section-title-container .section-title span,.section-title-container .section-title .section-title-main {
     text-transform: uppercase;
-    background: #e91c30;
+    background: #b72025;
     color: #fff;
     border-radius: 5px 5px 0 0;
     padding: 6px 13px;
@@ -426,7 +426,7 @@ li#menu-item-6026 ul.sub-menu a:after {
     content: '';
     display: block;
     line-height: 40px;
-    background: #ec2227;
+    background: #b72025;
     width: 20px;
     height: 35px;
     position: absolute;
@@ -472,7 +472,7 @@ h5.post-title {
 
 .widget .current-cat>a {
     font-weight: 400;
-    color: #ec2227
+    color: #b72025
 }
 
 .author-box,.thong-tin-du-an {
@@ -992,7 +992,7 @@ h5.post-title {
 }
 
 .row-trachnhiem .large-7 .test-2 ul li a {
-    color: #ec2227
+    color: #b72025
 }
 
 .row-trachnhiem .large-7 .test-2 ul li a:hover {
@@ -1939,7 +1939,7 @@ a.hotline {
     width: 145px;
     height: 145px;
     border: 5px solid #F6F6F6;
-    background: #ec2227;
+    background: #b72025;
     padding: 10px;
     display: flex;
     align-items: center;
@@ -2003,7 +2003,7 @@ margin-top: -115px;
 
 }
 .procedure_it:hover h3{
-        color:#ec2227;
+        color:#b72025;
 }
  .money span {
         -webkit-writing-mode: vertical-rl;

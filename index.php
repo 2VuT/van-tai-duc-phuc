@@ -59,15 +59,14 @@
                 <div id="col-1740662412" class="col hide-for-small medium-6 small-12 large-6"  >
                     <div class="col-inner"  >
                         <div class="row large-columns-1 medium-columns- small-columns- row-collapse slider row-slider slider-nav-simple"  data-flickity-options='{&quot;imagesLoaded&quot;: true, &quot;groupCells&quot;: &quot;100%&quot;, &quot;dragThreshold&quot; : 5, &quot;cellAlign&quot;: &quot;left&quot;,&quot;wrapAround&quot;: true,&quot;prevNextButtons&quot;: true,&quot;percentPosition&quot;: true,&quot;pageDots&quot;: false, &quot;rightToLeft&quot;: false, &quot;autoPlay&quot; : 2000}' >
-                            <!-- Thay đổi ảnh trong slider-->
                             <div class="gallery-col col" >
                                 <div class="col-inner">
                                     <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/07/slider1.jpg" title="">
                                         <div class="box has-hover gallery-box box-none">
                                             <div class="box-image image-cover" style="padding-top:90%;">
-                                                <!-- Updated-->
                                                 <!--                                            <img decoding="async" width="1020" height="765" src="/wp-content/uploads/2025/07/slider1.jpg" class="attachment-large size-large" alt="" ids="1552,1551,1550,1549" style="none" type="slider" col_spacing="collapse" columns="1" slider_nav_style="simple" auto_slide="2000" image_height="90%" image_size="large" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3162.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471539400_558833123635724_4851287770344494126_n.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471539400_558833123635724_4851287770344494126_n.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471539400_558833123635724_4851287770344494126_n.jpg/dia-chi.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471539400_558833123635724_4851287770344494126_n.jpg/474701267_593898310127318_3967759383286446098_n.jpg 2048w" sizes="(max-width: 1020px) 100vw, 1020px" />                                                              </div>-->
-                                                <img decoding="async" width="1020" height="765" src="/wp-content/uploads/2025/07/slider1.jpg" class="attachment-large size-large" alt="" ids="1552,1551,1550,1549" style="none" type="slider" col_spacing="collapse" columns="1" slider_nav_style="simple" auto_slide="2000" image_height="90%" image_size="large" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/slider1.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider1.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider1.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider1.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider1.jpg 2048w" sizes="(max-width: 1020px) 100vw, 1020px" />                                                              </div>
+                                                <img decoding="async" width="1020" height="765" src="/wp-content/uploads/2025/07/slider1.jpg" class="attachment-large size-large" alt="" ids="1552,1551,1550,1549" style="none" type="slider" col_spacing="collapse" columns="1" slider_nav_style="simple" auto_slide="2000" image_height="90%" image_size="large" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/slider1.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider1.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider1.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider1.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider1.jpg 2048w" sizes="(max-width: 1020px) 100vw, 1020px" />
+                                            </div>
                                             <div class="box-text text-left" >
                                                 <p></p>
                                             </div>
@@ -75,13 +74,12 @@
                                     </a>
                                 </div>
                             </div>
-
                             <div class="gallery-col col" >
                                 <div class="col-inner">
                                     <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/07/slider2.jpg" title=""><div class="box has-hover gallery-box box-none">
                                             <div class="box-image image-cover" style="padding-top:90%;">
-                                                <img decoding="async" width="1020" height="765" src="/wp-content/uploads/2025/07/471539400_558833123635724_4851287770344494126_n.jpg" class="attachment-large size-large" alt="" ids="1552,1551,1550,1549" style="none" type="slider" col_spacing="collapse" columns="1" slider_nav_style="simple" auto_slide="2000" image_height="90%" image_size="large" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/471539400_558833123635724_4851287770344494126_n.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471539400_558833123635724_4851287770344494126_n.jpg/474363164_593893960127753_4712916780925297167_n.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471539400_558833123635724_4851287770344494126_n.jpg/470129470_549557581229945_1835764737468656760_n.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844339069_65f2a542bbc30663c951a75ff9ca072f-1536x1152.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844339069_65f2a542bbc30663c951a75ff9ca072f-2048x1536.jpg 2048w" sizes="(max-width: 1020px) 100vw, 1020px" />                                                              </div>
-                                            <!--                                            <img decoding="async" width="1020" height="765" src="/wp-content/uploads/2025/07/slider2.jpg" class="attachment-large size-large" alt="" ids="1552,1551,1550,1549" style="none" type="slider" col_spacing="collapse" columns="1" slider_nav_style="simple" auto_slide="2000" image_height="90%" image_size="large" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/slider2.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider2.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider2.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider2.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider2.jpg 2048w" sizes="(max-width: 1020px) 100vw, 1020px" />-->
+                                                <img decoding="async" width="1020" height="765" src="/wp-content/uploads/2025/07/slider2.jpg" class="attachment-large size-large" alt="" ids="1552,1551,1550,1549" style="none" type="slider" col_spacing="collapse" columns="1" slider_nav_style="simple" auto_slide="2000" image_height="90%" image_size="large" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/slider2.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider2.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider2.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider2.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/07/slider2.jpg 2048w" sizes="(max-width: 1020px) 100vw, 1020px" />
+                                            </div>
                                             <div class="box-text text-left" >
                                                 <p></p>
                                             </div>
@@ -91,9 +89,11 @@
                             </div>
                             <div class="gallery-col col" >
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/z6630844345543_f251f3386dc81c21f3b1bbb3436cee5f-1024x768.jpg" title="">            <div class="box has-hover gallery-box box-none">
+                                    <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/07/471612426_558843750301328_3231689089353930155_n.jpg" title="">
+                                        <div class="box has-hover gallery-box box-none">
                                             <div class="box-image image-cover" style="padding-top:90%;">
-                                                <img loading="lazy" decoding="async" width="1020" height="765" src="/wp-content/uploads/2025/05/z6630844345543_f251f3386dc81c21f3b1bbb3436cee5f-1024x768.jpg" class="attachment-large size-large" alt="" ids="1552,1551,1550,1549" style="none" type="slider" col_spacing="collapse" columns="1" slider_nav_style="simple" auto_slide="2000" image_height="90%" image_size="large" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844345543_f251f3386dc81c21f3b1bbb3436cee5f-1024x768.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844345543_f251f3386dc81c21f3b1bbb3436cee5f-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844345543_f251f3386dc81c21f3b1bbb3436cee5f-768x576.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844345543_f251f3386dc81c21f3b1bbb3436cee5f-1536x1152.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844345543_f251f3386dc81c21f3b1bbb3436cee5f-2048x1536.jpg 2048w" sizes="auto, (max-width: 1020px) 100vw, 1020px" />                                                              </div>
+                                                <img loading="lazy" decoding="async" width="1020" height="765" src="/wp-content/uploads/2025/07/471612426_558843750301328_3231689089353930155_n.jpg" class="attachment-large size-large" alt="" ids="1552,1551,1550,1549" style="none" type="slider" col_spacing="collapse" columns="1" slider_nav_style="simple" auto_slide="2000" image_height="90%" image_size="large" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/471612426_558843750301328_3231689089353930155_n.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471612426_558843750301328_3231689089353930155_n.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471612426_558843750301328_3231689089353930155_n.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471612426_558843750301328_3231689089353930155_n.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471612426_558843750301328_3231689089353930155_n.jpg 2048w" sizes="auto, (max-width: 1020px) 100vw, 1020px" />
+                                            </div>
                                             <div class="box-text text-left" >
                                                 <p></p>
                                             </div>
@@ -103,9 +103,11 @@
                             </div>
                             <div class="gallery-col col" >
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/z6630844348575_3d316ea64ccb7bf966720cd4f5553561-1024x767.jpg" title="">            <div class="box has-hover gallery-box box-none">
+                                    <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/07/471440390_558843770301326_4899869795895463152_n.jpg" title="">
+                                        <div class="box has-hover gallery-box box-none">
                                             <div class="box-image image-cover" style="padding-top:90%;">
-                                                <img loading="lazy" decoding="async" width="1020" height="764" src="/wp-content/uploads/2025/05/z6630844348575_3d316ea64ccb7bf966720cd4f5553561-1024x767.jpg" class="attachment-large size-large" alt="" ids="1552,1551,1550,1549" style="none" type="slider" col_spacing="collapse" columns="1" slider_nav_style="simple" auto_slide="2000" image_height="90%" image_size="large" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844348575_3d316ea64ccb7bf966720cd4f5553561-1024x767.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844348575_3d316ea64ccb7bf966720cd4f5553561-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844348575_3d316ea64ccb7bf966720cd4f5553561-768x575.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844348575_3d316ea64ccb7bf966720cd4f5553561.jpg 1276w" sizes="auto, (max-width: 1020px) 100vw, 1020px" />                                                              </div>
+                                                <img loading="lazy" decoding="async" width="1020" height="764" src="/wp-content/uploads/2025/07/471440390_558843770301326_4899869795895463152_n.jpg" class="attachment-large size-large" alt="" ids="1552,1551,1550,1549" style="none" type="slider" col_spacing="collapse" columns="1" slider_nav_style="simple" auto_slide="2000" image_height="90%" image_size="large" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/471440390_558843770301326_4899869795895463152_n.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471440390_558843770301326_4899869795895463152_n.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471440390_558843770301326_4899869795895463152_n.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471440390_558843770301326_4899869795895463152_n.jpg 1276w" sizes="auto, (max-width: 1020px) 100vw, 1020px" />
+                                            </div>
                                             <div class="box-text text-left" >
                                                 <p></p>
                                             </div>
@@ -120,7 +122,7 @@
                 <div id="col-1224176057" class="col mg1 medium-5 small-12 large-5"  >
                     <div class="col-inner box-shadow-2" style="background-color:rgba(247, 247, 247, 0.855);" >
                         <div id="text-3030630757" class="text">
-                            <div><span style="color: #ed1c24;">VỀ CHÚNG TÔI</span></div>
+                            <div><span style="color: #b72025;">VỀ CHÚNG TÔI</span></div>
                             <style>
                                 #text-3030630757 {
                                     font-size: 1.1rem;
@@ -381,10 +383,12 @@
             <!-- Danh gia tu KH -->
             <section class="section danhgia dark" id="section_421335048">
                 <div class="section-bg fill" >
-                    <img loading="lazy" decoding="async" width="1600" height="586" src="/wp-content/uploads/2025/05/2.jpg" class="bg" alt="" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/2.jpg 1600w, https://vantaiducphuc.com/wp-content/uploads/2025/05/2-300x110.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/2-1024x375.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/2-768x281.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/2-1536x563.jpg 1536w" sizes="auto, (max-width: 1600px) 100vw, 1600px" />						<div class="section-bg-overlay absolute fill"></div>
+<!--                     update here-->
+<!--                    <img loading="lazy" decoding="async" width="1600" height="586" src="/wp-content/uploads/2025/07/2.jpg" class="bg" alt="" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/2.jpg 1600w, https://vantaiducphuc.com/wp-content/uploads/2025/05/2-300x110.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/2-1024x375.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/2-768x281.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/2-1536x563.jpg 1536w" sizes="auto, (max-width: 1600px) 100vw, 1600px" />						<div class="section-bg-overlay absolute fill"></div>-->
+                    <img loading="lazy" decoding="async" width="1600" height="586" src="/wp-content/uploads/2025/06/dp-review.png" class="bg" alt="" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/06/dp-review.png 1600w, https://vantaiducphuc.com/wp-content/uploads/2025/06/dp-review.png 300w, https://vantaiducphuc.com/wp-content/uploads/2025/06/dp-review.png 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/06/dp-review.png 768w, https://vantaiducphuc.com/wp-content/uploads/2025/06/dp-review.png 1536w" sizes="auto, (max-width: 1600px) 100vw, 1600px" />
+                    <div class="section-bg-overlay absolute fill"></div>
                 </div>
                 <div class="section-content relative">
-
                     <div id="gap-1713487665" class="gap-element clearfix" style="display:block; height:auto;">
                         <style>
                             #gap-1713487665 {
@@ -445,17 +449,15 @@
 
                                             <div id="col-1450443505" class="col small-12 large-12"  >
                                                 <div class="col-inner"  >
-
-
                                                     <div class="icon-box testimonial-box icon-box-center text-center">
                                                         <div class="icon-box-img testimonial-image circle" style="width: 130px">
-                                                            <img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/ha-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/07/ha-150x150.jpg 150w, https://vantaiducphuc.com/wp-content/uploads/2024/07/ha-300x300.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/07/ha-100x100.jpg 100w" sizes="auto, (max-width: 150px) 100vw, 150px" />        </div>
+                                                            <img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/ha-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/07/ha-150x150.jpg 150w, https://vantaiducphuc.com/wp-content/uploads/2024/07/ha-300x300.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/07/ha-100x100.jpg 100w" sizes="auto, (max-width: 150px) 100vw, 150px" />
+                                                        </div>
                                                         <div class="icon-box-text p-last-0">
-                                                            <div class="star-rating"><span style="width:100%"><strong class="rating"></strong></span></div>  				<div class="testimonial-text line-height-small italic test_text first-reset last-reset is-italic">
-
+                                                            <div class="star-rating"><span style="width:100%"><strong class="rating"></strong></span></div>
+                                                            <div class="testimonial-text line-height-small italic test_text first-reset last-reset is-italic">
                                                                 <p>Nghề nghiệp: Trợ lý Giám Đốc &#8211; Được sự giới thiệu của người quen, tôi đã sử dụng dịch vụ vận chuyển tại Đức Phúc Logistics và tất hài lòng về mọi mặt.</p>
                                                                 <div id="gap-338951363" class="gap-element clearfix" style="display:block; height:auto;">
-
                                                                     <style>
                                                                         #gap-338951363 {
                                                                             padding-top: 30px;
@@ -484,24 +486,19 @@
                                                             </div>
                                                         </div>
                                                     </div>
-
-
                                                 </div>
                                             </div>
-
-
                                         </div>
                                         <div class="row"  id="row-141697481">
-
                                             <div id="col-131900763" class="col small-12 large-12"  >
                                                 <div class="col-inner"  >
-
-
                                                     <div class="icon-box testimonial-box icon-box-center text-center">
                                                         <div class="icon-box-img testimonial-image circle" style="width: 130px">
-                                                            <img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/ngan-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/07/ngan-150x150.jpg 150w, https://vantaiducphuc.com/wp-content/uploads/2024/07/ngan-300x300.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/07/ngan-100x100.jpg 100w" sizes="auto, (max-width: 150px) 100vw, 150px" />        </div>
+                                                            <img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/ngan-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/07/ngan-150x150.jpg 150w, https://vantaiducphuc.com/wp-content/uploads/2024/07/ngan-300x300.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/07/ngan-100x100.jpg 100w" sizes="auto, (max-width: 150px) 100vw, 150px" />
+                                                        </div>
                                                         <div class="icon-box-text p-last-0">
-                                                            <div class="star-rating"><span style="width:100%"><strong class="rating"></strong></span></div>  				<div class="testimonial-text line-height-small italic test_text first-reset last-reset is-italic">
+                                                            <div class="star-rating"><span style="width:100%"><strong class="rating"></strong></span></div>
+                                                            <div class="testimonial-text line-height-small italic test_text first-reset last-reset is-italic">
                                                                 <p>Nghề nghiệp: Nhân viên Sale &#8211; Thân gửi Đức Phúc Logistics, mình xin cảm ơn các bạn bên quý công ty đã hỗ trợ mình rất nhiệt tình trong quá trình vận chuyển và gửi hàng</p>
                                                                 <div id="gap-338846139" class="gap-element clearfix" style="display:block; height:auto;">
 
@@ -533,25 +530,19 @@
                                                             </div>
                                                         </div>
                                                     </div>
-
-
                                                 </div>
                                             </div>
-
-
                                         </div>
                                         <div class="row"  id="row-1840287116">
 
                                             <div id="col-1541583083" class="col small-12 large-12"  >
-                                                <div class="col-inner"  >
-
-
+                                                <div class="col-inner">
                                                     <div class="icon-box testimonial-box icon-box-center text-center">
                                                         <div class="icon-box-img testimonial-image circle" style="width: 130px">
                                                             <img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/binh-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/07/binh-150x150.jpg 150w, https://vantaiducphuc.com/wp-content/uploads/2024/07/binh-300x300.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/07/binh-600x600.jpg 600w, https://vantaiducphuc.com/wp-content/uploads/2024/07/binh-100x100.jpg 100w, https://vantaiducphuc.com/wp-content/uploads/2024/07/binh.jpg 750w" sizes="auto, (max-width: 150px) 100vw, 150px" />        </div>
                                                         <div class="icon-box-text p-last-0">
-                                                            <div class="star-rating"><span style="width:100%"><strong class="rating"></strong></span></div>  				<div class="testimonial-text line-height-small italic test_text first-reset last-reset is-italic">
-
+                                                            <div class="star-rating"><span style="width:100%"><strong class="rating"></strong></span></div>
+                                                            <div class="testimonial-text line-height-small italic test_text first-reset last-reset is-italic">
                                                                 <p>Chúng tôi hoạt động trong lĩnh vực ngành nhựa nhiều năm nay, nhập khẩu nguyên vật liệu về kinh doanh và sản xuất rất nhiều. Rất cảm ơn Đức Phúc Logistics đã hỗ trợ chúng tôi trong việc nhập khẩu và vận chuyển hàng hóa.</p>
                                                                 <div id="gap-1852404283" class="gap-element clearfix" style="display:block; height:auto;">
 
@@ -583,15 +574,10 @@
                                                             </div>
                                                         </div>
                                                     </div>
-
-
                                                 </div>
                                             </div>
-
-
                                         </div>
                                     </div>
-
                                     <div class="loading-spin dark large centered"></div>
 
                                 </div>
@@ -603,8 +589,6 @@
 
                     </div>
                 </div>
-
-
                 <style>
                     #section_421335048 {
                         padding-top: 38px;
@@ -659,7 +643,6 @@
                     </div>
                 </div>
             </div>
-
             <div id="gap-1853996580" class="gap-element clearfix" style="display:block; height:auto;">
                 <style>
                     #gap-1853996580 {
@@ -831,15 +814,15 @@
             </div>
 
             <!-- Trên footer -->
-            <!-- Update ảnh trong src và href-->
-            <div class="row large-columns-6 medium-columns-3 small-columns-3 row-xsmall row-full-width slider row-slider slider-nav-simple"  data-flickity-options='{&quot;imagesLoaded&quot;: true, &quot;groupCells&quot;: &quot;100%&quot;, &quot;dragThreshold&quot; : 5, &quot;cellAlign&quot;: &quot;left&quot;,&quot;wrapAround&quot;: true,&quot;prevNextButtons&quot;: true,&quot;percentPosition&quot;: true,&quot;pageDots&quot;: false, &quot;rightToLeft&quot;: false, &quot;autoPlay&quot; : false}' >
+            <div style="padding-left: 8px; padding-right: 8px;" class="row large-columns-6 medium-columns-3 small-columns-3 row-xsmall row-full-width slider row-slider slider-nav-simple"  data-flickity-options='{&quot;imagesLoaded&quot;: true, &quot;groupCells&quot;: &quot;100%&quot;, &quot;dragThreshold&quot; : 5, &quot;cellAlign&quot;: &quot;left&quot;,&quot;wrapAround&quot;: true,&quot;prevNextButtons&quot;: true,&quot;percentPosition&quot;: true,&quot;pageDots&quot;: false, &quot;rightToLeft&quot;: false, &quot;autoPlay&quot; : false}' >
                 <div class="gallery-col col" >
                     <div class="col-inner">
                         <!-- update ảnh trong href-->
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/1-1024x673.jpg" title="">            <div class="box has-hover gallery-box box-none">
+                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/07/IMG_3185.jpg" title="">
+                            <div class="box has-hover gallery-box box-none">
                                 <div class="box-image image-zoom image-cover" style="padding-top:100%;">
                                     <!-- update ảnh trong src-->
-                                    <img loading="lazy" decoding="async" width="768" height="505" src="/wp-content/uploads/2025/05/1-768x505.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/1-768x505.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/1-300x197.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/1-1024x673.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/1-1536x1010.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/05/1.jpg 1920w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
+                                    <img loading="lazy" decoding="async" width="768" height="505" src="/wp-content/uploads/2025/07/IMG_3185.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3185.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3185.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3185.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3185.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3185.jpg 1920w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
                                 <div class="box-text text-left" >
                                     <p></p>
                                 </div>
@@ -849,9 +832,10 @@
                 </div>
                 <div class="gallery-col col" >
                     <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/2-1024x375.jpg" title="">            <div class="box has-hover gallery-box box-none">
+                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/07/474702906_593898370127312_1463514981197925745_n.jpg" title="">
+                            <div class="box has-hover gallery-box box-none">
                                 <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="281" src="/wp-content/uploads/2025/05/2-768x281.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/2-768x281.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/2-300x110.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/2-1024x375.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/2-1536x563.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/05/2.jpg 1600w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
+                                    <img loading="lazy" decoding="async" width="768" height="281" src="/wp-content/uploads/2025/07/474702906_593898370127312_1463514981197925745_n.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/474702906_593898370127312_1463514981197925745_n.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/474702906_593898370127312_1463514981197925745_n.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/474702906_593898370127312_1463514981197925745_n.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/474702906_593898370127312_1463514981197925745_n.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/07/474702906_593898370127312_1463514981197925745_n.jpg 1600w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
                                 <div class="box-text text-left" >
                                     <p></p>
                                 </div>
@@ -859,12 +843,12 @@
                         </a>
                     </div>
                 </div>
-
                 <div class="gallery-col col" >
                     <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/3-1024x640.jpg" title="">            <div class="box has-hover gallery-box box-none">
+                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/07/IMG_3124.jpg" title="">
+                            <div class="box has-hover gallery-box box-none">
                                 <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="480" src="/wp-content/uploads/2025/05/3-768x480.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/3-768x480.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/3-300x188.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/3-1024x640.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/3-1536x960.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/05/3.jpg 1920w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
+                                    <img loading="lazy" decoding="async" width="768" height="480" src="/wp-content/uploads/2025/07/IMG_3124.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3124.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3124.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3124.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3124.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3124.jpg 1920w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
                                 <div class="box-text text-left" >
                                     <p></p>
                                 </div>
@@ -872,472 +856,114 @@
                         </a>
                     </div>
                 </div>
-
                 <div class="gallery-col col" >
                     <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/4-1024x574.jpg" title="">            <div class="box has-hover gallery-box box-none">
+                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/07/IMG_3135.jpg" title="">
+                            <div class="box has-hover gallery-box box-none">
                                 <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="431" src="/wp-content/uploads/2025/05/4-768x431.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/4-768x431.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/4-300x168.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/4-1024x574.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/4-1536x861.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/05/4-2048x1148.jpg 2048w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
+                                    <img loading="lazy" decoding="async" width="768" height="431" src="/wp-content/uploads/2025/07/IMG_3135.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3135.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3135.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3135.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3135.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3135.jpg 2048w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
                                 <div class="box-text text-left" >
                                     <p></p>
                                 </div>
                             </div>
                         </a>          </div>
-                </div><div class="gallery-col col" >
+                </div>
+                <div class="gallery-col col" >
                     <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/5-1024x683.jpg" title="">            <div class="box has-hover gallery-box box-none">
+                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/07/IMG_3160.jpg" title="">
+                            <div class="box has-hover gallery-box box-none">
                                 <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="512" src="/wp-content/uploads/2025/05/5-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/5-768x512.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/5-300x200.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/5-1024x683.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/5-1536x1024.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/05/5.jpg 1920w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
+                                    <img loading="lazy" decoding="async" width="768" height="512" src="/wp-content/uploads/2025/07/IMG_3160.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3160.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3160.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3160.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3160.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3160.jpg 1920w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
                                 <div class="box-text text-left" >
                                     <p></p>
                                 </div>
                             </div>
                         </a>          </div>
-                </div><div class="gallery-col col" >
+                </div>
+                <div class="gallery-col col" >
                     <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/3c62ceb2ad40141e4d5117-1024x461.jpg" title="">            <div class="box has-hover gallery-box box-none">
+                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/07/IMG_3129.jpg" title="">
+                            <div class="box has-hover gallery-box box-none">
                                 <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="346" src="/wp-content/uploads/2024/10/3c62ceb2ad40141e4d5117-768x346.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/3c62ceb2ad40141e4d5117-768x346.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/3c62ceb2ad40141e4d5117-300x135.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/10/3c62ceb2ad40141e4d5117-1024x461.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/10/3c62ceb2ad40141e4d5117.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
+                                    <img loading="lazy" decoding="async" width="768" height="346" src="/wp-content/uploads/2025/07/IMG_3129.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3129.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3129.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3129.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3129.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
+                                <div class="box-text text-left" >
+                                    <p></p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div style="padding-left: 8px; padding-right: 8px;" class="row large-columns-6 medium-columns-3 small-columns-3 row-xsmall row-full-width slider row-slider slider-nav-simple"  data-flickity-options='{&quot;imagesLoaded&quot;: true, &quot;groupCells&quot;: &quot;100%&quot;, &quot;dragThreshold&quot; : 5, &quot;cellAlign&quot;: &quot;left&quot;,&quot;wrapAround&quot;: true,&quot;prevNextButtons&quot;: true,&quot;percentPosition&quot;: true,&quot;pageDots&quot;: false, &quot;rightToLeft&quot;: false, &quot;autoPlay&quot; : false}' >
+                <div class="gallery-col col" >
+                    <div class="col-inner">
+                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/07/470233568_549557981229905_6785095635974384574_n.jpg" title="">
+                            <div class="box has-hover gallery-box box-none">
+                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
+                                    <img loading="lazy" decoding="async" width="768" height="505" src="/wp-content/uploads/2025/07/470233568_549557981229905_6785095635974384574_n.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/470233568_549557981229905_6785095635974384574_n.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/470233568_549557981229905_6785095635974384574_n.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/470233568_549557981229905_6785095635974384574_n.jpg 1024w, https://vantaiducphuc.com/wp-content/2025/07/470233568_549557981229905_6785095635974384574_n.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/07/470233568_549557981229905_6785095635974384574_n.jpg 1920w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
+                                <div class="box-text text-left" >
+                                    <p></p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="gallery-col col" >
+                    <div class="col-inner">
+                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/07/471854767_558843740301329_9091332638674886989_n.jpg" title="">
+                            <div class="box has-hover gallery-box box-none">
+                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
+                                    <img loading="lazy" decoding="async" width="768" height="281" src="/wp-content/uploads/2025/07/471854767_558843740301329_9091332638674886989_n.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/471854767_558843740301329_9091332638674886989_n.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471854767_558843740301329_9091332638674886989_n.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471854767_558843740301329_9091332638674886989_n.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471854767_558843740301329_9091332638674886989_n.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471854767_558843740301329_9091332638674886989_n.jpg 1600w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
+                                <div class="box-text text-left" >
+                                    <p></p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="gallery-col col" >
+                    <div class="col-inner">
+                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/07/474216473_593890950128054_4247958824962456264_n.jpg" title="">
+                            <div class="box has-hover gallery-box box-none">
+                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
+                                    <img loading="lazy" decoding="async" width="768" height="480" src="/wp-content/uploads/2025/07/474216473_593890950128054_4247958824962456264_n.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/474216473_593890950128054_4247958824962456264_n.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/474216473_593890950128054_4247958824962456264_n.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/474216473_593890950128054_4247958824962456264_n.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/474216473_593890950128054_4247958824962456264_n.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/07/474216473_593890950128054_4247958824962456264_n.jpg 1920w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
+                                <div class="box-text text-left" >
+                                    <p></p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="gallery-col col" >
+                    <div class="col-inner">
+                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/07/IMG_3162.jpg" title="">
+                            <div class="box has-hover gallery-box box-none">
+                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
+                                    <img loading="lazy" decoding="async" width="768" height="431" src="/wp-content/uploads/2025/07/IMG_3162.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3162.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3162.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3162.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3162.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3162.jpg 2048w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
                                 <div class="box-text text-left" >
                                     <p></p>
                                 </div>
                             </div>
                         </a>          </div>
-                </div><div class="gallery-col col" >
+                </div>
+                <div class="gallery-col col" >
                     <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/4c27f1ea92182b46720915-1024x461.jpg" title="">            <div class="box has-hover gallery-box box-none">
+                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/07/474701267_593898310127318_3967759383286446098_n.jpg" title="">
+                            <div class="box has-hover gallery-box box-none">
                                 <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="346" src="/wp-content/uploads/2024/10/4c27f1ea92182b46720915-768x346.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/4c27f1ea92182b46720915-768x346.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/4c27f1ea92182b46720915-300x135.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/10/4c27f1ea92182b46720915-1024x461.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/10/4c27f1ea92182b46720915.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
+                                    <img loading="lazy" decoding="async" width="768" height="512" src="/wp-content/uploads/2025/07/474701267_593898310127318_3967759383286446098_n.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/474701267_593898310127318_3967759383286446098_n.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/474701267_593898310127318_3967759383286446098_n.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/474701267_593898310127318_3967759383286446098_n.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/474701267_593898310127318_3967759383286446098_n.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/07/474701267_593898310127318_3967759383286446098_n.jpg 1920w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
                                 <div class="box-text text-left" >
                                     <p></p>
                                 </div>
                             </div>
                         </a>          </div>
-                </div><div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/b605dcc8bf3a06645f2b18-1024x461.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="346" src="/wp-content/uploads/2024/10/b605dcc8bf3a06645f2b18-768x346.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/b605dcc8bf3a06645f2b18-768x346.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/b605dcc8bf3a06645f2b18-300x135.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/10/b605dcc8bf3a06645f2b18-1024x461.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/10/b605dcc8bf3a06645f2b18.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>          </div>
-                </div><div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/701ecacda93f1061492e19-1024x461.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="346" src="/wp-content/uploads/2024/10/701ecacda93f1061492e19-768x346.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/701ecacda93f1061492e19-768x346.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/701ecacda93f1061492e19-300x135.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/10/701ecacda93f1061492e19-1024x461.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/10/701ecacda93f1061492e19.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>          </div>
-                </div><div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/436befbb8c4935176c5811-1024x770.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="578" src="/wp-content/uploads/2024/10/436befbb8c4935176c5811-768x578.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/436befbb8c4935176c5811-768x578.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/436befbb8c4935176c5811-300x226.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/10/436befbb8c4935176c5811-1024x770.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/10/436befbb8c4935176c5811.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>          </div>
-                </div><div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/86c60c166fe4d6ba8ff512-1024x770.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="578" src="/wp-content/uploads/2024/10/86c60c166fe4d6ba8ff512-768x578.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/86c60c166fe4d6ba8ff512-768x578.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/86c60c166fe4d6ba8ff512-300x226.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/10/86c60c166fe4d6ba8ff512-1024x770.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/10/86c60c166fe4d6ba8ff512.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>          </div>
-                </div><div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/7f36f2e491162848710716-1024x461.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="346" src="/wp-content/uploads/2024/10/7f36f2e491162848710716-768x346.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/7f36f2e491162848710716-768x346.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/7f36f2e491162848710716-300x135.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/10/7f36f2e491162848710716-1024x461.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/10/7f36f2e491162848710716.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>          </div>
-                </div><div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/7bb019627a90c3ce9a8120-1024x770.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="578" src="/wp-content/uploads/2024/10/7bb019627a90c3ce9a8120-768x578.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/7bb019627a90c3ce9a8120-768x578.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/7bb019627a90c3ce9a8120-300x226.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/10/7bb019627a90c3ce9a8120-1024x770.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/10/7bb019627a90c3ce9a8120.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>          </div>
-                </div><div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/d1ff1e307dc2c49c9dd314-1024x770.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="578" src="/wp-content/uploads/2024/10/d1ff1e307dc2c49c9dd314-768x578.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/d1ff1e307dc2c49c9dd314-768x578.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/d1ff1e307dc2c49c9dd314-300x226.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/10/d1ff1e307dc2c49c9dd314-1024x770.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/10/d1ff1e307dc2c49c9dd314.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>          </div>
-                </div><div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/022952f9310b8855d11a13-1024x770.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="578" src="/wp-content/uploads/2024/10/022952f9310b8855d11a13-768x578.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/022952f9310b8855d11a13-768x578.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/022952f9310b8855d11a13-300x226.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/10/022952f9310b8855d11a13-1024x770.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/10/022952f9310b8855d11a13.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>          </div>
-                </div></div>
-            <div class="row large-columns-6 medium-columns-3 small-columns-3 row-xsmall row-full-width slider row-slider slider-nav-simple"  data-flickity-options='{&quot;imagesLoaded&quot;: true, &quot;groupCells&quot;: &quot;100%&quot;, &quot;dragThreshold&quot; : 5, &quot;cellAlign&quot;: &quot;left&quot;,&quot;wrapAround&quot;: true,&quot;prevNextButtons&quot;: true,&quot;percentPosition&quot;: true,&quot;pageDots&quot;: false, &quot;rightToLeft&quot;: false, &quot;autoPlay&quot; : false}' >
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/07/IMG_3162.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="576" src="/wp-content/uploads/2025/07/471539400_558833123635724_4851287770344494126_n.jpg/IMG_3160.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/471539400_558833123635724_4851287770344494126_n.jpg/IMG_3160.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471539400_558833123635724_4851287770344494126_n.jpg/IMG_3134.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/IMG_3162.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471539400_558833123635724_4851287770344494126_n.jpg/dia-chi.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471539400_558833123635724_4851287770344494126_n.jpg/474701267_593898310127318_3967759383286446098_n.jpg 2048w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>          </div>
-                </div><div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/07/471539400_558833123635724_4851287770344494126_n.jpg/" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="576" src="/wp-content/uploads/2025/07/471539400_558833123635724_4851287770344494126_n.jpg/470129470_549557581229945_1835764737468656760_n.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/471539400_558833123635724_4851287770344494126_n.jpg/470129470_549557581229945_1835764737468656760_n.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471539400_558833123635724_4851287770344494126_n.jpg/474363164_593893960127753_4712916780925297167_n.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471539400_558833123635724_4851287770344494126_n.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844339069_65f2a542bbc30663c951a75ff9ca072f-1536x1152.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844339069_65f2a542bbc30663c951a75ff9ca072f-2048x1536.jpg 2048w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>          </div>
-                </div><div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/z6630844345543_f251f3386dc81c21f3b1bbb3436cee5f-1024x768.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="576" src="/wp-content/uploads/2025/05/z6630844345543_f251f3386dc81c21f3b1bbb3436cee5f-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844345543_f251f3386dc81c21f3b1bbb3436cee5f-768x576.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844345543_f251f3386dc81c21f3b1bbb3436cee5f-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844345543_f251f3386dc81c21f3b1bbb3436cee5f-1024x768.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844345543_f251f3386dc81c21f3b1bbb3436cee5f-1536x1152.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844345543_f251f3386dc81c21f3b1bbb3436cee5f-2048x1536.jpg 2048w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>          </div>
-                </div><div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/z6630844348575_3d316ea64ccb7bf966720cd4f5553561-1024x767.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="575" src="/wp-content/uploads/2025/05/z6630844348575_3d316ea64ccb7bf966720cd4f5553561-768x575.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844348575_3d316ea64ccb7bf966720cd4f5553561-768x575.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844348575_3d316ea64ccb7bf966720cd4f5553561-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844348575_3d316ea64ccb7bf966720cd4f5553561-1024x767.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844348575_3d316ea64ccb7bf966720cd4f5553561.jpg 1276w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>          </div>
-                </div><div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/c684d5f3a901105f491025-768x1024.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="1024" src="/wp-content/uploads/2024/10/c684d5f3a901105f491025-768x1024.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/c684d5f3a901105f491025-768x1024.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/c684d5f3a901105f491025-225x300.jpg 225w, https://vantaiducphuc.com/wp-content/uploads/2024/10/c684d5f3a901105f491025-1152x1536.jpg 1152w, https://vantaiducphuc.com/wp-content/uploads/2024/10/c684d5f3a901105f491025-1536x2048.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2024/10/c684d5f3a901105f491025.jpg 1920w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/1af823705f82e6dcbf9341-768x1024.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="1024" src="/wp-content/uploads/2024/10/1af823705f82e6dcbf9341-768x1024.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/1af823705f82e6dcbf9341-768x1024.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/1af823705f82e6dcbf9341-225x300.jpg 225w, https://vantaiducphuc.com/wp-content/uploads/2024/10/1af823705f82e6dcbf9341.jpg 960w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/4393e2e59e1727497e0627-1024x768.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="576" src="/wp-content/uploads/2024/10/4393e2e59e1727497e0627-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/4393e2e59e1727497e0627-768x576.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/4393e2e59e1727497e0627-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/10/4393e2e59e1727497e0627-1024x768.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/10/4393e2e59e1727497e0627-1536x1152.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2024/10/4393e2e59e1727497e0627-2048x1536.jpg 2048w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/cc8a1dfa6108d856811928-1024x768.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="576" src="/wp-content/uploads/2024/10/cc8a1dfa6108d856811928-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/cc8a1dfa6108d856811928-768x576.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/cc8a1dfa6108d856811928-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/10/cc8a1dfa6108d856811928-1024x768.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/10/cc8a1dfa6108d856811928-1536x1152.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2024/10/cc8a1dfa6108d856811928-2048x1536.jpg 2048w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/f151292055d2ec8cb5c326-1024x768.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="576" src="/wp-content/uploads/2024/10/f151292055d2ec8cb5c326-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/f151292055d2ec8cb5c326-768x576.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/f151292055d2ec8cb5c326-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/10/f151292055d2ec8cb5c326-1024x768.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/10/f151292055d2ec8cb5c326-1536x1152.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2024/10/f151292055d2ec8cb5c326-2048x1536.jpg 2048w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-
-                    </div>
                 </div>
                 <div class="gallery-col col" >
                     <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/3bdf8e50f2a24bfc12b345-1024x770.jpg" title="">            <div class="box has-hover gallery-box box-none">
+                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/07/471854767_558843740301329_9091332638674886989_n.jpg" title="">
+                            <div class="box has-hover gallery-box box-none">
                                 <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="578" src="/wp-content/uploads/2024/10/3bdf8e50f2a24bfc12b345-768x578.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/3bdf8e50f2a24bfc12b345-768x578.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/3bdf8e50f2a24bfc12b345-300x226.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/10/3bdf8e50f2a24bfc12b345-1024x770.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/10/3bdf8e50f2a24bfc12b345.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-
-                    </div>
-                </div>
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/6bfbe0779c8525db7c9446-1024x770.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="578" src="/wp-content/uploads/2024/10/6bfbe0779c8525db7c9446-768x578.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/6bfbe0779c8525db7c9446-768x578.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/6bfbe0779c8525db7c9446-300x226.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/10/6bfbe0779c8525db7c9446-1024x770.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/10/6bfbe0779c8525db7c9446.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/9c8e290055f2ecacb5e338-1024x768.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="576" src="/wp-content/uploads/2024/10/9c8e290055f2ecacb5e338-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/9c8e290055f2ecacb5e338-768x576.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/9c8e290055f2ecacb5e338-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/10/9c8e290055f2ecacb5e338-1024x768.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/10/9c8e290055f2ecacb5e338.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/28f5bc7ac08879d6209944-1024x770.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="578" src="/wp-content/uploads/2024/10/28f5bc7ac08879d6209944-768x578.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/28f5bc7ac08879d6209944-768x578.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/28f5bc7ac08879d6209944-300x226.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/10/28f5bc7ac08879d6209944-1024x770.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/10/28f5bc7ac08879d6209944.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/294d28c25430ed6eb42143-1024x770.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="578" src="/wp-content/uploads/2024/10/294d28c25430ed6eb42143-768x578.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/294d28c25430ed6eb42143-768x578.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/10/294d28c25430ed6eb42143-300x226.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/10/294d28c25430ed6eb42143-1024x770.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/10/294d28c25430ed6eb42143.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2024/10/b57535fb4909f057a91842-460x1024.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="575" height="1281" src="/wp-content/uploads/2024/10/b57535fb4909f057a91842.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/10/b57535fb4909f057a91842.jpg 575w, https://vantaiducphuc.com/wp-content/uploads/2024/10/b57535fb4909f057a91842-135x300.jpg 135w, https://vantaiducphuc.com/wp-content/uploads/2024/10/b57535fb4909f057a91842-460x1024.jpg 460w" sizes="auto, (max-width: 575px) 100vw, 575px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/19-1024x768.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="576" src="/wp-content/uploads/2025/05/19-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/19-768x576.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/19-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/19-1024x768.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/19-1536x1152.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/05/19.jpg 2048w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/18-768x1024.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="1024" src="/wp-content/uploads/2025/05/18-768x1024.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/18-768x1024.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/18-225x300.jpg 225w, https://vantaiducphuc.com/wp-content/uploads/2025/05/18-1152x1536.jpg 1152w, https://vantaiducphuc.com/wp-content/uploads/2025/05/18.jpg 1536w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/17-1024x768.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="576" src="/wp-content/uploads/2025/05/17-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/17-768x576.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/17-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/17-1024x768.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/17-1536x1152.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/05/17.jpg 2048w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/16-1024x768.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="576" src="/wp-content/uploads/2025/05/16-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/16-768x576.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/16-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/16-1024x768.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/16.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/15-1024x768.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="576" src="/wp-content/uploads/2025/05/15-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/15-768x576.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/15-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/15-1024x768.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/15-1536x1152.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/05/15.jpg 2048w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/14-1024x768.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="576" src="/wp-content/uploads/2025/05/14-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/14-768x576.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/14-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/14-1024x768.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/14-1536x1152.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/05/14.jpg 2048w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/13-1024x768.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="576" src="/wp-content/uploads/2025/05/13-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/13-768x576.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/13-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/13-1024x768.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/13-1536x1152.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/05/13.jpg 2048w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/12-1024x768.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="576" src="/wp-content/uploads/2025/05/12-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/12-768x576.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/12-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/12-1024x768.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/12-1536x1152.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/05/12.jpg 2048w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/11-1024x767.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="575" src="/wp-content/uploads/2025/05/11-768x575.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/11-768x575.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/11-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/11-1024x767.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/11.jpg 1276w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/10-1024x767.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="575" src="/wp-content/uploads/2025/05/10-768x575.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/10-768x575.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/10-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/10-1024x767.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/10.jpg 1276w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/8-1024x767.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="575" src="/wp-content/uploads/2025/05/8-768x575.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/8-768x575.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/8-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/8-1024x767.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/8.jpg 1276w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/7-1024x768.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="576" src="/wp-content/uploads/2025/05/7-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/7-768x576.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/7-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/7-1024x768.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/7.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
-                                <div class="box-text text-left" >
-                                    <p></p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="gallery-col col" >
-                    <div class="col-inner">
-                        <a class="image-lightbox lightbox-gallery" href="/wp-content/uploads/2025/05/6-1024x771.jpg" title="">            <div class="box has-hover gallery-box box-none">
-                                <div class="box-image image-zoom image-cover" style="padding-top:100%;">
-                                    <img loading="lazy" decoding="async" width="768" height="578" src="/wp-content/uploads/2025/05/6-768x578.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1552,1551,1550,1549,1481,1484,1480,1482,1483,1485,1486,1487,1488,1490,1491,1519,1520,1521,1522,1523,1524,1525,1526,1527,1528,1530,1531,1532" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/05/6-768x578.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/05/6-300x226.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/05/6-1024x771.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/05/6-1536x1157.jpg 1536w, https://vantaiducphuc.com/wp-content/uploads/2025/05/6.jpg 2048w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
+                                    <img loading="lazy" decoding="async" width="768" height="346" src="/wp-content/uploads/2025/07/471854767_558843740301329_9091332638674886989_n.jpg" class="attachment-medium_large size-medium_large" alt="" ids="1518,1517,1516,1515,1514,1469,1470,1477,1475,1474,1473,1472,1471,1478,1476" style="none" type="slider" width="full-width" col_spacing="xsmall" columns="6" columns__sm="3" slider_nav_style="simple" image_height="100%" image_size="medium_large" image_hover="zoom" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/471854767_558843740301329_9091332638674886989_n.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471854767_558843740301329_9091332638674886989_n.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471854767_558843740301329_9091332638674886989_n.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/471854767_558843740301329_9091332638674886989_n.jpg 1280w" sizes="auto, (max-width: 768px) 100vw, 768px" />                                                              </div>
                                 <div class="box-text text-left" >
                                     <p></p>
                                 </div>
