@@ -10,14 +10,14 @@
     <style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- Tối ưu hóa công cụ tìm kiếm bởi Rank Math - https://rankmath.com/ -->
-    <title>Công ty TNHH TM DV Đức Phúc Group</title>
-    <meta name="description" content="Cung cấp dịch vụ vận tải từ 5tấn - 8tấn - đầu kéo + container lạnh bắc nam. Nhận ký hợp đồng dài hạn. Nhận hàng ghép"/>
+    <title>Công ty TNHH Đức Phúc</title>
+    <meta name="description" content="Cung cấp dịch vụ vận tải Bắc - Trung - Nam. Nhận ký hợp đồng dài hạn. Nhận hàng ghép"/>
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     <link rel="canonical" href="/" />
     <meta property="og:locale" content="vi_VN" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Công ty TNHH TM DV Đức Phúc Group" />
-    <meta property="og:description" content="Cung cấp dịch vụ vận tải từ 5tấn - 8tấn - đầu kéo + container lạnh bắc nam. Nhận ký hợp đồng dài hạn. Nhận hàng ghép" />
+    <meta property="og:title" content="Công ty TNHH Đức Phúc" />
+    <meta property="og:description" content="Cung cấp dịch vụ vận tải Bắc - Trung - Nam. Nhận ký hợp đồng dài hạn. Nhận hàng ghép" />
     <meta property="og:url" content="https://vantaiducphuc.com/" />
     <meta property="og:site_name" content="Xây Dựng Thiết Kế Nội Thất NK | Thiết kế nội thất HCM" />
     <meta property="og:updated_time" content="2025-06-16T02:59:16+00:00" />
@@ -30,8 +30,8 @@
     <meta property="article:published_time" content="2024-06-17T20:47:15+00:00" />
     <meta property="article:modified_time" content="2025-06-16T02:59:16+00:00" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Công ty TNHH TM DV Đức Phúc Group" />
-    <meta name="twitter:description" content="Cung cấp dịch vụ vận tải từ 5tấn - 8tấn - đầu kéo + container lạnh bắc nam. Nhận ký hợp đồng dài hạn. Nhận hàng ghép" />
+    <meta name="twitter:title" content="Công ty TNHH Đức Phúc" />
+    <meta name="twitter:description" content="Cung cấp dịch vụ vận tải Bắc - Trung - Nam. Nhận ký hợp đồng dài hạn. Nhận hàng ghép" />
     <meta name="twitter:image" content="https://vantaiducphuc.com/wp-content/uploads/2025/05/z6630844334302_32c7aa7a03272e9c4e85daafa0264ef9-1024x768.jpg" />
     <meta name="twitter:label1" content="Được viết bởi" />
     <meta name="twitter:data1" content="osv.thuan" />
@@ -44,8 +44,8 @@
     <link rel='prefetch' href='/wp-content/themes/flatsome/assets/js/chunk.slider34a7.js?ver=3.19.2' />
     <link rel='prefetch' href='/wp-content/themes/flatsome/assets/js/chunk.popups34a7.js?ver=3.19.2' />
     <link rel='prefetch' href='/wp-content/themes/flatsome/assets/js/chunk.tooltips34a7.js?ver=3.19.2' />
-    <link rel="alternate" type="application/rss+xml" title="Dòng thông tin Công ty TNHH TM DV Đức Phúc Group &raquo;" href="feed" />
-    <link rel="alternate" type="application/rss+xml" title="Công ty TNHH TM DV Đức Phúc Group &raquo; Dòng bình luận" href="comments/feed" />
+    <link rel="alternate" type="application/rss+xml" title="Dòng thông tin Công ty TNHH Đức Phúc &raquo;" href="feed" />
+    <link rel="alternate" type="application/rss+xml" title="Công ty TNHH Đức Phúc &raquo; Dòng bình luận" href="comments/feed" />
     <script type="text/javascript">
         /* <![CDATA[ */
         window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/vantaiducphuc.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.1"}};
@@ -79,13 +79,13 @@
         @font-face {
             font-family: "fl-icons";
             font-display: block;
-            src: url(wp-content/themes/flatsome/assets/css/icons/fl-icons6107.eot?v=3.19.2);
+            src: url(/wp-content/themes/flatsome/assets/css/icons/fl-icons6107.eot?v=3.19.2);
             src:
-                    url(wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.19.2) format("embedded-opentype"),
-                    url(wp-content/themes/flatsome/assets/css/icons/fl-icons6107.woff2?v=3.19.2) format("woff2"),
-                    url(wp-content/themes/flatsome/assets/css/icons/fl-icons6107.ttf?v=3.19.2) format("truetype"),
-                    url(wp-content/themes/flatsome/assets/css/icons/fl-icons6107.woff?v=3.19.2) format("woff"),
-                    url(wp-content/themes/flatsome/assets/css/icons/fl-icons6107.svg?v=3.19.2#fl-icons) format("svg");
+                    url(/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.19.2) format("embedded-opentype"),
+                    url(/wp-content/themes/flatsome/assets/css/icons/fl-icons6107.woff2?v=3.19.2) format("woff2"),
+                    url(/wp-content/themes/flatsome/assets/css/icons/fl-icons6107.ttf?v=3.19.2) format("truetype"),
+                    url(/wp-content/themes/flatsome/assets/css/icons/fl-icons6107.woff?v=3.19.2) format("woff"),
+                    url(/wp-content/themes/flatsome/assets/css/icons/fl-icons6107.svg?v=3.19.2#fl-icons) format("svg");
         }
     </style>
     <link rel='stylesheet' id='flatsome-style-css' href='/wp-content/themes/flatsome-child/style6aec.css?ver=3.0' type='text/css' media='all' />
@@ -343,8 +343,8 @@
                     <!-- Logo -->
                     <div id="logo" class="flex-col logo">
                         <!-- Header logo -->
-                        <a href="/" title="Công ty TNHH TM DV Đức Phúc Group" rel="home">
-                            <img width="1020" height="216" src="/wp-content/uploads/2025/06/nav-bar-logo.png" class="header_logo header-logo" alt="Công ty TNHH TM DV Đức Phúc Group"/><img  width="1020" height="216" src="/wp-content/uploads/2025/06/nav-bar-logo.png" class="header-logo-dark" alt="Công ty TNHH TM DV Đức Phúc Group"/></a>
+                        <a href="/" title="Công ty TNHH Đức Phúc" rel="home">
+                            <img width="1020" height="216" src="/wp-content/uploads/2025/06/nav-bar-logo.png" class="header_logo header-logo" alt="Công ty TNHH Đức Phúc"/><img  width="1020" height="216" src="/wp-content/uploads/2025/06/nav-bar-logo.png" class="header-logo-dark" alt="Công ty TNHH Đức Phúc"/></a>
                     </div>
 
                     <!-- Mobile Left Elements -->
@@ -366,8 +366,8 @@
                             <li id="menu-item-1110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1110 menu-item-design-default"><a href="/gioi-thieu" class="nav-top-link">Giới thiệu</a></li>
                             <li id="menu-item-1113" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1113 menu-item-design-default has-dropdown"><a href="/dich-vu" class="nav-top-link" aria-expanded="false" aria-haspopup="menu">Dịch vụ<i class="icon-angle-down"></i></a>
                                 <ul class="sub-menu nav-dropdown nav-dropdown-bold">
-                                    <li id="menu-item-1171" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1171"><a href="/dich-vu/van-tai-bac-nam">Vận tải Bắc Nam</a></li>
-                                    <li id="menu-item-1170" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1170"><a href="/dich-vu/van-chuyen-hang-di-cac-khu-cn">Vận chuyển hàng đi các khu CN</a></li>
+                                    <li id="menu-item-1171" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1171"><a href="/dich-vu/van-tai-bac-nam">Vận tải Bắc - Trung - Nam</a></li>
+                                    <li id="menu-item-1170" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1170"><a href="/dich-vu/van-chuyen-hang-di-cac-khu-cn">Giao nhận - Ký gửi hàng hoá</a></li>
                                     <li id="menu-item-1169" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1169"><a href="/dich-vu/van-tai-hang-le-hang-ghep-hang-bao-xe">Vận tải hàng lẻ, hàng ghép, hàng bao xe</a></li>
                                 </ul>
                             </li>

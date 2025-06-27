@@ -28,14 +28,14 @@
             <div id="col-1417734827" class="col medium-7 small-12 large-7"  >
                 <div class="col-inner"  >
                     <div id="text-4184809942" class="text">
-                        <h2>CÔNG TY TNHH TM DV Đức Phúc GROUP</h2>
+                        <h2>CÔNG TY TNHH ĐỨC PHÚC</h2>
                         <style>
                             #text-4184809942 {
                                 font-size: 1.15rem;
                             }
                         </style>
                     </div>
-                    <p>Là một trong những đơn vị vận tải được nhiều khách hàng lựa chọn trên thị trường. Trong suốt những năm qua,<strong> Đức Phúc GROUP</strong> luôn là địa chỉ tin cậy và là cầu nối của khách hàng trong việc vận chuyển hàng hóa đến các tỉnh, thành trong cả nước.</p>
+                    <p>Trải qua nhiều năm hoạt động trong lĩnh vực vận tải,<strong> Đức Phúc </strong> từng bước xây dựng được uy tín và sự tin tưởng từ nhiều khách hàng. Chúng tôi luôn nỗ lực đóng vai trò là cầu nối an toàn, hỗ trợ việc vận chuyển hàng hóa đến các tỉnh, thành trên toàn quốc một cách hiệu quả, uy tín và tận tâm.</p>
                 </div>
             </div>
             <div id="col-830247279" class="col medium-5 small-12 large-5"  >
@@ -157,8 +157,8 @@
                 <div class="row align-middle"  id="row-2042374158">
                     <div id="col-503098948" class="col medium-6 small-12 large-6"  >
                         <div class="col-inner"  >
-                            <h2 class="title-ah special-right uppercase"><span class="no-preline">Ngành nghề hoạt động<br /></span></h2>
-                            <p>Là đơn vị vận chuyển lớn trên thị trường, Đức Phúc GROUP luôn trở thành sự lựa chọn của đông đảo khách hàng bởi đa dạng trong ngành nghề hoạt động.</p>
+                            <h2 class="title-ah special-right uppercase"><span class="no-preline">Lĩnh vực hoạt động<br /></span></h2>
+                            <p><strong> Đức Phúc </strong> là doanh nghiệp hoạt động trong lĩnh vực vận chuyển hàng hóa bằng đường bộ. Nhờ sự linh hoạt và không ngừng hoàn thiện dịch vụ, chúng tôi từng bước trở thành lựa chọn tin cậy của nhiều khách hàng trên thị trường. Công ty cung cấp đa dạng loại hình vận chuyển, phù hợp với nhu cầu của cá nhân, hộ kinh doanh và doanh nghiệp.</p>
                         </div>
                     </div>
                     <div id="col-1453998079" class="col medium-6 small-12 large-6"  >
@@ -199,16 +199,14 @@
             <div id="col-2081962806" class="col small-12 large-12"  >
                 <div class="col-inner" style="background-color:rgb(255, 255, 255);" >
                     <div id="text-2724091919" class="text">
-                        <h2 style="text-align: center;">Giới thiệu về công ty</h2>
+                        <h2 style="text-align: center;">LỊCH SỬ HÌNH THÀNH</h2>
                         <h4 class="uppercase"> </h4>
-                        <p>Đức Phúc GROUP là cái tên quen thuộc với đông đảo khách hàng đồng thời là đơn vị hàng đầu trong lĩnh vực vận chuyển, bốc dỡ hàng hóa hiện nay.</p>
-                        <p>Tuy nhiên, để làm nên một thương hiệu, đằng sau đó là câu chuyện và hành trình khởi nghiệp đầy gian nan của những người thành lập nên Đức Phúc GROUP.</p>
-                        <p>Nhận thấy vận tải là ngành tiềm năng bởi nhu cầu vận chuyển hàng hóa ngày càng cao của khách hàng, đặc biệt là vận chuyển hàng ngoại tỉnh, sau thời gian dài tìm hiểu và nghiên cứu thị trường, năm 2009 vận tải Đức Phúc GROUP  ra đời.</p>
-                        <p>Mặc dù tuổi đời chưa quá lâu, nhưng với đội ngũ nhân viên tận tình, quy trình vận hành hợp lý, khoa học,Đức Phúc GROUP dần dần khẳng định được vị trí, thương hiệu của mình trên thị trường. Đồng thời trở thành cái tên quen thuộc trong ngành vận tải đường bộ hiện nay.</p>
-                        <p>Xác định rõ nhân lực là điều quan trọng nhất quyết định đến thành công của doanh nghiệp, do đó Đức Phúc GROUP tập trung đầu tư, phát triển con người, xây dựng mô hình doanh nghiệp công bằng, đảm bảo quyền lợi cho các nhân viên.</p>
-                        <p>Với Đức Phúc GROUP, không có khoảng cách giữa ông chủ với người làm thuê. Mỗi cá nhân là một ông chủ nhỏ, mỗi thành viên là một tế bào, mắt xích quan trọng tạo nên bản thể công ty hoàn chỉnh.</p>
-                        <p>Bên cạnh đó, với đội ngũ nhân viên là các tài xế lành nghề, tận tâm, có kinh nghiệm lái xe nhiều năm và trách nhiệm cao trong giao nhận hàng hóa vận chuyển, vận tải, Đức Phúc GROUP luôn nhận được sự tín nhiệm từ khách hàng cũng như đơn vị đối tác.</p>
-                        <p>Quý khách hoàn toàn có thể yên tâm khi ủy thác nguồn tài sản của mình cho dịch vụ vận chuyển của chúng tôi. Bên cạnh đó, Đức Phúc GROUP còn có nhiều dịch vụ ưu đãi đi kèm và có trách nhiệm cao và xử lý tình huống nhanh chóng khi có sự cố bất ngờ.</p>
+                        <p>Công ty TNHH Đức Phúc được thành lập vào năm 2009 bởi ông Nguyễn Tiến Thành – người từng có nhiều năm kinh nghiệm làm tài xế vận chuyển hàng hóa tuyến Bắc – Nam. Từ những chuyến xe rong ruổi khắp dải đất hình chữ S, ông Thành nhận thấy rõ tiềm năng của ngành vận tải cũng như nhu cầu ngày càng cao về dịch vụ vận chuyển uy tín, đúng hẹn, và minh bạch.</p>
+                        <p>Bắt đầu với quy mô nhỏ, chỉ vài chuyến hàng mỗi tháng, ông Thành cùng cộng sự đã từng bước gây dựng thương hiệu Đức Phúc với phương châm: “Uy tín làm gốc, chất lượng làm đầu.” Trải qua không ít khó khăn, từ thiếu vốn, thiếu nhân lực đến cạnh tranh gay gắt, nhưng bằng sự kiên định và tinh thần làm nghề nghiêm túc, Đức Phúc từng bước khẳng định vị trí của mình trong ngành vận tải đường bộ.</p>
+                        <p>Nhận thấy vận tải là ngành tiềm năng bởi nhu cầu vận chuyển hàng hóa ngày càng cao của khách hàng, đặc biệt là vận chuyển hàng ngoại tỉnh, sau thời gian dài tìm hiểu và nghiên cứu thị trường, năm 2009 vận tải Đức Phúc ra đời.</p>
+                        <p>Dù tuổi đời còn chưa quá dài, nhưng bằng sự tận tâm của đội ngũ nhân sự, quy trình vận hành khoa học, cùng đội tài xế nhiều năm kinh nghiệm, Đức Phúc đã trở thành địa chỉ tin cậy của nhiều khách hàng và đối tác trên khắp cả nước..</p>
+                        <p>Hiện nay, Đức Phúc chuyên cung cấp dịch vụ vận chuyển hàng hóa nội địa, bốc dỡ, giao nhận trọn gói… đặc biệt trên các tuyến Bắc – Trung – Nam. Với sự tận tâm, trách nhiệm và tinh thần cầu thị, Đức Phúc không chỉ là một đơn vị vận tải, mà còn là người bạn đồng hành đáng tin cậy của khách hàng trên mỗi chặng đường phát triển.</p>
+
 
                         <style>
                             #text-2724091919 {

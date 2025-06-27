@@ -27,7 +27,7 @@
         <div class="row"  id="row-1776800748">
             <div id="col-457810214" class="col small-12 large-12"  >
                 <div class="col-inner"  >
-                    <h2>Đăng kí tư vấn với Đức Phúc GROUP </h2>
+                    <h2>Đăng kí tư vấn với Đức Phúc </h2>
                 </div>
             </div>
 
@@ -90,9 +90,8 @@
                                     <div class="icon-box-text last-reset">
                                         <h3>Hotline tư vấn</h3>
                                         <p>
-                                            091 355 56 61 <br/>
-                                            0925.745789 (Anh Vũ)<br/>
-                                            058.55555.68 (Tuấn Anh)
+                                            0913.555.661 (Anh Thành)<br/>
+                                            0933.652.299 (Em Hiếu)<br/>
                                         </p>
                                     </div>
                                 </div>
@@ -111,7 +110,7 @@
 
                                         <h3>Văn phòng<br />
                                         </h3>
-                                        <p>SN 14 ngõ 13 Đường Lý Thường Kiệt, <br>
+                                        <p>Lô 38-D3, Khu TĐC Đồng Lôi, Phường Kỳ Bá <br>
                                             Thành Phố Thái Bình
                                         </p>
                                     </div>
