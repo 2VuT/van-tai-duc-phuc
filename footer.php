@@ -32,7 +32,7 @@
                             <div class="icon-box-img" style="width: 20px">
                                 <div class="icon">
                                     <div class="icon-inner" >
-                                        <img width="13" height="19" src="../wp-content/uploads/2024/06/Asset-3.svg" class="attachment-medium size-medium" alt="" decoding="async" loading="lazy" />
+                                        <img width="13" height="19" src="/wp-content/uploads/2024/06/Asset-3.svg" class="attachment-medium size-medium" alt="" decoding="async" loading="lazy" />
                                     </div>
                                 </div>
                             </div>
@@ -51,7 +51,7 @@
                             <div class="icon-box-img" style="width: 20px">
                                 <div class="icon">
                                     <div class="icon-inner" >
-                                        <img width="15" height="15" src="../wp-content/uploads/2024/06/Asset-4.svg" class="attachment-medium size-medium" alt="" decoding="async" loading="lazy" />					</div>
+                                        <img width="15" height="15" src="/wp-content/uploads/2024/06/Asset-4.svg" class="attachment-medium size-medium" alt="" decoding="async" loading="lazy" />					</div>
                                 </div>
                             </div>
                             <div class="icon-box-text last-reset">
@@ -214,7 +214,7 @@
                         </div>
                         <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_461878477">
                             <a class="" href="https://www.facebook.com/profile.php?id=100085271244289" target="_blank" rel="noopener" >						<div class="img-inner dark" >
-                                    <img width="343" height="335" src="../wp-content/uploads/2025/06/fanpage.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" sizes="auto, (max-width: 343px) 100vw, 343px" />
+                                    <img width="343" height="335" src="/wp-content/uploads/2025/06/fanpage.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" sizes="auto, (max-width: 343px) 100vw, 343px" />
                                 </div>
                             </a>
                             <style>
