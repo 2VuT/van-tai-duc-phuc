@@ -277,7 +277,7 @@
                         </div>
                     </div>
                     <div class="icon-box-text last-reset">
-                        <p class="hotline">Hotline<br /><span style="font-size: 120%;" data-text-color="secondary"><strong> 0925. 745789 </strong></span></p>
+                        <p class="hotline">Hotline<br /><span style="font-size: 120%;" data-text-color="secondary"><strong> 0913.555.661 </strong></span></p>
                     </div>
                 </div>
             </li><li class="html header-button-1">

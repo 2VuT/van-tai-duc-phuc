@@ -402,7 +402,6 @@
                             </li>
                             <li class="nav-icon has-icon">
                                 <a href="#" data-open="#main-menu" data-pos="right" data-bg="main-menu-overlay" data-color="" class="is-small" aria-label="Menu" aria-controls="main-menu" aria-expanded="false">
-
                                     <i class="icon-menu" ></i>
                                 </a>
                             </li>
@@ -413,5 +412,6 @@
 
             </div>
 
-            <div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div>		</div>
+            <div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div>
+        </div>
     </header>
