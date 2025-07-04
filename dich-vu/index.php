@@ -64,14 +64,14 @@
                                 <div class="box box-text-bottom box-blog-post has-hover">
                                     <div class="box-image" >
                                         <div class="image-cover" style="padding-top:56%;">
-                                            <a href="/dich-vu/van-tai-bac-nam/" class="plain" aria-label="Vận tải Bắc Nam">
+                                            <a href="/dich-vu/van-tai-bac-nam/" class="plain" aria-label="Vận tải Bắc - Trung -  Nam">
                                                 <img width="1020" height="721" src="../wp-content/uploads/2025/07/474701267_593898310127318_3967759383286446098_n.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://vantaiducphuc.com/wp-content/uploads/2025/07/474701267_593898310127318_3967759383286446098_n.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2025/07/474701267_593898310127318_3967759383286446098_n.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2025/07/474701267_593898310127318_3967759383286446098_n.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2025/07/474701267_593898310127318_3967759383286446098_n.jpg 1500w" sizes="auto, (max-width: 1020px) 100vw, 1020px" />							</a>
                                         </div>
                                     </div>
                                     <div class="box-text text-left" >
                                         <div class="box-text-inner blog-post-inner">
                                             <h5 class="post-title is-large ">
-                                                <a href="/dich-vu/van-tai-bac-nam/" class="plain">Vận tải Bắc Nam</a>
+                                                <a href="/dich-vu/van-tai-bac-nam/" class="plain">Vận tải Bắc - Trung - Nam</a>
                                             </h5>
                                             <div class="is-divider"></div>
                                             <p class="from_the_blog_excerpt ">

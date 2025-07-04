@@ -6,7 +6,7 @@
 
 
         <div class="container">
-            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="../..">Trang chủ</a><span class="separator"> &nbsp;/&nbsp; </span><a href="..">Dịch vụ</a><span class="separator"> &nbsp;/&nbsp; </span><span class="last">Vận chuyển hàng đi các khu CN</span></p></nav></div>
+            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="../..">Trang chủ</a><span class="separator"> &nbsp;/&nbsp; </span><a href="..">Dịch vụ</a><span class="separator"> &nbsp;/&nbsp; </span><span class="last">DỊCH VỤ GIAO NHẬN – KÝ GỬI HÀNG HÓA TOÀN QUỐC</span></p></nav></div>
 
         <div class="row row-small ">
 
@@ -18,13 +18,13 @@
                     <div class="article-inner ">
                         <header class="entry-header">
                             <div class="entry-header-text entry-header-text-top text-left">
-                                <h1 class="entry-title">Vận chuyển hàng đi các khu CN</h1><div class="entry-divider is-divider small"></div>
+                                <h1 class="entry-title">DỊCH VỤ GIAO NHẬN – KÝ GỬI HÀNG HÓA TOÀN QUỐC</h1><div class="entry-divider is-divider small"></div>
                             </div>
                         </header>
                         <div class="entry-content single-page">
 
-                            <p>Không chỉ là doanh nghiệp vận tải chuyên về vận chuyển hàng hoá đường bộ, hiện nay đơn vị vận tải chúng tôi còn cung cấp các dịch vụ vận chuyển chuyên nghiệp, chất lượng khác như: cho thuê xe cẩu, cho thuê xe cẩu, cho thuê xe nâng, xe cứu hộ, Garage,…</p>
-                            <p>Với đội ngũ nhân viên tận tâm, được đào tạo chuyên nghiệp cùng với hệ thống bãi xe trải dài các tỉnh, các đội xe lớn, hiện đại, phục vụ nhanh chóng 24/7. <strong>Vận tải Đức Phúc</strong> cam kết phát huy tốt giá trị cốt lõi của mình để mang đến cho Quý khách hàng các dịch vụ tốt nhất. Từ đó “Vững chắc niềm tin – Hợp tác lâu dài”.</p>
+                            <p> <strong>Công ty TNHH Đức Phúc</strong>tự hào cung cấp dịch vụ <strong> giao nhận – ký gửi hàng hóa Bắc – Trung – Nam </strong> với quy trình chuyên nghiệp, mạng lưới vận hành rộng khắp và giá cả cạnh tranh. Dù quý khách có nhu cầu gửi hàng lẻ, hàng nguyên kiện, hay vận chuyển theo lô định kỳ, chúng tôi luôn sẵn sàng phục vụ với tinh thần trách nhiệm và tận tâm.</p>
+                            <p>Với đội ngũ nhân viên tận tâm, được đào tạo chuyên nghiệp cùng với hệ thống bãi xe trải dài các tỉnh, các đội xe lớn, hiện đại, phục vụ nhanh chóng 24/7.</p>
                             <table class="events-table" border="5" width="1099">
                                 <tbody>
                                 <tr>
@@ -37,7 +37,7 @@
                                 </tr>
                                 <tr>
                                     <td>✅ Đáp ứng xe nhanh</td>
-                                    <td>⭐ Đáp ứng xe sau 30 phút chốt xe đặt xe, nhanh chóng, an toàn, đúng thông tin xe đã đăng ký</td>
+                                    <td>⭐ Nhanh chóng điều phối phương tiện sau khi chốt đơn, đảm bảo an toàn</td>
                                 </tr>
                                 <tr>
                                     <td>✅ Uy tín &amp; Chuyên nghiệp</td>
@@ -47,237 +47,35 @@
                             </table>
                             <h2>Hình ảnh cung cấp dịch vụ vận chuyển hàng hoá cho khách hàng</h2>
                             <p><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-1311" src="../../wp-content/uploads/2024/08/6c364f94aaef0eb157fe92-225x300.jpg" alt="" width="225" height="300" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/08/6c364f94aaef0eb157fe92-225x300.jpg 225w, https://vantaiducphuc.com/wp-content/uploads/2024/08/6c364f94aaef0eb157fe92-768x1024.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/08/6c364f94aaef0eb157fe92.jpg 960w" sizes="(max-width: 225px) 100vw, 225px" /><img decoding="async" class="alignnone size-medium wp-image-1292" src="../../wp-content/uploads/2024/08/46a41918f7ae52f00bbf65-225x300.jpg" alt="" width="225" height="300" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/08/46a41918f7ae52f00bbf65-225x300.jpg 225w, https://vantaiducphuc.com/wp-content/uploads/2024/08/46a41918f7ae52f00bbf65-768x1024.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/08/46a41918f7ae52f00bbf65.jpg 960w" sizes="(max-width: 225px) 100vw, 225px" /> <img decoding="async" class="alignnone size-medium wp-image-1297" src="../../wp-content/uploads/2024/08/a21553d85769f237ab7850-225x300.jpg" alt="" width="225" height="300" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/08/a21553d85769f237ab7850-225x300.jpg 225w, https://vantaiducphuc.com/wp-content/uploads/2024/08/a21553d85769f237ab7850-768x1024.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/08/a21553d85769f237ab7850.jpg 960w" sizes="(max-width: 225px) 100vw, 225px" /> <img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-1311" src="../../wp-content/uploads/2024/08/6c364f94aaef0eb157fe92-225x300.jpg" alt="" width="225" height="300" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/08/6c364f94aaef0eb157fe92-225x300.jpg 225w, https://vantaiducphuc.com/wp-content/uploads/2024/08/6c364f94aaef0eb157fe92-768x1024.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/08/6c364f94aaef0eb157fe92.jpg 960w" sizes="(max-width: 225px) 100vw, 225px" /> <img loading="lazy" decoding="async" class="alignnone size-medium wp-image-1300" src="../../wp-content/uploads/2024/08/ba9b900a94bb31e568aa61-300x225.jpg" alt="" width="300" height="225" srcset="https://vantaiducphuc.com/wp-content/uploads/2024/08/ba9b900a94bb31e568aa61-300x225.jpg 300w, https://vantaiducphuc.com/wp-content/uploads/2024/08/ba9b900a94bb31e568aa61-1024x768.jpg 1024w, https://vantaiducphuc.com/wp-content/uploads/2024/08/ba9b900a94bb31e568aa61-768x576.jpg 768w, https://vantaiducphuc.com/wp-content/uploads/2024/08/ba9b900a94bb31e568aa61.jpg 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
-                            <p>Vận chuyển hàng hóa là xương sống cho sự phát triển của nền kinh tế thị trường nói chung và các doanh nghiệp nói riêng. Nhận thấy nhu cầu cần thuê xe, vận chuyển hàng hóa của các doanh nghiệp ngày một lớn. Chúng tôi trân trọng giới thiệu dịch vụ vận chuyển hàng hóa uy tín, chuyên nghiệp. Với đội ngũ tài xế chuyên nghiệp, cùng với sự đầu tư lớn và luôn đổi mới về phương tiện vận chuyển, thiết bị hiện đại, chúng tôi sẽ mang đến cho quý khách hàng một dịch vụ chất lượng, vận chuyển an toàn, giao hàng nhanh chóng mà giá cả cạnh tranh, hợp lý nhất thị trường, góp phần nâng cao tính cạnh tranh cho quý doanh nghiệp. Đến với dịch vụ của <strong>Vận tải Đức Phúc</strong> bạn sẽ hài lòng!</p>
-                            <h2>Bảng giá vận chuyển hàng hoá tốt nhất thị trường</h2>
-                            <h3>1. Bảng giá vận chuyển hàng hoá bằng xe tải</h3>
-                            <table border="16" width="544">
-                                <thead>
-                                <tr>
-                                    <th><strong>Trọng tải chở hàng (Tấn)</strong></th>
-                                    <th><strong>Giá thuê xe theo chuyến</strong></th>
-                                    <th><strong>Giá thuê xe theo tháng</strong></th>
-                                    <th>Giá thuê xe theo năm</th>
-                                </tr>
-                                </thead>
-                                <tbody>
-                                <tr>
-                                    <td>Xe tải 2 tấn</td>
-                                    <td>Liên hệ</td>
-                                    <td>20 &#8211; 60 triệu</td>
-                                    <td>Liên hệ</td>
-                                </tr>
-                                <tr>
-                                    <td>Xe tải 2.5 tấn</td>
-                                    <td>Liên hệ</td>
-                                    <td>25 &#8211;  70 triệu</td>
-                                    <td>Liên hệ</td>
-                                </tr>
-                                <tr>
-                                    <td>Xe tải 3.5 tấn</td>
-                                    <td>Liên hệ</td>
-                                    <td>30 &#8211; 75 triệu</td>
-                                    <td>Liên hệ</td>
-                                </tr>
-                                <tr>
-                                    <td>Xe tải 5 tấn</td>
-                                    <td>Liên hệ</td>
-                                    <td>40 &#8211; 80 triệu</td>
-                                    <td>Liên hệ</td>
-                                </tr>
-                                <tr>
-                                    <td>Xe tải 8 tấn</td>
-                                    <td>Liên hệ</td>
-                                    <td>45 &#8211; 85 triệu</td>
-                                    <td>Liên hệ</td>
-                                </tr>
-                                <tr>
-                                    <td>Xe tải 10 tấn</td>
-                                    <td>Liên hệ</td>
-                                    <td>50 &#8211; 90 triệu</td>
-                                    <td>Liên hệ</td>
-                                </tr>
-                                <tr>
-                                    <td>Xe tải 15 tấn</td>
-                                    <td>Liên hệ</td>
-                                    <td>55 &#8211; 95 triệu</td>
-                                    <td>Liên hệ</td>
-                                </tr>
-                                <tr>
-                                    <td>Xe tải 18 tấn</td>
-                                    <td>Liên hệ</td>
-                                    <td>55 &#8211; 100 triệu</td>
-                                    <td>Liên hệ</td>
-                                </tr>
-                                <tr>
-                                    <td>Đầu kéo 32 tấn</td>
-                                    <td>Liên hệ</td>
-                                    <td>60 &#8211; 110 triệu</td>
-                                    <td>Liên hệ</td>
-                                </tr>
-                                </tbody>
-                            </table>
-                            <h3></h3>
-                            <h3>2. Bảng giá vận chuyển hàng hoá bằng xe cẩu</h3>
-                            <table border="16" width="541">
-                                <thead>
-                                <tr>
-                                    <th scope="colgroup">Loại hình xe cẩu</th>
-                                    <th scope="colgroup">Giá thuê theo chuyến/theo ca</th>
-                                    <th scope="colgroup">Giá thuê theo tháng</th>
-                                    <th scope="colgroup">Giá thuê theo năm</th>
-                                </tr>
-                                </thead>
-                                <tbody>
-                                <tr>
-                                    <td>Xe cẩu 2.5 tấn</td>
-                                    <td>Liên hệ</td>
-                                    <td>30 &#8211; 70 triệu</td>
-                                    <td>Liên hệ</td>
-                                </tr>
-                                <tr>
-                                    <td>Xe cẩu 3.5 tấn</td>
-                                    <td>Liên hệ</td>
-                                    <td>40 &#8211; 80 triệu</td>
-                                    <td>Liên hệ</td>
-                                </tr>
-                                <tr>
-                                    <td>Xe cẩu 8 tấn</td>
-                                    <td>Liên hệ</td>
-                                    <td>70 &#8211; 110 triệu</td>
-                                    <td>Liên hệ</td>
-                                </tr>
-                                <tr>
-                                    <td>Xe cẩu 15 tấn</td>
-                                    <td>Liên hệ</td>
-                                    <td>80 &#8211; 120 triệu</td>
-                                    <td>Liên hệ</td>
-                                </tr>
-                                <tr>
-                                    <td>Xe đầu kéo cẩu</td>
-                                    <td>Liên hệ</td>
-                                    <td>90 &#8211; 160 triệu</td>
-                                    <td>Liên hệ</td>
-                                </tr>
-                                <tr>
-                                    <td>Xe cẩu Kato chuyên dụng</td>
-                                    <td>Liên hệ</td>
-                                    <td>Liên hệ</td>
-                                    <td>Liên hệ</td>
-                                </tr>
-                                </tbody>
-                            </table>
-                            <h2>Vận tải Đức Phúc vận chuyển hàng hoá gì?</h2>
+                            <p>Vận chuyển hàng hóa là xương sống cho sự phát triển của nền kinh tế thị trường nói chung và các doanh nghiệp nói riêng. Nhận thấy nhu cầu cần thuê xe, vận chuyển hàng hóa của các doanh nghiệp ngày một lớn. Chúng tôi trân trọng giới thiệu dịch vụ vận chuyển hàng hóa uy tín, chuyên nghiệp. Với đội ngũ tài xế chuyên nghiệp, cùng với sự đầu tư lớn và luôn đổi mới về phương tiện vận chuyển, thiết bị hiện đại, chúng tôi sẽ mang đến cho quý khách hàng một dịch vụ chất lượng, vận chuyển an toàn, giao hàng nhanh chóng mà giá cả cạnh tranh, hợp lý nhất thị trường, góp phần nâng cao tính cạnh tranh cho quý doanh nghiệp. Đến với dịch vụ của <strong>Công ty TNHH Đức Phúc</strong> bạn sẽ hài lòng!</p>
+                            <h2>Lý do nên lựa chọn dịch vụ ký gửi – giao nhận của Đức Phúc</h2>
+                            <li> Tiếp nhận hàng nhanh chóng – giao nhận tận nơi: Xe chạy mỗi ngày từ TP.HCM đến Hà Nội, các tỉnh miền Trung, Tây Nguyên và ngược lại. Đảm bảo tiến độ, không giam hàng lâu tại kho.</li>
+                            <li>Linh hoạt theo khối lượng và đặc thù hàng hóa: Nhận từ 1 kiện hàng nhỏ đến hàng cồng kềnh, thiết bị máy móc, hàng sự kiện…</li>
+                            <li>Hỗ trợ đóng gói – kiểm đếm: Cam kết hàng hóa rõ ràng nguồn gốc, kiểm soát và truy xuất dễ dàng.</li>
+                            <li>Thủ tục đơn giản – giao dịch minh bạch: Ký hợp đồng rõ ràng, biên nhận đầy đủ. Có hỗ trợ hóa đơn cho khách hàng.</li>
+                            <li>Hệ thống xe tải, xe nâng – xe cẩu hỗ trợ bốc xếp: Giúp tiết kiệm thời gian, hạn chế rủi ro trong quá trình giao – nhận.</li>
+                            <h2>Dịch vụ phù hợp với:</h2>
                             <ul>
-                                <li>Vận chuyển hàng tiêu dùng</li>
-                                <li>Vận chuyển hàng hoá chất</li>
+                                <li>Cá nhân gửi hàng hóa liên tỉnh.</li>
+                                <li>Shop online, nhà phân phối cần gửi hàng đều đặn.</li>
                                 <li>Vận chuyển dầu nhớt</li>
-                                <li>Vận chuyển bao bì, vải, sợi</li>
-                                <li>Vận chuyển túi giấy carton</li>
+                                <li>Doanh nghiệp có hệ thống đại lý cần luân chuyển hàng nhanh.</li>
+                                <li>Công trình – dự án – chương trình tổ chức sự kiện cần vận chuyển vật tư.</li>
                                 <li>Vận chuyển sắt thép, VLXD</li>
                             </ul>
+                            <h3>Ưu điểm nổi bật:</h3>
                             <ul>
-                                <li>Vận chuyển hàng may mặc</li>
-                                <li>Vận chuyển hàng hoá xuất nhập khẩu</li>
-                                <li>Vận chuyển máy móc công nghiệp</li>
-                                <li>Vận chuyển hàng siêu trường siêu trọng</li>
+                                <li>Xe xuất bến mỗi ngày, lịch trình cố định, không để hàng tồn.</li>
+                                <li>Nhận hàng tại kho, giao tận nơi theo nhu cầu.</li>
+                                <li>Giá cước cạnh tranh – tính linh hoạt theo quãng đường và loại hàng.</li>
+                                <li>Hỗ trợ ký gửi 2 chiều và trung chuyển khu công nghiệp.</li>
                                 <li>Vận chuyển dọn kho bãi, nhà  xưởng</li>
-                                <li>Xem thêm các loại hàng hoá khác</li>
+                                <li>Có kho lưu hàng tạm miễn phí trong thời gian chờ giao.</li>
                             </ul>
-                            <h2>Đơn vị vận tải hàng hoá uy tín tại Sài Gòn</h2>
-                            <p><strong>Vận tải Đức Phúc</strong> được đánh giá là một trong những công ty vận tải uy tín tại Sài Gòn liên tục trong các năm qua. Chúng tôi luôn cung cấp các dịch vụ vận tải uy tín, chuyên nghiệp với đội ngũ nhân viên tận tâm, tài xế lái xe giàu kinh nghiệm cùng với số lượng xe, trang thiết bị hiện đại. Trong tương lai, <strong>Vận tải Đức Phúc</strong> mong muốn tiếp tục phát huy tốt giá trị cốt lõi của mình để vươn lên trở thành một trong những doanh nghiệp vận tải hàng đầu Việt Nam.</p>
-                            <h2>Dịch vụ vận chuyển hàng hoá tại các Quận Huyện Tp Hồ Chí Minh</h2>
-                            <ul>
-                                <li>Dịch vụ vận chuyển hàng hoá Quận 1</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Quận 2</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Quận 3</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Quận 4</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Quận 5</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Quận 6</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Quận 7</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Quận 8</li>
-                            </ul>
-                            <ul>
-                                <li>Dịch vụ vận chuyển hàng hoá Quận 9</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Quận 10</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Quận 11</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Quận 12</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Quận Tân Phú</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Quận Tân Bình</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Quận Bình Tân</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Quận Bình Thạnh</li>
-                            </ul>
-                            <ul>
-                                <li>Dịch vụ vận chuyển hàng hoá Tp Thủ Đức</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Phú Nhuận</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Quận Gò Vấp</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Huyện Bình Chánh</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Huyện Hóc Môn</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Huyện Củ Chi</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Huyện Nhà Bè</li>
-                                <li>Dịch vụ vận chuyển hàng hoá Huyện Cần Giờ</li>
-                            </ul>
-                            <h2>Công ty vận chuyển hàng hoá Bắc Nam 24/7</h2>
-                            <ul>
-                                <li>Vận chuyển hàng hoá Bắc Nam</li>
-                                <li>Vận chuyển hàng hoá các tỉnh miền Đồng Nam Bộ</li>
-                                <li>Vận chuyển hàng hoá nội thành TpHCM</li>
-                                <li>Vận chuyển hàng hoá đi Bình Dương</li>
-                                <li>Vận chuyển hàng hoá đi Đồng Nai</li>
-                                <li>Vận chuyển hàng hoá đi Bà Rịa Vũng Tàu</li>
-                                <li>Vận chuyển hàng hoá đi Bình Phước</li>
-                                <li>Vận chuyển hàng hoá đi Tây Ninh</li>
-                                <li>Vận chuyển hàng hoá đi Long An</li>
-                                <li>Vận chuyển hàng hoá đi Cần Thơ</li>
-                                <li>Vận chuyển hàng hoá đi Cà Mau</li>
-                                <li>Vận chuyển hàng hoá đi Vĩnh Long</li>
-                                <li>Vận chuyển hàng hoá đi Bạc Liêu</li>
-                                <li>Vận chuyển hàng hoá đi Hậu Giang</li>
-                            </ul>
-                            <ul>
-                                <li>Vận chuyển hàng hoá đi An Giang</li>
-                                <li>Vận chuyển hàng hoá đi Phú Quốc</li>
-                                <li>Vận chuyển hàng hoá đi Kiên Giang</li>
-                                <li>Vận chuyển hàng hoá đi Tiền Giang</li>
-                                <li>Vận chuyển hàng hoá đi Sóc Trăng</li>
-                                <li>Vận chuyển hàng hoá đi Bến Tre</li>
-                                <li>Vận chuyển hàng hoá đi Đồng Tháp</li>
-                                <li>Vận chuyển hàng hoá đi Trà Vinh</li>
-                                <li>Vận chuyển hàng hoá đi Đà Nẵng</li>
-                                <li>Vận chuyển hàng hoá đi Huế</li>
-                                <li>Vận chuyển hàng hoá đi Bình Thuận</li>
-                                <li>Vận chuyển hàng hoá đi Ninh Thuận</li>
-                                <li>Vận chuyển hàng hoá đi Phú Yên</li>
-                                <li>Vận chuyển hàng hoá đi Bình Định</li>
-                            </ul>
-                            <ul>
-                                <li>Vận chuyển hàng hoá đi Quảng Ngãi</li>
-                                <li>Vận chuyển hàng hoá đi Quảng Nam</li>
-                                <li>Vận chuyển hàng hoá đi Quảng Trị</li>
-                                <li>Vận chuyển hàng hoá đi Quảng Bình</li>
-                                <li>Vận chuyển hàng hoá đi Hà Tĩnh</li>
-                                <li>Vận chuyển hàng hoá đi Nghệ An</li>
-                                <li>Vận chuyển hàng hoá đi Thanh Hoá</li>
-                                <li>Vận chuyển hàng hoá đi Khánh Hoà</li>
-                                <li>Vận chuyển hàng hoá đi Hà Nội</li>
-                                <li>Vận chuyển hàng hoá đi Ninh Bình</li>
-                                <li>Vận chuyển hàng hoá đi Bắc Ninh</li>
-                                <li>Vận chuyển hàng hoá đi Hải Phòng</li>
-                                <li>Vận chuyển hàng hoá đi Quảng Ninh</li>
-                                <li>Vận chuyển hàng hoá đi Hải Dương</li>
-                            </ul>
-                            <h2>Lợi ích khi sử dụng dịch vụ của chúng tôi</h2>
-                            <p>Quý khách hàng khi đăng ký sử dụng dịch vụ vận chuyển hàng hóa tại <strong>Vận tải Đức Phúc</strong>, chúng tôi luôn cam kết:</p>
-                            <ul>
-                                <li>Khách hàng được tư vấn lựa chọn giải pháp thuê xe, vận chuyển hàng hóa phù hợp với khối lượng hàng hóa thực tế của khách hàng.</li>
-                                <li>Cam kết đảm bảo an toàn hàng hóa, bao bọc cẩn thận khi vận chuyển.</li>
-                                <li>Chúng tôi liên tục cập nhập tiến trình vận chuyển bằng định vị GPS trong suốt quá trình cho khách hàng.</li>
-                                <li>Luôn đưa mức giá dịch vụ thuê xe hợp lý, tiết kiệm chi phí cho khách hàng.</li>
-                                <li>Đội ngũ nhân viên tư vấn, tài xế nhiệt tình, được đào tạo chuyên môn nghiệp vụ, có tinh thần trách nhiệm cao và giàu kinh nghiệm thực tế.</li>
-                                <li>Số lượng xe nhiều, chúng tôi sẵn sàn đáp ứng khi khách hàng có nhu cầu sử dụng dịch vụ, phục vụ 24/24h và đặc biệt là gọi 30 phút có xe ngay.</li>
-                                <li>Chính sách hậu mãi cho khách hàng tốt, luôn lắng nghe những phản hồi từ phía khách hàng để ngày càng nâng cao chất lượng dịch vụ vận chuyển của công ty.</li>
-                            </ul>
+                            <p><strong>Công ty TNHH Đức Phúc</strong> được tự tin là một trong những công ty vận tải uy tín tại trong các năm qua. Chúng tôi luôn cung cấp các dịch vụ vận tải uy tín, chuyên nghiệp với đội ngũ nhân viên tận tâm, tài xế lái xe giàu kinh nghiệm cùng với số lượng xe, trang thiết bị hiện đại. Trong tương lai, <strong>Đức Phúc</strong> mong muốn tiếp tục phát huy tốt giá trị cốt lõi của mình để vươn lên trở thành một trong những doanh nghiệp vận tải hàng đầu.</p>
+                            
                             <h2>Cách thức liên hệ đặt xe vận chuyển hàng hoá nhanh nhất</h2>
-                            <p>Để biết thêm thông tin chi tiết về dịch vụ vận chuyển hàng hóa của chúng tôi, cũng như báo giá cước, cách thức đặt xe tải vận chuyển hàng hãy liên hệ ngay Hotline <strong>0945111507</strong>, để được nhân viên tư vấn chăm sóc khách hàng của chúng tôi tư vấn và hỗ trợ.</p>
+                            <p>Quý khách có thể theo dõi trạng thái đơn hàng qua bộ phận CSKH hoặc tổng đài 24/7 Hotline/Zalo <strong>0913.555.661 – 0933.652.299</strong>, để được nhân viên tư vấn chăm sóc khách hàng của chúng tôi tư vấn và hỗ trợ.</p>
                             <p>Chúng tôi cung cấp dịch vụ 24/24 làm việc xuyên suốt 7 ngày trong tuần, với lực lượng tổng đài viên chuyên nghiệp, sẵn sàng tư vấn mọi lúc mọi nơi, đảm bảo đáp ứng mọi nhu cầu của quý khách hàng. Nhân viên công ty sẽ nhận thông tin vận chuyển của bạn và tư vấn lựa chọn loại xe phù hợp, báo giá nhanh chóng, chính xác, sau khi thống nhất các điều khoản về thời gian thuê, giá cả, tiếp nhận thông tin giao nhận hàng thì chúng tôi sẽ cung cấp phương tiện vận chuyển hàng hoá cho bạn theo đúng thoả thuận.</p>
 
 
