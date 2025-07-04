@@ -213,7 +213,8 @@
                             </style>
                         </div>
                         <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_461878477">
-                            <a class="" href="https://www.facebook.com/profile.php?id=100085271244289" target="_blank" rel="noopener" >						<div class="img-inner dark" >
+                            <a class="" href="https://www.facebook.com/profile.php?id=100085271244289" target="_blank" rel="noopener" >
+                                <div class="img-inner dark" >
                                     <img width="343" height="335" src="/wp-content/uploads/2025/06/fanpage.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" sizes="auto, (max-width: 343px) 100vw, 343px" />
                                 </div>
                             </a>
@@ -256,18 +257,18 @@
     <div class="sidebar-menu no-scrollbar ">
         <ul class="nav nav-sidebar nav-vertical nav-uppercase" data-tab="1">
             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-22 current_page_item menu-item-1111"><a href="/" aria-current="page">Trang chủ</a></li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1110"><a href="gioi-thieu">Giới thiệu</a></li>
-            <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1113"><a href="dich-vu">Dịch vụ</a>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1110"><a href="/gioi-thieu">Giới thiệu</a></li>
+            <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1113"><a href="/dich-vu">Dịch vụ</a>
                 <ul class="sub-menu nav-sidebar-ul children">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1171"><a href="dich-vu/van-tai-bac-nam">Vận tải Bắc Nam</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1170"><a href="dich-vu/van-chuyen-hang-di-cac-khu-cn">Vận chuyển hàng đi các khu CN</a></li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1169"><a href="dich-vu/van-tai-hang-le-hang-ghep-hang-bao-xe">Vận tải hàng lẻ, hàng ghép, hàng bao xe</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1171"><a href="/dich-vu/van-tai-bac-nam">Vận tải Bắc Nam</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1170"><a href="/dich-vu/van-chuyen-hang-di-cac-khu-cn">Vận chuyển hàng đi các khu CN</a></li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1169"><a href="/dich-vu/van-tai-hang-le-hang-ghep-hang-bao-xe">Vận tải hàng lẻ, hàng ghép, hàng bao xe</a></li>
                 </ul>
             </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1116"><a href="bang-gia">Bảng giá</a></li>
-            <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1112"><a href="tin-tuc">Tin tức</a></li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1109"><a href="lien-he">Liên hệ</a></li>
-            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1508"><a target="_blank" rel="noopener" href="wp-content/uploads/2025/05/Hai-Dang-Group-5.5.pdf">Hồ sơ năng lực</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1116"><a href="/bang-gia">Bảng giá</a></li>
+            <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1112"><a href="/tin-tuc">Tin tức</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1109"><a href="/lien-he">Liên hệ</a></li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1508"><a target="_blank" rel="noopener" href="#">Hồ sơ năng lực</a></li>
             <li class="html custom html_top_right_text">
                 <div class="icon-box featured-box icon-box-left text-left"  >
                     <div class="icon-box-img" style="width: 42px">
